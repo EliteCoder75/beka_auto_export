@@ -167,65 +167,21 @@ async function initVehiclesPage() {
 // ===== PAGE OCCASIONS =====
 async function initOccasionsPage() {
     const gridExport = document.getElementById('vehiclesGridExport');
-    const gridFrance = document.getElementById('vehiclesGridFrance');
-    if (!gridExport && !gridFrance) return;
+    if (!gridExport) return;
 
-    let exportVehicles = [], franceVehicles = [];
+    let exportVehicles = [];
     try {
-        [exportVehicles, franceVehicles] = await Promise.all([
-            getAllVehicles('export'),
-            getAllVehicles('france')
-        ]);
-    } catch { exportVehicles = []; franceVehicles = []; }
+        exportVehicles = await getAllVehicles('export');
+    } catch { exportVehicles = []; }
 
-    // Mettre à jour les compteurs
-    const countExport = document.getElementById('count-export');
-    const countFrance = document.getElementById('count-france');
-    if (countExport) countExport.textContent = exportVehicles.length;
-    if (countFrance) countFrance.textContent = franceVehicles.length;
+    renderVehicleGrid(gridExport, exportVehicles);
+    initFiltersOccasions(exportVehicles, gridExport);
 
-    if (gridExport) renderVehicleGrid(gridExport, exportVehicles);
-    if (gridFrance) renderVehicleGrid(gridFrance, franceVehicles);
-
-    // Onglets + mise à jour du resultsCount au changement de tab
-    initTabs();
-
-    // Filtres
-    initFiltersOccasions([...exportVehicles, ...franceVehicles], gridExport, gridFrance);
-
-    // Afficher le count initial du tab actif
-    updateOccasionsCount();
-}
-
-function getActiveTab() {
-    const activeBtn = document.querySelector('.tab-btn.active');
-    return activeBtn ? activeBtn.dataset.tab : 'export';
-}
-
-function initTabs() {
-    const tabBtns = document.querySelectorAll('.tab-btn');
-    tabBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            tabBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            const tab = btn.dataset.tab;
-            document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
-            const content = document.getElementById(`tab-content-${tab}`);
-            if (content) content.classList.add('active');
-            // Mettre à jour le resultsCount pour l'onglet actif
-            updateOccasionsCount();
-        });
-    });
-}
-
-function updateOccasionsCount() {
     const countEl = document.getElementById('resultsCount');
-    if (!countEl) return;
-    const activeTab = getActiveTab();
-    const countEl2 = document.getElementById(`count-${activeTab}`);
-    const n = countEl2 ? parseInt(countEl2.textContent, 10) || 0 : 0;
-    const label = activeTab === 'export' ? 'Export' : 'France';
-    countEl.innerHTML = `<span class="results-count-number">${n}</span><span class="results-count-text"> véhicule${n > 1 ? 's' : ''} ${label} trouvé${n > 1 ? 's' : ''}</span>`;
+    if (countEl) {
+        const n = exportVehicles.length;
+        countEl.innerHTML = `<span class="results-count-number">${n}</span><span class="results-count-text"> véhicule${n > 1 ? 's' : ''} Export trouvé${n > 1 ? 's' : ''}</span>`;
+    }
 }
 
 function renderVehicleGrid(grid, vehicles) {
@@ -340,7 +296,7 @@ function initFilters(allVehicles, grid) {
 }
 
 // ===== FILTRES OCCASIONS =====
-function initFiltersOccasions(allVehicles, gridExport, gridFrance) {
+function initFiltersOccasions(allVehicles, gridExport) {
     const brandInput = document.getElementById('filterBrand');
     const maxKm      = document.getElementById('filterMaxKm');
     const minPrice   = document.getElementById('filterMinPrice');
@@ -361,19 +317,13 @@ function initFiltersOccasions(allVehicles, gridExport, gridFrance) {
         if (maxPrice && maxPrice.value) filtered = filtered.filter(v => (v.price || 0) <= Number(maxPrice.value));
         if (fuelSelect && fuelSelect.value) filtered = filtered.filter(v => v.fuel === fuelSelect.value);
 
-        const exportVehicles = filtered.filter(v => v.categorie === 'export');
-        const franceVehicles = filtered.filter(v => v.categorie === 'france');
+        if (gridExport) renderVehicleGrid(gridExport, filtered);
 
-        const countExport = document.getElementById('count-export');
-        const countFrance = document.getElementById('count-france');
-        if (countExport) countExport.textContent = exportVehicles.length;
-        if (countFrance) countFrance.textContent = franceVehicles.length;
-
-        if (gridExport) renderVehicleGrid(gridExport, exportVehicles);
-        if (gridFrance) renderVehicleGrid(gridFrance, franceVehicles);
-
-        // Afficher le count du tab actif seulement
-        updateOccasionsCount();
+        const countEl = document.getElementById('resultsCount');
+        if (countEl) {
+            const n = filtered.length;
+            countEl.innerHTML = `<span class="results-count-number">${n}</span><span class="results-count-text"> véhicule${n > 1 ? 's' : ''} Export trouvé${n > 1 ? 's' : ''}</span>`;
+        }
     };
 
     [brandInput, maxKm, minPrice, maxPrice, fuelSelect].forEach(el => {
