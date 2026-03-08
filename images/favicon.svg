@@ -1,22 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a3a5c"/>
-      <stop offset="100%" style="stop-color:#0f2033"/>
+      <stop offset="0%" style="stop-color:#1a1a1a"/>
+      <stop offset="100%" style="stop-color:#0d0d0d"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#d4b85a"/>
-      <stop offset="100%" style="stop-color:#c8a951"/>
+    <linearGradient id="red" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e02020"/>
+      <stop offset="100%" style="stop-color:#9b0000"/>
     </linearGradient>
   </defs>
-  <!-- Background square with rounded corners -->
+  <!-- Background -->
   <rect width="64" height="64" rx="10" ry="10" fill="url(#bg)"/>
-  <!-- Gold accent bar at bottom -->
-  <rect x="0" y="52" width="64" height="4" rx="2" fill="url(#gold)"/>
-  <!-- Gold accent bar at top -->
-  <rect x="0" y="8" width="64" height="3" rx="1.5" fill="url(#gold)" opacity="0.6"/>
-  <!-- Letter A (left) white -->
-  <text x="7" y="46" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="900" fill="#ffffff" letter-spacing="-1">A</text>
-  <!-- Letter A (right) in gold -->
-  <text x="32" y="46" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="900" fill="url(#gold)" letter-spacing="-1">A</text>
+  <!-- Red accent bar at bottom -->
+  <rect x="8" y="54" width="48" height="3" rx="1.5" fill="url(#red)"/>
+  <!-- Letter B white -->
+  <text x="10" y="47" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="900" fill="#ffffff">B</text>
+  <!-- Small red dot accent -->
+  <circle cx="50" cy="18" r="5" fill="url(#red)"/>
 </svg>
