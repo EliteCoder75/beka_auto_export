@@ -128,7 +128,7 @@ function buildVehiclesData() {
 
     // Générer le contenu du fichier
     const fileContent = `/**
- * ACSONE AUTOMOBILES - Données des véhicules
+ * BEKA AUTO EXPORT - Données des véhicules
  * Généré automatiquement depuis les fichiers CMS
  * Dernière génération: ${new Date().toLocaleString('fr-FR')}
  *

@@ -1,5 +1,5 @@
 /**
- * AUTO EXPORT - Styles pages Véhicules
+ * BEKA AUTO EXPORT - Styles pages Véhicules
  */
 
 /* ===== TABS (occasions) ===== */
@@ -57,7 +57,7 @@
     height: 24px;
     padding: 0 0.5rem;
     background: var(--accent-color);
-    color: #0a0a0a;
+    color: #ffffff;
     font-size: 0.72rem;
     font-weight: 700;
     border-radius: 50px;
@@ -169,7 +169,7 @@
 }
 
 select.filter-input {
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23c88a1a' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23e02020' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
     background-repeat: no-repeat;
     background-position: right 0.75rem center;
     background-size: 16px;
@@ -275,8 +275,8 @@ select.filter-input {
     z-index: 2;
 }
 
-.vc-badge.neuf { background: var(--accent-color); color: #0a0a0a; }
-.vc-badge.export { background: var(--accent-color); color: #0a0a0a; }
+.vc-badge.neuf { background: var(--accent-color); color: #ffffff; }
+.vc-badge.export { background: var(--accent-color); color: #ffffff; }
 .vc-badge.france { background: #2e5fa3; color: #fff; }
 .vc-badge.occasion { background: #3a7bd5; color: #fff; }
 
@@ -573,8 +573,8 @@ select.filter-input {
     letter-spacing: 0.04em;
 }
 
-.vd-badge.neuf { background: var(--accent-color); color: #0a0a0a; }
-.vd-badge.export { background: var(--accent-color); color: #0a0a0a; }
+.vd-badge.neuf { background: var(--accent-color); color: #ffffff; }
+.vd-badge.export { background: var(--accent-color); color: #ffffff; }
 .vd-badge.france { background: #2e5fa3; color: #fff; }
 .vd-badge.occasion { background: #3a7bd5; color: #fff; }
 .vd-badge.stock { background: rgba(34,197,94,0.2); color: #22c55e; border: 1px solid rgba(34,197,94,0.4); }

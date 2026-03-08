@@ -1,5 +1,5 @@
 /**
- * AUTO EXPORT — Script principal
+ * BEKA AUTO EXPORT — Script principal
  */
 
 // ===== MODAL (index) =====
@@ -142,7 +142,7 @@ function buildVehicleCard(v) {
             <div class="vehicle-card-price">${v.price ? Number(v.price).toLocaleString('fr-FR') + ' €' : 'Prix sur demande'}</div>
             <div class="vehicle-card-actions">
                 <a href="${detailUrl}" class="btn btn-outline-gold">Voir détail</a>
-                <a href="https://wa.me/33602159385?text=${waText}" class="btn btn-wa" target="_blank" rel="noopener" title="WhatsApp">
+                <a href="https://wa.me/33770048806?text=${waText}" class="btn btn-wa" target="_blank" rel="noopener" title="WhatsApp">
                     <i class="fab fa-whatsapp"></i>
                 </a>
             </div>
@@ -235,7 +235,7 @@ function renderVehicleGrid(grid, vehicles) {
             <i class="fas fa-car"></i>
             <h3>Aucun véhicule disponible</h3>
             <p>De nouveaux véhicules arrivent bientôt.<br>Contactez-nous pour connaître notre stock.</p>
-            <a href="https://wa.me/33602159385" class="btn btn-whatsapp" target="_blank" rel="noopener">
+            <a href="https://wa.me/33770048806" class="btn btn-whatsapp" target="_blank" rel="noopener">
                 <i class="fab fa-whatsapp"></i> Nous contacter
             </a>
         </div>`;
@@ -267,7 +267,7 @@ function buildCatalogueCard(v) {
         : '';
 
     const detailUrl = `vehicule-detail.html?id=${v.id}&categorie=${v.categorie}`;
-    const waText = encodeURIComponent(`Bonjour AUTO EXPORT, je suis intéressé(e) par le véhicule :\n${v.brand} ${v.model} ${v.year || ''} (réf. ${v.id})\n\nPouvez-vous me donner plus d'informations ?`);
+    const waText = encodeURIComponent(`Bonjour BEKA AUTO EXPORT, je suis intéressé(e) par le véhicule :\n${v.brand} ${v.model} ${v.year || ''} (réf. ${v.id})\n\nPouvez-vous me donner plus d'informations ?`);
 
     const actions = isVendu
         ? `<span class="btn btn-outline-gold" style="opacity:.4;cursor:default;pointer-events:none;width:100%;justify-content:center;text-align:center;">Non disponible</span>`
@@ -413,7 +413,7 @@ async function initVehicleDetailPage() {
             return;
         }
 
-        document.title = `${vehicle.brand} ${vehicle.model} — AUTO EXPORT`;
+        document.title = `${vehicle.brand} ${vehicle.model} — BEKA AUTO EXPORT`;
         const breadcrumbTitle = document.getElementById('breadcrumbTitle');
         const breadcrumbType  = document.getElementById('breadcrumbType');
         if (breadcrumbTitle) breadcrumbTitle.textContent = `${vehicle.brand} ${vehicle.model}`;
@@ -441,8 +441,8 @@ async function initVehicleDetailPage() {
 
         // CTA WhatsApp dynamic
         const ctaWa = document.getElementById('ctaWhatsapp');
-        const waText = encodeURIComponent(`Bonjour AUTO EXPORT, je suis intéressé(e) par le véhicule :\n${vehicle.brand} ${vehicle.model} ${vehicle.year || ''} (réf. ${vehicle.id})\n\nPouvez-vous me donner plus d'informations ?`);
-        if (ctaWa) ctaWa.href = `https://wa.me/33602159385?text=${waText}`;
+        const waText = encodeURIComponent(`Bonjour BEKA AUTO EXPORT, je suis intéressé(e) par le véhicule :\n${vehicle.brand} ${vehicle.model} ${vehicle.year || ''} (réf. ${vehicle.id})\n\nPouvez-vous me donner plus d'informations ?`);
+        if (ctaWa) ctaWa.href = `https://wa.me/33770048806?text=${waText}`;
 
         const isVendu = vehicle.disponibilite === 'vendu';
 
@@ -466,16 +466,16 @@ async function initVehicleDetailPage() {
 
         const detailActions = isVendu ? `
         <div class="vd-actions">
-            <a href="https://wa.me/33602159385?text=${encodeURIComponent('Bonjour AUTO EXPORT, le véhicule ' + vehicle.brand + ' ' + vehicle.model + ' ' + (vehicle.year || '') + ' est vendu. Avez-vous un modèle similaire disponible ?')}" class="btn btn-whatsapp" target="_blank" rel="noopener">
+            <a href="https://wa.me/33770048806?text=${encodeURIComponent('Bonjour BEKA AUTO EXPORT, le véhicule ' + vehicle.brand + ' ' + vehicle.model + ' ' + (vehicle.year || '') + ' est vendu. Avez-vous un modèle similaire disponible ?')}" class="btn btn-whatsapp" target="_blank" rel="noopener">
                 <i class="fab fa-whatsapp"></i> Voir les véhicules similaires
             </a>
         </div>` : `
         <div class="vd-actions">
-            <a href="https://wa.me/33602159385?text=${waText}" class="btn btn-whatsapp" target="_blank" rel="noopener">
+            <a href="https://wa.me/33770048806?text=${waText}" class="btn btn-whatsapp" target="_blank" rel="noopener">
                 <i class="fab fa-whatsapp"></i> Demander par WhatsApp
             </a>
-            <a href="tel:+33602159385" class="btn btn-phone">
-                <i class="fas fa-phone"></i> 06 02 15 93 85
+            <a href="tel:+33770048806" class="btn btn-phone">
+                <i class="fas fa-phone"></i> 07 70 04 88 06
             </a>
         </div>`;
 

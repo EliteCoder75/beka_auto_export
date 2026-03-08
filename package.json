@@ -1,7 +1,7 @@
 {
   "name": "auto-export",
   "version": "1.0.0",
-  "description": "Site web AUTO EXPORT — Achat, Vente, Reprise, Dépôt-Vente, Export Maghreb",
+  "description": "Site web BEKA AUTO EXPORT — Achat, Vente, Reprise, Dépôt-Vente, Export Maghreb",
   "scripts": {
     "build": "node scripts/copy-vehicles.js",
     "sync": "node scripts/sync-vehicles.js"

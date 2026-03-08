@@ -1,5 +1,5 @@
 /**
- * ACSONE AUTOMOBILES - Vehicle Detail Page Script
+ * BEKA AUTO EXPORT - Vehicle Detail Page Script
  * Displays detailed information about a specific vehicle
  */
 
@@ -163,8 +163,8 @@ async function loadVehicleDetail() {
 function displayVehicleDetail(vehicle) {
     // Set page title
     const title = `${vehicle.brand} ${vehicle.model}${vehicle.finition ? ' ' + vehicle.finition : ''}`;
-    document.getElementById('pageTitle').textContent = `${title} - ACSONE AUTOMOBILES`;
-    document.title = `${title} - ACSONE AUTOMOBILES`;
+    document.getElementById('pageTitle').textContent = `${title} - BEKA AUTO EXPORT`;
+    document.title = `${title} - BEKA AUTO EXPORT`;
 
     // Set breadcrumb
     document.getElementById('breadcrumbTitle').textContent = title;

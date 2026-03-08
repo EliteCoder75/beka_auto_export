@@ -1,5 +1,5 @@
 /**
- * AUTO EXPORT — Script de build
+ * BEKA AUTO EXPORT — Script de build
  * Copie _vehicules/ dans la fonction Netlify
  */
 
@@ -10,7 +10,7 @@ const FUNCTION_DIR = path.join(__dirname, '../netlify/functions/vehicles');
 const SOURCE_DIR   = path.join(__dirname, '../_vehicules');
 const DEST_DIR     = path.join(FUNCTION_DIR, '_vehicules');
 
-console.log('📋 AUTO EXPORT — Copie des véhicules vers la fonction Netlify...\n');
+console.log('📋 BEKA AUTO EXPORT — Copie des véhicules vers la fonction Netlify...\n');
 
 if (!fs.existsSync(SOURCE_DIR)) {
     console.log('⚠️  _vehicules/ introuvable — ignoré.');
