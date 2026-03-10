@@ -141,10 +141,7 @@ function buildVehicleCard(v) {
             </div>
             <div class="vehicle-card-price">${v.price ? Number(v.price).toLocaleString('fr-FR') + ' €' : 'Prix sur demande'}</div>
             <div class="vehicle-card-actions">
-                <a href="${detailUrl}" class="btn btn-outline-gold">Voir détail</a>
-                <a href="https://wa.me/33770048806?text=${waText}" class="btn btn-wa" target="_blank" rel="noopener" title="WhatsApp">
-                    <i class="fab fa-whatsapp"></i>
-                </a>
+                <a href="${detailUrl}" class="btn btn-outline-gold" style="width:100%;justify-content:center;">Voir détail</a>
             </div>
         </div>
     </div>`;
