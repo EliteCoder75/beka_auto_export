@@ -702,6 +702,10 @@ select.filter-input {
     .tab-btn { text-align: left; justify-content: flex-start; border-bottom: none; border-left: 3px solid transparent; }
     .tab-btn.active { border-left-color: var(--accent-color); border-bottom-color: transparent; }
     .vd-specs { grid-template-columns: 1fr 1fr; }
+    .vc-img { height: 170px; }
+    .vc-title { font-size: 0.95rem; }
+    .vc-price { font-size: 1.15rem; }
+    .vc-body { padding: 1rem; }
 }
 
 @media (max-width: 480px) {
