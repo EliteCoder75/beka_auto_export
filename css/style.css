@@ -181,6 +181,11 @@ body:not(.page-index) .logo img { opacity: 1; visibility: visible; }
     backdrop-filter: blur(6px);
 }
 .hero-trust-badge i { color: var(--accent-color); }
+.hero-arabic-text {
+    font-size: 1.15rem; font-weight: 700; color: rgba(255,255,255,0.85);
+    direction: rtl; font-family: 'Segoe UI', Tahoma, Arial, sans-serif;
+    letter-spacing: 0.02em; margin: 0; text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+}
 
 /* Title block */
 .hero-title-block { display: flex; flex-direction: column; align-items: center; gap: 0.9rem; }
