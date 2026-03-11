@@ -647,8 +647,12 @@ textarea.form-control { min-height: 140px; resize: vertical; }
     .hero-headline { font-size: 1.45rem; }
     .hero-headline-sub { font-size: 1rem; }
     .hero-trust-badge { font-size: 0.75rem; padding: 0.3rem 0.75rem; }
-    .hero-cta-cards-row { flex-direction: column; gap: 0.5rem; }
-    .hero-cta-card { padding: 0.75rem 1rem; }
+    .hero-cta-cards-row { flex-direction: column; gap: 0.35rem; }
+    .hero-cta-card { padding: 0.45rem 0.75rem; border-radius: 8px; }
+    .hero-cta-card-icon { width: 26px; height: 26px; font-size: 0.72rem; border-radius: 6px; }
+    .hero-cta-card-title { font-size: 0.78rem; }
+    .hero-cta-card-sub { font-size: 0.62rem; }
+    .btn-cta-whatsapp { display: none; }
     .hero-pill { font-size: 0.72rem; padding: 0.3rem 0.65rem; }
     .hero-stats-bar { flex-direction: column; gap: 1.25rem; padding: 1.5rem; }
     .hero-stat-divider { width: 40px; height: 1px; }
