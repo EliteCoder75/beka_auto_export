@@ -428,11 +428,13 @@ body:not(.page-index) .logo img { opacity: 1; visibility: visible; }
 .stars { color: #fbbf24; font-size: 1.1rem; display: flex; gap: 0.2rem; }
 .review-count { font-size: 0.84rem; color: var(--text-light); }
 .write-review-btn {
-    display: inline-block; padding: 0.65rem 1.5rem;
-    background: var(--accent-color); color: #ffffff; font-weight: 700;
+    display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.65rem 1.5rem;
+    background: #fff; color: #333; font-weight: 700;
     font-size: 0.88rem; border-radius: 50px; transition: var(--transition-normal);
+    text-decoration: none;
 }
-.write-review-btn:hover { background: #c01010; }
+.write-review-btn i { color: #4285F4; }
+.write-review-btn:hover { background: #f1f1f1; color: #333; }
 .reviews-carousel-container { overflow: hidden; }
 .reviews-carousel { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
 .review-card {
