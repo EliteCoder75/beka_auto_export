@@ -437,6 +437,7 @@ async function initVehicleDetailPage() {
         <div class="vd-price"${isVendu ? ' style="color:var(--text-muted);text-decoration:line-through;"' : ''}>${vehicle.price ? Number(vehicle.price).toLocaleString('fr-FR') + ' €' : 'Prix sur demande'}</div>
         <div class="vd-specs">
             ${vehicle.year ? `<div class="vd-spec-item"><label>Année</label><span>${vehicle.year}</span></div>` : ''}
+            ${vehicle.circulation_date ? `<div class="vd-spec-item"><label>Mise en circulation</label><span>${vehicle.circulation_date}</span></div>` : ''}
             ${vehicle.fuel ? `<div class="vd-spec-item"><label>Carburant</label><span>${vehicle.fuel}</span></div>` : ''}
             ${vehicle.transmission ? `<div class="vd-spec-item"><label>Boîte</label><span>${vehicle.transmission}</span></div>` : ''}
             ${vehicle.motor ? `<div class="vd-spec-item"><label>Moteur</label><span>${vehicle.motor}</span></div>` : ''}
@@ -444,8 +445,8 @@ async function initVehicleDetailPage() {
             ${vehicle.interior_color ? `<div class="vd-spec-item"><label>Couleur int.</label><span>${vehicle.interior_color}</span></div>` : ''}
             ${kmRow}
         </div>
-        ${detailActions}
-        ${vehicle.desc ? `<div class="vd-desc"><h4>Description</h4><p>${vehicle.desc}</p></div>` : ''}`;
+        ${vehicle.desc ? `<div class="vd-options"><h4>Options</h4><ul>${vehicle.desc.split('\n').filter(l => l.trim()).map(l => `<li>${l.trim()}</li>`).join('')}</ul></div>` : ''}
+        ${detailActions}`;
 
     } catch (err) {
         infoCard.innerHTML = '<p style="color:var(--text-light);padding:2rem;">Impossible de charger ce véhicule.</p>';

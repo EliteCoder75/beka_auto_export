@@ -660,6 +660,44 @@ select.filter-input {
     margin-bottom: 0.5rem;
 }
 
+/* ===== OPTIONS DU VÉHICULE ===== */
+.vd-options {
+    border-top: 1px solid var(--border-color);
+    padding-top: 1.25rem;
+    margin-bottom: 1rem;
+}
+.vd-options h4 {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-white);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 0.75rem;
+}
+.vd-options ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+}
+.vd-options ul li {
+    font-size: 0.85rem;
+    color: var(--text-light);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.vd-options ul li::before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+    background: var(--accent-color);
+    flex-shrink: 0;
+}
+
 /* ===== LOADING SPINNER ===== */
 .loading-spinner {
     display: flex;

@@ -160,9 +160,9 @@
             </div>
 
             <div class="section-cta" id="seeAllBtn">
-                <a href="vehicules-neufs.html" class="btn btn-outline-gold">
+                <button onclick="document.getElementById('vehiclesModal').classList.add('active')" class="btn btn-outline-gold">
                     Voir tous les véhicules <i class="fas fa-arrow-right"></i>
-                </a>
+                </button>
             </div>
         </div>
     </section>
@@ -530,6 +530,28 @@
     <button class="scroll-top" id="scrollTop" aria-label="Retour en haut">
         <i class="fas fa-arrow-up"></i>
     </button>
+
+    <!-- Modal choix véhicules -->
+    <div id="vehiclesModal" class="vmodal" onclick="if(event.target===this)this.classList.remove('active')">
+        <div class="vmodal-box">
+            <button class="vmodal-close" onclick="document.getElementById('vehiclesModal').classList.remove('active')"><i class="fas fa-times"></i></button>
+            <h3 class="vmodal-title">Choisir une catégorie</h3>
+            <div class="vmodal-options">
+                <a href="vehicules-neufs.html" class="vmodal-option">
+                    <div class="vmodal-option-icon"><i class="fas fa-star"></i></div>
+                    <span class="vmodal-option-label">Véhicules Neufs</span>
+                    <span class="vmodal-option-sub">Export Maghreb · Toutes marques</span>
+                    <i class="fas fa-chevron-right vmodal-arrow"></i>
+                </a>
+                <a href="vehicules-occasions.html" class="vmodal-option vmodal-option--hot">
+                    <div class="vmodal-option-icon"><i class="fas fa-car"></i></div>
+                    <span class="vmodal-option-label">Véhicules d'Occasion</span>
+                    <span class="vmodal-option-sub">Moins de 3 ans · TN · DZ · MA</span>
+                    <i class="fas fa-chevron-right vmodal-arrow"></i>
+                </a>
+            </div>
+        </div>
+    </div>
 
     <script src="js/vehicles-api.js"></script>
     <script src="js/main.js"></script>

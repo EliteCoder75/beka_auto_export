@@ -597,6 +597,25 @@ body:not(.page-index) .logo img { opacity: 1; visibility: visible; }
 .form-control::placeholder { color: var(--text-muted); }
 textarea.form-control { min-height: 140px; resize: vertical; }
 
+/* ===== VEHICLES CHOICE MODAL ===== */
+.vmodal { position: fixed; inset: 0; background: rgba(0,0,0,0.80); z-index: 9999; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: opacity 0.25s ease, visibility 0.25s ease; backdrop-filter: blur(6px); }
+.vmodal.active { opacity: 1; visibility: visible; }
+.vmodal-box { background: var(--bg-card); border: 1px solid var(--border-accent); border-radius: 18px; padding: 2rem; width: 90%; max-width: 420px; position: relative; }
+.vmodal-close { position: absolute; top: 1rem; right: 1rem; width: 32px; height: 32px; border-radius: 50%; background: var(--bg-gray); border: 1px solid var(--border-color); color: var(--text-light); cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 0.85rem; transition: var(--transition-fast); }
+.vmodal-close:hover { background: var(--accent-light); border-color: var(--accent-color); color: var(--accent-color); }
+.vmodal-title { font-size: 1.15rem; font-weight: 700; color: var(--text-white); margin-bottom: 1.25rem; text-align: center; }
+.vmodal-options { display: flex; flex-direction: column; gap: 0.75rem; }
+.vmodal-option { display: flex; align-items: center; gap: 1rem; padding: 1rem 1.1rem; background: var(--bg-light); border: 1px solid var(--border-color); border-radius: 12px; text-decoration: none; transition: all 0.2s ease; }
+.vmodal-option:hover { border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.08); }
+.vmodal-option--hot { border-color: rgba(224,32,32,0.3); background: rgba(224,32,32,0.08); }
+.vmodal-option--hot:hover { border-color: var(--accent-color); background: rgba(224,32,32,0.15); }
+.vmodal-option-icon { width: 38px; height: 38px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; background: var(--accent-light); border-radius: 10px; color: var(--accent-color); font-size: 1rem; }
+.vmodal-option-label { font-size: 0.92rem; font-weight: 700; color: #fff; display: block; }
+.vmodal-option-sub { font-size: 0.72rem; color: rgba(255,255,255,0.45); display: block; margin-top: 0.1rem; }
+.vmodal-option > div:has(+ span) { flex: 0; }
+.vmodal-option > .vmodal-option-icon ~ span { flex: 1; }
+.vmodal-arrow { color: rgba(255,255,255,0.25); font-size: 0.75rem; margin-left: auto; }
+
 /* ===== MODAL ===== */
 .vehicle-modal { position: fixed; inset: 0; background: rgba(0,0,0,0.85); z-index: 9999; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: var(--transition-normal); backdrop-filter: blur(4px); }
 .vehicle-modal.active { opacity: 1; visibility: visible; }

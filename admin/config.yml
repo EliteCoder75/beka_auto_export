@@ -26,9 +26,6 @@ collections:
       - label: "Export — Moins de 3 ans"
         field: categorie
         pattern: "export"
-      - label: "Occasion France"
-        field: categorie
-        pattern: "france"
       - label: "En stock"
         field: disponibilite
         pattern: "stock"
@@ -53,12 +50,12 @@ collections:
         options:
           - {label: "Véhicule Neuf — Export Maghreb", value: "neuf"}
           - {label: "Occasion — Moins de 3 ans (Export Maghreb)", value: "export"}
-          - {label: "Occasion Classique — France", value: "france"}
       - {label: "ID", name: "id", widget: "string", hint: "Identifiant unique (ex: VN-001, VO-001)"}
       - {label: "Marque", name: "brand", widget: "string", hint: "Ex: Peugeot, Renault..."}
       - {label: "Modèle", name: "model", widget: "string", hint: "Ex: 208, Clio, Golf..."}
       - {label: "Finition", name: "finition", widget: "string", required: false, hint: "Ex: Allure, GT Line..."}
       - {label: "Année", name: "year", widget: "number", value_type: "int", min: 2010, max: 2028}
+      - {label: "Mois de mise en circulation", name: "circulation_date", widget: "string", required: false, hint: "Ex: 03/2023 — pour les véhicules d'occasion"}
       - {label: "Kilométrage", name: "kilometrage", widget: "number", value_type: "int", required: false, hint: "En km — laisser vide si véhicule neuf"}
       - label: "Transmission"
         name: "transmission"
@@ -66,7 +63,7 @@ collections:
         options:
           - {label: "Manuelle", value: "Manuelle"}
           - {label: "Automatique", value: "Automatique"}
-      - {label: "Moteur", name: "motor", widget: "string", required: false, hint: "Ex: 1.2 PureTech 130 CH"}
+      - {label: "Moteur", name: "motor", widget: "string", hint: "Ex: 1.2 PureTech 130 CH"}
       - label: "Carburant"
         name: "fuel"
         widget: "select"
@@ -75,7 +72,6 @@ collections:
           - {label: "Diesel", value: "Diesel"}
           - {label: "Électrique", value: "Électrique"}
           - {label: "Hybride", value: "Hybride"}
-          - {label: "Hybride Rechargeable", value: "Hybride Rechargeable"}
       - {label: "Couleur extérieure", name: "exterior_color", widget: "string", required: false}
       - {label: "Couleur intérieure", name: "interior_color", widget: "string", required: false}
       - {label: "Prix (€)", name: "price", widget: "number", value_type: "int"}
@@ -94,7 +90,7 @@ collections:
         required: false
         max: 20
         field: {label: "Photo", name: "image", widget: "image"}
-      - {label: "Description", name: "desc", widget: "text", required: false}
+      - {label: "Options du véhicule", name: "desc", widget: "text", required: false, hint: "Une option par ligne — ex: GPS, Caméra de recul, Toit panoramique..."}
 
   # =============================
   # Paramètres du site
