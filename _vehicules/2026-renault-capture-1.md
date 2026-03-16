@@ -1,11 +1,11 @@
 ---
-categorie: export
+categorie: neuf
 id: capture_gris
 brand: renault
 model: capture
 year: 2026
 transmission: Automatique
-motor: 1.3 tce 155 ch
+motor: "1.3 tce 155 "
 fuel: Essence
 exterior_color: gris metalisé
 interior_color: noir
