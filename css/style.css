@@ -551,6 +551,7 @@ body:not(.page-index) .logo img { opacity: 1; visibility: visible; }
 
 /* ===== SERVICES PAGE ===== */
 .services-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.75rem; }
+.services-grid--4col { grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
 .service-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; overflow: hidden; transition: var(--transition-normal); }
 .service-card:hover { border-color: var(--border-accent); box-shadow: var(--shadow-gold); transform: translateY(-4px); }
 .service-photo { height: 180px; background-size: cover; background-position: center; background-color: #222; position: relative; display: flex; align-items: flex-end; justify-content: flex-end; padding: 1rem; }
@@ -648,6 +649,7 @@ textarea.form-control { min-height: 140px; resize: vertical; }
     .testimonials-layout { grid-template-columns: 1fr; }
     .reviews-carousel { grid-template-columns: 1fr 1fr; }
     .services-grid { grid-template-columns: repeat(2, 1fr); }
+    .services-grid--4col { grid-template-columns: repeat(2, 1fr); }
     .values-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
@@ -692,6 +694,7 @@ textarea.form-control { min-height: 140px; resize: vertical; }
     .vehicles-grid { grid-template-columns: 1fr; }
     .services-home-grid { grid-template-columns: 1fr 1fr; }
     .services-grid { grid-template-columns: 1fr; }
+    .services-grid--4col { grid-template-columns: 1fr; }
     .values-grid { grid-template-columns: 1fr 1fr; }
     .contact-grid { grid-template-columns: 1fr; }
     .about-hero-grid { grid-template-columns: 1fr; }
