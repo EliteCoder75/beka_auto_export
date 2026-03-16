@@ -235,8 +235,8 @@ function buildCatalogueCard(v) {
             <span class="vc-dispo ${dispoClass}">${dispoLabel}</span>
         </div>
         <div class="vc-body">
-            <div class="vc-title">${v.brand} ${v.model}</div>
-            <div class="vc-sub">${v.year || ''} ${v.finition ? '· ' + v.finition : ''}</div>
+            <div class="vc-title">${v.brand} ${v.model}${v.finition ? ' ' + v.finition : ''}${v.motor ? ' ' + v.motor : ''}</div>
+            <div class="vc-sub">${v.year || ''}</div>
             <div class="vc-specs">
                 ${v.fuel ? `<span class="vc-spec"><i class="fas fa-gas-pump"></i> ${v.fuel}</span>` : ''}
                 ${v.transmission ? `<span class="vc-spec"><i class="fas fa-cog"></i> ${v.transmission}</span>` : ''}
