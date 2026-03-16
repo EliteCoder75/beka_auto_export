@@ -514,7 +514,8 @@ select.filter-input {
 .main-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    background: #111;
 }
 
 .thumbnail-gallery {

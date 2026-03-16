@@ -432,8 +432,8 @@ async function initVehicleDetailPage() {
             <span class="vd-badge ${badgeClass}">${badgeLabel}</span>
             <span class="vd-badge ${dispoClass}">${dispoLabel}</span>
         </div>
-        <div class="vd-title"${isVendu ? ' style="opacity:.6"' : ''}>${vehicle.brand} ${vehicle.model}</div>
-        ${vehicle.finition ? `<div class="vd-sub">${vehicle.finition}</div>` : ''}
+        <div class="vd-title"${isVendu ? ' style="opacity:.6"' : ''}>${vehicle.brand} ${vehicle.model}${vehicle.finition ? ' ' + vehicle.finition : ''}${vehicle.motor ? ' ' + vehicle.motor : ''}</div>
+        ${vehicle.year ? `<div class="vd-sub">${vehicle.year}</div>` : ''}
         <div class="vd-price"${isVendu ? ' style="color:var(--text-muted);text-decoration:line-through;"' : ''}>${vehicle.price ? Number(vehicle.price).toLocaleString('fr-FR') + ' €' : 'Prix sur demande'}</div>
         <div class="vd-specs">
             ${vehicle.year ? `<div class="vd-spec-item"><label>Année</label><span>${vehicle.year}</span></div>` : ''}
