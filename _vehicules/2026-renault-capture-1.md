@@ -12,7 +12,7 @@ interior_color: noir
 price: 19499
 destination: export
 finition: techno
-disponibilite: stock
+disponibilite: vendu
 image: images/photo-catalogue-site-internet-2.png
 gallery:
   - images/whatsapp-image-2026-03-08-at-19.09.45-5-.webp
