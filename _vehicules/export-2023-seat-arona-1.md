@@ -4,8 +4,8 @@ id: arona_gris
 brand: seat
 model: arona
 finition: style
-year: 2023
-kilometrage: 50000
+year: 2024
+kilometrage: 65000
 transmission: Automatique
 motor: 1.0 tsi 95 ch
 fuel: Essence
