@@ -18,4 +18,7 @@ gallery:
   - images/whatsapp-image-2026-03-08-at-19.09.45-5-.webp
   - images/whatsapp-image-2026-03-08-at-19.09.45-6-.webp
   - images/whatsapp-image-2026-03-08-at-19.09.46-1-.webp
+desc: |-
+  clim auto
+  boite automatique
 ---
