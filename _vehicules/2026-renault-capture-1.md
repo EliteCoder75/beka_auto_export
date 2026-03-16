@@ -5,7 +5,7 @@ brand: renault
 model: capture
 year: 2026
 transmission: Automatique
-motor: "1.3 tce 155 "
+motor: 1.3 tce
 fuel: Essence
 exterior_color: gris metalisé
 interior_color: noir
