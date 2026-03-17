@@ -21,5 +21,11 @@ gallery:
   - images/img_2076.jpeg
   - images/img_2069.jpeg
   - images/img_2065.jpeg
-  - images/img_2071.jpeg
+  - images/img_2083.jpeg
+  - images/img_2070-1-.jpeg
+  - images/img_2073.jpeg
+  - images/img_2082.jpeg
+  - images/img_2081.jpeg
+  - images/img_2085.jpeg
+  - images/capture-d’écran-2026-03-17-164104.png
 ---
