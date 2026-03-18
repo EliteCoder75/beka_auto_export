@@ -6,7 +6,7 @@ model: CAPTUR
 finition: TECHNO
 year: 2026
 transmission: Automatique
-motor: 1.3TCE155 CH
+motor: 1.3 TCE 155 CH
 fuel: Essence
 exterior_color: "GRIS SCHISTE "
 interior_color: "NOIR "
