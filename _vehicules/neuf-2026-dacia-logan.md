@@ -12,7 +12,7 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: 11200
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/whatsapp-image-2025-10-06-a-12.32.56_b367e1d0.jpg
 gallery:
   - images/img_2183.jpeg
   - images/img_2184.jpeg
