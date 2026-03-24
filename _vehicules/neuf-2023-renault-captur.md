@@ -4,7 +4,7 @@ id: VN-006
 brand: RENAULT
 model: "CAPTUR "
 finition: "TECHNO "
-year: 2023
+year: 2026
 kilometrage: 0
 transmission: Automatique
 motor: "1.5 TCE 155 CH "
