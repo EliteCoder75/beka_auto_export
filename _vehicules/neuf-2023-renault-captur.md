@@ -7,7 +7,7 @@ finition: "TECHNO "
 year: 2026
 kilometrage: 0
 transmission: Automatique
-motor: "1.5 TCE 155 CH "
+motor: "1.3 TCE 155 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
