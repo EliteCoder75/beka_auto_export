@@ -13,7 +13,7 @@ exterior_color: BLANC
 interior_color: NOIR
 price: 12900
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/site-catalogue-18-265x190.webp
 gallery:
   - images/img_0839.jpeg
   - images/img_0840.jpeg
