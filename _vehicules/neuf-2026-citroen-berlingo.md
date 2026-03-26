@@ -13,7 +13,7 @@ exterior_color: "BLEU VERT "
 interior_color: "NOIR "
 price: 21500
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/citroen-berlingo-multispace-2024-2026-1736760982.3627367-removebg-preview.png
 gallery:
   - images/img_0106.jpeg
   - images/img_0108.jpeg
