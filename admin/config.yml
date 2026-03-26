@@ -56,7 +56,7 @@ collections:
       - {label: "Finition", name: "finition", widget: "string", required: false, hint: "Ex: Allure, GT Line..."}
       - {label: "Année", name: "year", widget: "number", value_type: "int", min: 2010, max: 2028}
       - {label: "Mois de mise en circulation", name: "circulation_date", widget: "string", required: false, hint: "Ex: 03/2023 — pour les véhicules d'occasion"}
-      - {label: "Kilométrage", name: "kilometrage", widget: "number", value_type: "int", required: false, hint: "En km — laisser vide si véhicule neuf"}
+      - {label: "Kilométrage", name: "kilometrage", widget: "string", required: false, hint: "En km — chiffres uniquement, ex: 14000", pattern: ["^[0-9]*$", "Chiffres uniquement"]}
       - label: "Transmission"
         name: "transmission"
         widget: "select"
@@ -74,7 +74,7 @@ collections:
           - {label: "Hybride", value: "Hybride"}
       - {label: "Couleur extérieure", name: "exterior_color", widget: "string", required: false}
       - {label: "Couleur intérieure", name: "interior_color", widget: "string", required: false}
-      - {label: "Prix (€)", name: "price", widget: "number", value_type: "int"}
+      - {label: "Prix (€)", name: "price", widget: "string", hint: "Chiffres uniquement, ex: 19499", pattern: ["^[0-9]*$", "Chiffres uniquement"]}
       - label: "Disponibilité"
         name: "disponibilite"
         widget: "select"

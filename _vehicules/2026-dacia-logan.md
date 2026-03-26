@@ -12,6 +12,6 @@ price: 11799
 destination: export
 interior_color: noir
 disponibilite: stock
-image: images/whatsapp-image-2025-10-06-a-12.32.56_b367e1d0.jpg
+image: images/whatsapp-image-2025-10-06-a-12.32.56_b367e1d0.webp
 gallery: []
 ---

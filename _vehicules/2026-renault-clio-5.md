@@ -16,5 +16,5 @@ color_variants:
 destination: export
 interior_color: noir
 disponibilite: stock
-image: images/design-sans-titre-876x535.png
+image: images/design-sans-titre-876x535.webp
 ---

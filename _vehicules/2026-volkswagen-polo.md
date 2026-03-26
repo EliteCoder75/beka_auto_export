@@ -13,5 +13,5 @@ interior_color: noir
 price: 16499
 destination: export
 disponibilite: stock
-image: images/orange-black-and-white-photo-cars-for-men-instagram-post-2026-01-14t131115.321-876x535.jpg
+image: images/orange-black-and-white-photo-cars-for-men-instagram-post-2026-01-14t131115.321-876x535.webp
 ---
