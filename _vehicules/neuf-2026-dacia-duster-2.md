@@ -12,8 +12,8 @@ exterior_color: "VERT KAKI "
 interior_color: NOIR
 price: 18300
 disponibilite: stock
-image: images/design-sans-titre.png
+image: images/design-sans-titre.webp
 gallery:
-  - images/img_2199-1-.jpeg
-  - images/img_2200-1-.jpeg
+  - images/img_2199-1-.webp
+  - images/img_2200-1-.webp
 ---

@@ -12,18 +12,18 @@ exterior_color: "GRIS SCHISTE "
 interior_color: NOIR
 price: 19000
 disponibilite: stock
-image: images/renault-cap.jpg
+image: images/renault-cap.webp
 gallery:
-  - images/img_2062-1-.jpeg
-  - images/img_2063.jpeg
-  - images/img_2064.jpeg
-  - images/img_2075.jpeg
-  - images/img_2076.jpeg
-  - images/img_2065.jpeg
-  - images/img_2070-1-.jpeg
-  - images/img_2081.jpeg
-  - images/img_2069.jpeg
-  - images/img_2083.jpeg
-  - images/img_2082.jpeg
-  - images/img_2071.jpeg
+  - images/img_2062-1-.webp
+  - images/img_2063.webp
+  - images/img_2064.webp
+  - images/img_2075.webp
+  - images/img_2076.webp
+  - images/img_2065.webp
+  - images/img_2070-1-.webp
+  - images/img_2081.webp
+  - images/img_2069.webp
+  - images/img_2083.webp
+  - images/img_2082.webp
+  - images/img_2071.webp
 ---

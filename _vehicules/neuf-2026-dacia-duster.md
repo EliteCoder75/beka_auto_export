@@ -12,17 +12,17 @@ exterior_color: GRIS
 interior_color: NOIR
 price: 18300
 disponibilite: stock
-image: images/dark-red-minimalist-car-repair-service.jpg
+image: images/dark-red-minimalist-car-repair-service.webp
 gallery:
-  - images/img_2089-1-.jpeg
-  - images/img_2090-1-.jpeg
-  - images/img_2091-1-.jpeg
-  - images/img_2105.jpeg
-  - images/img_2106.jpeg
-  - images/img_2094.jpeg
-  - images/img_2092.jpeg
-  - images/img_2095.jpeg
-  - images/img_2096.jpeg
-  - images/img_2093.jpeg
-  - images/img_2099.jpeg
+  - images/img_2089-1-.webp
+  - images/img_2090-1-.webp
+  - images/img_2091-1-.webp
+  - images/img_2105.webp
+  - images/img_2106.webp
+  - images/img_2094.webp
+  - images/img_2092.webp
+  - images/img_2095.webp
+  - images/img_2096.webp
+  - images/img_2093.webp
+  - images/img_2099.webp
 ---

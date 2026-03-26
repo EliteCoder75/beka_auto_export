@@ -13,13 +13,13 @@ exterior_color: BEIGE
 interior_color: NOIR
 price: 18300
 disponibilite: stock
-image: images/design-sans-titre-1-.jpg
+image: images/design-sans-titre-1-.webp
 gallery:
-  - images/img_1110.jpeg
-  - images/img_1113.jpeg
-  - images/img_1115.jpeg
-  - images/img_1120.jpeg
-  - images/img_1119.jpeg
-  - images/img_1121.jpeg
-  - images/img_1122.jpeg
+  - images/img_1110.webp
+  - images/img_1113.webp
+  - images/img_1115.webp
+  - images/img_1120.webp
+  - images/img_1119.webp
+  - images/img_1121.webp
+  - images/img_1122.webp
 ---

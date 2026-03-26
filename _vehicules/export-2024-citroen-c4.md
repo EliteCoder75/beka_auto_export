@@ -14,14 +14,14 @@ exterior_color: GRIS SOURIS
 interior_color: NOIR
 price: 14300
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/design-sans-titre.webp
 gallery:
-  - images/img_1406.jpeg
-  - images/img_1409.jpeg
-  - images/img_1454-1-.jpeg
-  - images/img_1425.jpeg
-  - images/img_1414.jpeg
-  - images/img_1411-1-.jpeg
-  - images/img_1435.jpeg
-  - images/img_1432.jpeg
+  - images/img_1406.webp
+  - images/img_1409.webp
+  - images/img_1454-1-.webp
+  - images/img_1425.webp
+  - images/img_1414.webp
+  - images/img_1411-1-.webp
+  - images/img_1435.webp
+  - images/img_1432.webp
 ---

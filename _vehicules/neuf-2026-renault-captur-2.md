@@ -13,9 +13,9 @@ exterior_color: "BLEU "
 interior_color: "NOIR "
 price: 19400
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/design-sans-titre.webp
 gallery:
-  - images/img_2204.jpeg
-  - images/img_2207.jpeg
-  - images/img_2205.jpeg
+  - images/img_2204.webp
+  - images/img_2207.webp
+  - images/img_2205.webp
 ---
