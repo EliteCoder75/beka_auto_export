@@ -13,7 +13,7 @@ exterior_color: "BLEU "
 interior_color: "NOIR "
 price: 19400
 disponibilite: stock
-image: images/renault-capture-bleu.jpg
+image: images/renault-capture-bleu.webp
 gallery:
   - images/img_2204.webp
   - images/img_2207.webp
