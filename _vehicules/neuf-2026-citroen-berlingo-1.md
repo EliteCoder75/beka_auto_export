@@ -13,13 +13,13 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "21500"
 disponibilite: stock
-image: images/citroen-berlingo-xtr-gris.jpg
+image: images/citroen-berlingo-xtr-gris.webp
 gallery:
-  - images/img_1180-1-.jpeg
-  - images/img_1181-1-.jpeg
-  - images/img_1205.jpeg
-  - images/img_1201-1-.jpeg
-  - images/img_1194-1-.jpeg
-  - images/img_1200-1-.jpeg
-  - images/img_1186.jpeg
+  - images/img_1180-1-.webp
+  - images/img_1181-1-.webp
+  - images/img_1205.webp
+  - images/img_1201-1-.webp
+  - images/img_1194-1-.webp
+  - images/img_1200-1-.webp
+  - images/img_1186.webp
 ---
