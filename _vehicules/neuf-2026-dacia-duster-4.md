@@ -13,8 +13,8 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "17300"
 disponibilite: stock
-image: images/dacia-duster-journey-gris.jpg
+image: images/dacia-duster-journey-gris.webp
 gallery:
-  - images/img_2265.jpeg
-  - images/img_2267.jpeg
+  - images/img_2265.webp
+  - images/img_2267.webp
 ---
