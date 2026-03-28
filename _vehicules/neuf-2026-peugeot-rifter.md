@@ -13,12 +13,12 @@ exterior_color: "GRIS ARGENT "
 interior_color: "NOIR "
 price: "18900"
 disponibilite: stock
-image: images/peugoet-rifter-allure.jpg
+image: images/peugoet-rifter-allure.webp
 gallery:
-  - images/img_1267.jpeg
-  - images/img_1269.jpeg
-  - images/img_0976.jpeg
-  - images/img_0973.jpeg
-  - images/img_0970.jpeg
-  - images/img_0972.jpeg
+  - images/img_1267.webp
+  - images/img_1269.webp
+  - images/img_0976.webp
+  - images/img_0973.webp
+  - images/img_0970.webp
+  - images/img_0972.webp
 ---
