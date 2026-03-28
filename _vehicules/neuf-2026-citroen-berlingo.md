@@ -13,7 +13,7 @@ exterior_color: "BLEU VERT "
 interior_color: "NOIR "
 price: 21500
 disponibilite: stock
-image: images/berlingo-xtr-bleu.jpg
+image: images/berlingo-xtr-bleu.webp
 gallery:
   - images/img_0106.webp
   - images/img_0108.webp
