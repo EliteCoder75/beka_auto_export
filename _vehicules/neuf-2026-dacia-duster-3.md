@@ -13,7 +13,7 @@ exterior_color: BEIGE
 interior_color: NOIR
 price: 18300
 disponibilite: stock
-image: images/design-sans-titre-1-.webp
+image: images/dacia-duster-beige-ext.jpg
 gallery:
   - images/img_1110.webp
   - images/img_1113.webp
