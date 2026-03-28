@@ -15,11 +15,11 @@ price: "16400"
 disponibilite: stock
 image: images/clio-5-esprit-alpine.webp
 gallery:
-  - images/img_1143.jpeg
-  - images/img_1144.jpeg
-  - images/img_1145.jpeg
-  - images/img_1149.jpeg
-  - images/img_1156.jpeg
-  - images/img_1153.jpeg
-  - images/img_1157.jpeg
+  - images/img_1143.webp
+  - images/img_1144.webp
+  - images/img_1145.webp
+  - images/img_1149.webp
+  - images/img_1156.webp
+  - images/img_1153.webp
+  - images/img_1157.webp
 ---
