@@ -13,7 +13,7 @@ exterior_color: NOIR
 interior_color: NOIR
 price: 19400
 disponibilite: stock
-image: images/renault-capture-noir.jpg
+image: images/renault-capture-noir.webp
 gallery:
   - images/img_2196.webp
   - images/img_2195.webp
