@@ -13,7 +13,7 @@ exterior_color: BLANC
 interior_color: NOIR
 price: 12900
 disponibilite: stock
-image: images/clio-5-evolution.jpg
+image: images/clio-5-evolution.webp
 gallery:
   - images/img_0839.webp
   - images/img_0840.webp
