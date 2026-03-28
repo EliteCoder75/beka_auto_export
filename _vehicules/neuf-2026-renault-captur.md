@@ -12,7 +12,7 @@ exterior_color: "GRIS SCHISTE "
 interior_color: NOIR
 price: 19000
 disponibilite: stock
-image: images/renault-capture-gris-schiste.jpg
+image: images/renault-capture-gris-schiste.webp
 gallery:
   - images/img_2062-1-.webp
   - images/img_2063.webp
