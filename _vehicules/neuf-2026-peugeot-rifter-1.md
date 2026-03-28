@@ -13,5 +13,5 @@ exterior_color: "NOIR "
 interior_color: NOIR
 price: "18900"
 disponibilite: stock
-image: images/peugeot-rifter-allure-noir.jpg
+image: images/peugeot-rifter-allure-noir.webp
 ---
