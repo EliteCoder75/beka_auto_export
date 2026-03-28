@@ -14,7 +14,7 @@ exterior_color: GRIS SOURIS
 interior_color: NOIR
 price: 14300
 disponibilite: stock
-image: images/c4-max.jpg
+image: images/c4-max.webp
 gallery:
   - images/img_1406.webp
   - images/img_1409.webp
