@@ -546,7 +546,7 @@ select.filter-input {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    image-orientation: from-image;
+    image-orientation:flip;
 }
 
 /* Vehicle Info Card */
