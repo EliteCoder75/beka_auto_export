@@ -29,7 +29,8 @@ def run():
 
         before = os.path.getsize(src) // 1024
 
-        img = Image.open(src).convert('RGB')
+        from PIL import ImageOps
+        img = ImageOps.exif_transpose(Image.open(src)).convert('RGB')
         img.save(dst, 'WEBP', quality=85)
         os.remove(src)
 
