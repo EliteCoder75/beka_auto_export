@@ -14,16 +14,16 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "26500"
 disponibilite: stock
-image: images/cupra-ateca.jpg
+image: images/cupra-ateca.webp
 gallery:
   - images/img_1513.jpeg
-  - images/img_1250.jpeg
-  - images/img_2403.jpeg
-  - images/img_2405.jpeg
-  - images/img_2404.jpeg
-  - images/img_1237.jpeg
-  - images/img_1247.jpeg
-  - images/img_1237.jpeg
-  - images/img_1244.jpeg
-  - images/img_1241.jpeg
+  - images/img_1250.webp
+  - images/img_2403.webp
+  - images/img_2405.webp
+  - images/img_2404.webp
+  - images/img_1237.webp
+  - images/img_1247.webp
+  - images/img_1237.webp
+  - images/img_1244.webp
+  - images/img_1241.webp
 ---
