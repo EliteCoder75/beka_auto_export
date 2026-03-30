@@ -14,12 +14,12 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "13900"
 disponibilite: stock
-image: images/clio-5-techno.jpg
+image: images/clio-5-techno.webp
 gallery:
-  - images/img_0540.jpeg
-  - images/img_0536.jpeg
-  - images/img_0538.jpeg
-  - images/img_0539.jpeg
-  - images/img_0537.jpeg
-  - images/img_0533.jpeg
+  - images/img_0540.webp
+  - images/img_0536.webp
+  - images/img_0538.webp
+  - images/img_0539.webp
+  - images/img_0537.webp
+  - images/img_0533.webp
 ---
