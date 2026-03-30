@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BEKA AUTO — Correction des rotations</title>
+  <style>
+    :root {
+      --bg: #0f0f0f;
+      --surface: #1a1a1a;
+      --border: #2a2a2a;
+      --accent: #e63946;
+      --text: #f1f1f1;
+      --muted: #888;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: system-ui, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* ── LOGIN ── */
+    #login-screen {
+      display: flex; flex-direction: column; align-items: center;
+      justify-content: center; min-height: 100vh; gap: 1rem; padding: 2rem;
+    }
+    #login-screen h1 { font-size: 1.4rem; }
+    #login-screen p  { color: var(--muted); font-size: 0.85rem; text-align: center; max-width: 420px; }
+    #token-input {
+      width: 100%; max-width: 420px; padding: 0.75rem 1rem;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 8px; color: var(--text); font-size: 0.9rem; outline: none;
+    }
+    #token-input:focus { border-color: var(--accent); }
+    #login-btn {
+      padding: 0.75rem 2.5rem; background: var(--accent); color: white;
+      border: none; border-radius: 8px; cursor: pointer; font-size: 0.95rem;
+    }
+    #login-btn:hover { opacity: 0.85; }
+
+    /* ── HEADER ── */
+    #header {
+      display: none; position: sticky; top: 0; z-index: 100;
+      background: var(--surface); border-bottom: 1px solid var(--border);
+      padding: 0.9rem 1.5rem; align-items: center; justify-content: space-between;
+      gap: 1rem;
+    }
+    #header h1 { font-size: 1rem; font-weight: 600; white-space: nowrap; }
+    #header-right { display: flex; align-items: center; gap: 1rem; }
+    #filter-input {
+      padding: 0.4rem 0.8rem; background: var(--bg); border: 1px solid var(--border);
+      border-radius: 6px; color: var(--text); font-size: 0.8rem; width: 200px; outline: none;
+    }
+    #modified-count { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }
+    #save-btn {
+      padding: 0.55rem 1.4rem; background: var(--accent); color: white;
+      border: none; border-radius: 7px; cursor: pointer; font-size: 0.85rem;
+      opacity: 0.4; pointer-events: none; transition: opacity 0.2s; white-space: nowrap;
+    }
+    #save-btn.active { opacity: 1; pointer-events: auto; }
+    #logout-btn {
+      padding: 0.4rem 0.8rem; background: transparent; color: var(--muted);
+      border: 1px solid var(--border); border-radius: 6px; cursor: pointer; font-size: 0.75rem;
+    }
+
+    /* ── MAIN ── */
+    #main-screen { display: none; padding: 1.5rem; }
+    #loading { text-align: center; padding: 4rem; color: var(--muted); }
+    #image-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 0.85rem;
+    }
+
+    /* ── CARD ── */
+    .img-card {
+      background: var(--surface); border: 2px solid var(--border);
+      border-radius: 8px; overflow: hidden; transition: border-color 0.2s;
+    }
+    .img-card.modified { border-color: var(--accent); }
+    .img-card.hidden { display: none; }
+
+    .img-thumb-wrap {
+      position: relative; aspect-ratio: 4/3; background: #111; overflow: hidden;
+    }
+    .img-thumb {
+      width: 100%; height: 100%; object-fit: cover;
+      display: block; transition: transform 0.3s;
+    }
+    .modified-badge {
+      display: none; position: absolute; top: 0.35rem; right: 0.35rem;
+      background: var(--accent); color: white; font-size: 0.6rem;
+      padding: 0.15rem 0.4rem; border-radius: 4px; font-weight: 600;
+    }
+    .img-card.modified .modified-badge { display: block; }
+
+    .img-name {
+      font-size: 0.65rem; color: var(--muted); padding: 0.35rem 0.5rem;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .img-controls {
+      display: flex; gap: 0.4rem; padding: 0 0.5rem 0.5rem;
+    }
+    .rotate-btn {
+      flex: 1; padding: 0.35rem 0; background: #252525; border: none;
+      border-radius: 5px; color: white; cursor: pointer; font-size: 1.1rem;
+      transition: background 0.15s;
+    }
+    .rotate-btn:hover { background: #333; }
+    .undo-btn {
+      padding: 0.35rem 0.5rem; background: transparent; border: 1px solid var(--border);
+      border-radius: 5px; color: var(--muted); cursor: pointer; font-size: 0.65rem;
+    }
+    .undo-btn:hover { color: var(--text); }
+
+    /* ── OVERLAY ── */
+    #overlay {
+      display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.85);
+      z-index: 200; align-items: center; justify-content: center; flex-direction: column; gap: 1rem;
+    }
+    #overlay.show { display: flex; }
+    #overlay p { color: var(--text); font-size: 1rem; }
+    #overlay-bar {
+      width: 260px; height: 6px; background: var(--border); border-radius: 3px; overflow: hidden;
+    }
+    #overlay-progress { height: 100%; background: var(--accent); width: 0%; transition: width 0.2s; }
+
+    /* ── TOAST ── */
+    #toast {
+      display: none; position: fixed; bottom: 2rem; left: 50%; transform: translateX(-50%);
+      background: #1e1e1e; border: 1px solid #333; padding: 0.7rem 1.4rem;
+      border-radius: 8px; font-size: 0.85rem; z-index: 300; white-space: nowrap;
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── LOGIN ── -->
+<div id="login-screen">
+  <h1>🔄 Correction des rotations</h1>
+  <p>Entrez votre GitHub Personal Access Token (PAT) avec les droits <strong>repo</strong>.</p>
+  <input type="password" id="token-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
+         onkeydown="if(event.key==='Enter') login()">
+  <button id="login-btn" onclick="login()">Connexion</button>
+</div>
+
+<!-- ── HEADER ── -->
+<div id="header">
+  <h1>BEKA AUTO — Rotations</h1>
+  <div id="header-right">
+    <input type="text" id="filter-input" placeholder="Filtrer par nom…" oninput="filterImages(this.value)">
+    <span id="modified-count">0 modifiée(s)</span>
+    <button id="save-btn" onclick="saveAll()">Enregistrer tout</button>
+    <button id="logout-btn" onclick="logout()">Déconnexion</button>
+  </div>
+</div>
+
+<!-- ── MAIN ── -->
+<div id="main-screen">
+  <div id="loading">Chargement des images…</div>
+  <div id="image-grid"></div>
+</div>
+
+<!-- ── SAVE OVERLAY ── -->
+<div id="overlay">
+  <p id="overlay-text">Enregistrement en cours…</p>
+  <div id="overlay-bar"><div id="overlay-progress"></div></div>
+</div>
+
+<!-- ── TOAST ── -->
+<div id="toast"></div>
+
+<script>
+const OWNER  = 'EliteCoder75';
+const REPO   = 'beka_auto_export';
+const BRANCH = 'main';
+
+let token = '';
+let files  = [];           // [{name, path, sha}]
+let pending = {};          // path → base64 (rotated content)
+let rotations = {};        // path → cumulative degrees
+
+// ── AUTH ──────────────────────────────────────────────────────────────────────
+
+function login() {
+  token = document.getElementById('token-input').value.trim();
+  if (!token) return;
+  localStorage.setItem('beka_gh_token', token);
+  init();
+}
+
+function logout() {
+  localStorage.removeItem('beka_gh_token');
+  location.reload();
+}
+
+window.addEventListener('load', () => {
+  const saved = localStorage.getItem('beka_gh_token');
+  if (saved) { token = saved; init(); }
+});
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+
+async function init() {
+  document.getElementById('login-screen').style.display = 'none';
+  document.getElementById('header').style.display       = 'flex';
+  document.getElementById('main-screen').style.display  = 'block';
+
+  const res = await api(`https://api.github.com/repos/${OWNER}/${REPO}/contents/images`);
+  if (!res.ok) {
+    if (res.status === 401) { logout(); return; }
+    showToast('❌ Erreur de chargement'); return;
+  }
+
+  const all = await res.json();
+  files = all.filter(f => /\.(webp|jpg|jpeg|png)$/i.test(f.name));
+  files.sort((a, b) => a.name.localeCompare(b.name));
+
+  document.getElementById('loading').remove();
+  renderGrid();
+}
+
+// ── RENDER ────────────────────────────────────────────────────────────────────
+
+function renderGrid() {
+  const grid = document.getElementById('image-grid');
+  files.forEach((file, idx) => {
+    const raw = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${file.path}`;
+    const card = document.createElement('div');
+    card.className = 'img-card';
+    card.dataset.idx  = idx;
+    card.dataset.name = file.name.toLowerCase();
+    card.innerHTML = `
+      <div class="img-thumb-wrap">
+        <img class="img-thumb" src="${raw}" loading="lazy" data-idx="${idx}" crossorigin="anonymous">
+        <span class="modified-badge">modifiée</span>
+      </div>
+      <div class="img-name" title="${file.name}">${file.name}</div>
+      <div class="img-controls">
+        <button class="rotate-btn" onclick="rotate(${idx}, -90)" title="Tourner à gauche">↺</button>
+        <button class="rotate-btn" onclick="rotate(${idx},  90)" title="Tourner à droite">↻</button>
+        <button class="undo-btn"   onclick="undoRotate(${idx})"  title="Annuler">✕</button>
+      </div>`;
+    grid.appendChild(card);
+  });
+}
+
+// ── FILTER ────────────────────────────────────────────────────────────────────
+
+function filterImages(q) {
+  q = q.toLowerCase().trim();
+  document.querySelectorAll('.img-card').forEach(card => {
+    card.classList.toggle('hidden', q && !card.dataset.name.includes(q));
+  });
+}
+
+// ── ROTATION ──────────────────────────────────────────────────────────────────
+
+async function rotate(idx, deg) {
+  const file  = files[idx];
+  const thumb = document.querySelector(`.img-thumb[data-idx="${idx}"]`);
+  if (!thumb) return;
+
+  const srcUrl = pending[file.path]
+    ? thumb.src   // already a dataURL from previous rotation
+    : `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${file.path}`;
+
+  let result;
+  try {
+    result = await applyRotation(srcUrl, deg);
+  } catch (e) {
+    showToast('❌ Impossible de charger cette image'); return;
+  }
+
+  pending[file.path]   = result.base64;
+  rotations[file.path] = ((rotations[file.path] || 0) + deg + 360) % 360;
+
+  thumb.src = result.dataUrl;
+  thumb.closest('.img-card').classList.add('modified');
+  updateCounter();
+}
+
+async function undoRotate(idx) {
+  const file  = files[idx];
+  const thumb = document.querySelector(`.img-thumb[data-idx="${idx}"]`);
+  if (!pending[file.path]) return;
+
+  delete pending[file.path];
+  delete rotations[file.path];
+
+  const raw = `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${file.path}`;
+  thumb.src = raw + '?t=' + Date.now(); // bust cache
+  thumb.closest('.img-card').classList.remove('modified');
+  updateCounter();
+}
+
+function applyRotation(srcUrl, deg) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.crossOrigin = 'anonymous';
+    img.onload = () => {
+      const rad = deg * Math.PI / 180;
+      const canvas = document.createElement('canvas');
+      const swap   = Math.abs(deg) === 90 || Math.abs(deg) === 270;
+      canvas.width  = swap ? img.height : img.width;
+      canvas.height = swap ? img.width  : img.height;
+
+      const ctx = canvas.getContext('2d');
+      ctx.translate(canvas.width / 2, canvas.height / 2);
+      ctx.rotate(rad);
+      ctx.drawImage(img, -img.width / 2, -img.height / 2);
+
+      canvas.toBlob(blob => {
+        const reader  = new FileReader();
+        reader.onload = () => {
+          const dataUrl = reader.result;
+          resolve({ dataUrl, base64: dataUrl.split(',')[1] });
+        };
+        reader.readAsDataURL(blob);
+      }, 'image/webp', 0.85);
+    };
+    img.onerror = reject;
+    img.src = srcUrl;
+  });
+}
+
+// ── COUNTER ───────────────────────────────────────────────────────────────────
+
+function updateCounter() {
+  const n   = Object.keys(pending).length;
+  const btn = document.getElementById('save-btn');
+  document.getElementById('modified-count').textContent = `${n} modifiée(s)`;
+  btn.textContent = n > 0 ? `Enregistrer tout (${n})` : 'Enregistrer tout';
+  btn.classList.toggle('active', n > 0);
+}
+
+// ── SAVE ──────────────────────────────────────────────────────────────────────
+
+async function saveAll() {
+  const changes = Object.entries(pending);
+  if (!changes.length) return;
+
+  showOverlay(true);
+  setProgress(5);
+
+  try {
+    // 1. latest commit SHA
+    const refData    = await (await api(`https://api.github.com/repos/${OWNER}/${REPO}/git/refs/heads/${BRANCH}`)).json();
+    const latestSha  = refData.object.sha;
+    setProgress(10);
+
+    // 2. base tree
+    const commitData = await (await api(`https://api.github.com/repos/${OWNER}/${REPO}/git/commits/${latestSha}`)).json();
+    const baseTree   = commitData.tree.sha;
+    setProgress(15);
+
+    // 3. create blobs
+    const treeItems = [];
+    for (let i = 0; i < changes.length; i++) {
+      const [path, base64] = changes[i];
+      overlayText(`Traitement ${i + 1} / ${changes.length}…`);
+      const blobData = await (await apiPost(
+        `https://api.github.com/repos/${OWNER}/${REPO}/git/blobs`,
+        { content: base64, encoding: 'base64' }
+      )).json();
+      treeItems.push({ path, mode: '100644', type: 'blob', sha: blobData.sha });
+      setProgress(15 + Math.round(((i + 1) / changes.length) * 60));
+    }
+
+    // 4. new tree
+    overlayText('Création du commit…');
+    const newTreeData = await (await apiPost(
+      `https://api.github.com/repos/${OWNER}/${REPO}/git/trees`,
+      { base_tree: baseTree, tree: treeItems }
+    )).json();
+    setProgress(80);
+
+    // 5. commit
+    const newCommitData = await (await apiPost(
+      `https://api.github.com/repos/${OWNER}/${REPO}/git/commits`,
+      { message: `fix: correct rotation for ${changes.length} image(s)`, tree: newTreeData.sha, parents: [latestSha] }
+    )).json();
+    setProgress(90);
+
+    // 6. update ref
+    await api(`https://api.github.com/repos/${OWNER}/${REPO}/git/refs/heads/${BRANCH}`, {
+      method: 'PATCH', body: JSON.stringify({ sha: newCommitData.sha })
+    });
+    setProgress(100);
+
+    // reset state
+    pending   = {};
+    rotations = {};
+    document.querySelectorAll('.img-card.modified').forEach(c => c.classList.remove('modified'));
+    updateCounter();
+
+    showOverlay(false);
+    showToast(`✅ ${changes.length} image(s) sauvegardée(s) — déploiement Netlify en cours…`);
+
+  } catch (err) {
+    console.error(err);
+    showOverlay(false);
+    showToast('❌ Erreur lors de la sauvegarde — voir la console');
+  }
+}
+
+// ── HELPERS ───────────────────────────────────────────────────────────────────
+
+function api(url, opts = {}) {
+  return fetch(url, {
+    ...opts,
+    headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json', ...(opts.headers || {}) }
+  });
+}
+
+function apiPost(url, body) {
+  return api(url, { method: 'POST', body: JSON.stringify(body) });
+}
+
+function showOverlay(show) {
+  document.getElementById('overlay').classList.toggle('show', show);
+  if (show) setProgress(0);
+}
+
+function setProgress(pct) {
+  document.getElementById('overlay-progress').style.width = pct + '%';
+}
+
+function overlayText(txt) {
+  document.getElementById('overlay-text').textContent = txt;
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.style.display = 'block';
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.style.display = 'none', 5000);
+}
+</script>
+</body>
+</html>
