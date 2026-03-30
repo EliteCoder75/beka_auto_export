@@ -14,12 +14,12 @@ exterior_color: "BLANC "
 interior_color: "NOIR "
 price: "18400"
 disponibilite: stock
-image: images/toyota-yaris-cross.jpg
+image: images/toyota-yaris-cross.webp
 gallery:
-  - images/img_2411.jpeg
-  - images/img_2412.jpeg
-  - images/img_2414.jpeg
-  - images/img_2415.jpeg
-  - images/img_2417.jpeg
-  - images/img_2418.jpeg
+  - images/img_2411.webp
+  - images/img_2412.webp
+  - images/img_2414.webp
+  - images/img_2415.webp
+  - images/img_2417.webp
+  - images/img_2418.webp
 ---
