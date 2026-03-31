@@ -16,6 +16,6 @@ price: "15000"
 disponibilite: stock
 image: images/seat-arona-phase-2-10-tsi-115ch-fr-edition-speciale-blanc-265x190.webp
 gallery:
-  - images/arona.jpg
-  - images/arona1.jpg
+  - images/arona.webp
+  - images/arona1.webp
 ---
