@@ -13,10 +13,10 @@ exterior_color: "BLEU "
 interior_color: NOIR
 price: "12500"
 disponibilite: stock
-image: images/toyota-yaris.jpg
+image: images/toyota-yaris.webp
 gallery:
-  - images/img_2410-1-.jpeg
-  - images/img_2406-1-.jpeg
-  - images/img_2407-1-.jpeg
-  - images/img_2409-1-.jpeg
+  - images/img_2410-1-.webp
+  - images/img_2406-1-.webp
+  - images/img_2407-1-.webp
+  - images/img_2409-1-.webp
 ---
