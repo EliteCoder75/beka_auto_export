@@ -13,11 +13,11 @@ exterior_color: "NOIR "
 interior_color: NOIR
 price: "13900"
 disponibilite: stock
-image: images/techno-noir.jpg
+image: images/techno-noir.webp
 gallery:
-  - images/img_0540-1-.jpeg
-  - images/img_0534-1-.jpeg
-  - images/img_0533-1-.jpeg
-  - images/img_0538-1-.jpeg
-  - images/img_0539-2-.jpeg
+  - images/img_0540-1-.webp
+  - images/img_0534-1-.webp
+  - images/img_0533-1-.webp
+  - images/img_0538-1-.webp
+  - images/img_0539-2-.webp
 ---
