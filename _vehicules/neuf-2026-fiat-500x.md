@@ -13,12 +13,12 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "14000"
 disponibilite: stock
-image: images/fiat-500x.jpg
+image: images/fiat-500x.webp
 gallery:
-  - images/img_2430-1-.jpeg
-  - images/img_2429-1-.jpeg
-  - images/img_2437-1-.jpeg
-  - images/img_2433-1-.jpeg
-  - images/img_2426-1-.jpeg
-  - images/img_2434-1-.jpeg
+  - images/img_2430-1-.webp
+  - images/img_2429-1-.webp
+  - images/img_2437-1-.webp
+  - images/img_2433-1-.webp
+  - images/img_2426-1-.webp
+  - images/img_2434-1-.webp
 ---
