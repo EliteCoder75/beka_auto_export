@@ -3,11 +3,11 @@ categorie: export
 id: VO-09
 brand: "TOYOTA "
 model: "YARIS "
-finition: CROSS
+finition: R CROSS
 year: 2024
 kilometrage: "48000"
 transmission: Automatique
-motor: "1.5 HYBRIDE 115 CH "
+motor: "1.5 HYBRIDE 116 CH "
 fuel: Hybride
 exterior_color: "BLANC "
 interior_color: NOIR
