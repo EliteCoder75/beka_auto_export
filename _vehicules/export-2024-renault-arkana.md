@@ -13,11 +13,11 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "17800"
 disponibilite: stock
-image: images/renault-arkana.jpg
+image: images/renault-arkana.webp
 gallery:
-  - images/img_2605.jpeg
-  - images/img_2606.jpeg
-  - images/img_2607.jpeg
-  - images/img_2628.jpeg
-  - images/img_2629.jpeg
+  - images/img_2605.webp
+  - images/img_2606.webp
+  - images/img_2607.webp
+  - images/img_2628.webp
+  - images/img_2629.webp
 ---
