@@ -3,7 +3,7 @@ categorie: export
 id: VO-09
 brand: "TOYOTA "
 model: "YARIS "
-finition: R CROSS
+finition: " CROSS"
 year: 2024
 kilometrage: "48000"
 transmission: Automatique
