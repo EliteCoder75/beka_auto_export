@@ -13,12 +13,12 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "14200"
 disponibilite: stock
-image: images/c4-max-gris.jpg
+image: images/c4-max-gris.webp
 gallery:
-  - images/img_2665-1-.jpeg
-  - images/img_2669.jpeg
-  - images/img_2667.jpeg
-  - images/img_2630-1-.jpeg
-  - images/img_2621-1-.jpeg
-  - images/img_2622-3-.jpeg
+  - images/img_2665-1-.webp
+  - images/img_2669.webp
+  - images/img_2667.webp
+  - images/img_2630-1-.webp
+  - images/img_2621-1-.webp
+  - images/img_2622-3-.webp
 ---
