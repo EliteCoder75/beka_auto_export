@@ -13,9 +13,9 @@ exterior_color: "VERT OXYDE "
 interior_color: "NOIR "
 price: "17300"
 disponibilite: stock
-image: images/dacia-duster-voxyde.jpg
+image: images/dacia-duster-voxyde.webp
 gallery:
-  - images/img_2711-1-.jpeg
-  - images/img_2715-1-.jpeg
-  - images/img_2713-1-.jpeg
+  - images/img_2711-1-.webp
+  - images/img_2715-1-.webp
+  - images/img_2713-1-.webp
 ---
