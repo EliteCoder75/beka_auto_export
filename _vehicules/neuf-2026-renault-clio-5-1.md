@@ -13,10 +13,10 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "16400"
 disponibilite: stock
-image: images/clio-5-dci.jpg
+image: images/clio-5-dci.webp
 gallery:
-  - images/img_2771.jpeg
-  - images/img_2772.jpeg
-  - images/img_2776.jpeg
-  - images/img_2775.jpeg
+  - images/img_2771.webp
+  - images/img_2772.webp
+  - images/img_2776.webp
+  - images/img_2775.webp
 ---
