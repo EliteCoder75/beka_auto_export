@@ -11,7 +11,7 @@ motor: "1.6 HDI 92 CH "
 fuel: Diesel
 exterior_color: "BLEU VERT "
 interior_color: "NOIR "
-price: "20500"
+price: "20900"
 disponibilite: stock
 image: images/berlingo-xtr-bleu.webp
 gallery:
