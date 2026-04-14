@@ -12,7 +12,7 @@ exterior_color: NOIR
 interior_color: "NOIR "
 price: "54500"
 disponibilite: stock
-image: images/audi-q3.jpg
+image: images/audi-q3.webp
 gallery:
   - images/f8ac45d6-9e03-4eb8-a8c7-77964a4495ed.webp
   - images/30a91556-51b3-4d76-9b8e-e5400c327a66-1-.webp
@@ -24,9 +24,9 @@ gallery:
   - images/10a8158e-78f1-4a91-84e4-339d0f866edd.webp
   - images/fb97f8cb-f8fd-4470-a2cd-c122841a54d2-1-.webp
   - images/f833542d-322e-4baa-b1f1-62884fe14b2b-1-.webp
-  - images/img_2468.jpeg
-  - images/img_2467.jpeg
-  - images/img_2469.jpeg
-  - images/img_2481.jpeg
-  - images/img_2484.jpeg
+  - images/img_2468.webp
+  - images/img_2467.webp
+  - images/img_2469.webp
+  - images/img_2481.webp
+  - images/img_2484.webp
 ---
