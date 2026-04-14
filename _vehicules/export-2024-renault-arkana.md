@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "17800"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-arkana.webp
 gallery:
   - images/img_2605.webp
