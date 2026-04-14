@@ -15,8 +15,8 @@ price: "20500"
 disponibilite: stock
 image: images/berlingo-xtr-bleu.webp
 gallery:
-  - images/img_2835.webp
-  - images/img_2837.webp
-  - images/img_2838.webp
-  - images/img_2803-1-.webp
+  - images/img_2835.jpeg
+  - images/img_2837.jpeg
+  - images/img_2838.jpeg
+  - images/img_2803-1-.jpeg
 ---
