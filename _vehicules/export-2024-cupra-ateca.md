@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "26400"
-disponibilite: stock
+disponibilite: vendu
 image: images/cupra-ateca.webp
 gallery:
   - images/img_1513-3-.jpeg
