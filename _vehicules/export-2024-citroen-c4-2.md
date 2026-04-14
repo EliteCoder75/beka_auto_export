@@ -5,7 +5,7 @@ brand: "CITROEN "
 model: C4
 finition: MAX
 year: 2024
-kilometrage: "19000"
+kilometrage: "24850"
 transmission: Automatique
 motor: "1.2 PURTECK 130 CH "
 fuel: Essence
