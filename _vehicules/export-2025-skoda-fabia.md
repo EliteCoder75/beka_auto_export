@@ -13,10 +13,10 @@ exterior_color: BLANC
 interior_color: NOIR
 price: "15200"
 disponibilite: stock
-image: images/skf-1.jpg
+image: images/skf-1.webp
 gallery:
-  - images/img_2903.jpeg
-  - images/img_2908.jpeg
-  - images/img_2911.jpeg
-  - images/img_2910.jpeg
+  - images/img_2903.webp
+  - images/img_2908.webp
+  - images/img_2911.webp
+  - images/img_2910.webp
 ---
