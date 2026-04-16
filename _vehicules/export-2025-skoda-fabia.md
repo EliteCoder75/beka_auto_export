@@ -3,11 +3,11 @@ categorie: export
 id: VO-15
 brand: "SKODA "
 model: "FABIA "
-finition: EVO 130 EDITION
+finition: " 130 EDITION"
 year: 2025
 kilometrage: "27365"
 transmission: Automatique
-motor: "1.0 TSI 95 CH "
+motor: "1.0 TSI 110 CH "
 fuel: Essence
 exterior_color: BLANC
 interior_color: NOIR
