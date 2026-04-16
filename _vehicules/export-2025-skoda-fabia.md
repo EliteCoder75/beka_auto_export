@@ -13,11 +13,11 @@ exterior_color: GRIS INTENSE
 interior_color: NOIR
 price: "15200"
 disponibilite: stock
-image: images/g-1.jpg
+image: images/g-1.webp
 gallery:
   - images/img_2939.jpeg
-  - images/img_2941.jpeg
-  - images/img_2939-1-.jpeg
-  - images/img_2947.jpeg
-  - images/img_2945.jpeg
+  - images/img_2941.webp
+  - images/img_2939-1-.webp
+  - images/img_2947.webp
+  - images/img_2945.webp
 ---
