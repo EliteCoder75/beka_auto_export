@@ -15,8 +15,8 @@ price: "15200"
 disponibilite: stock
 image: images/g-1.webp
 gallery:
-  - images/img_2963.jpeg
-  - images/img_2968.jpeg
-  - images/img_2971.jpeg
-  - images/img_2969.jpeg
+  - images/img_2963.webp
+  - images/img_2968.webp
+  - images/img_2971.webp
+  - images/img_2969.webp
 ---
