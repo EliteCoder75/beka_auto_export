@@ -12,12 +12,12 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "27000"
 disponibilite: stock
-image: images/jetour.jpg
+image: images/jetour.webp
 gallery:
-  - images/img_2994.jpeg
-  - images/img_2997.jpeg
-  - images/img_2999.jpeg
-  - images/img_3004.jpeg
-  - images/img_3005.jpeg
-  - images/img_3007.jpeg
+  - images/img_2994.webp
+  - images/img_2997.webp
+  - images/img_2999.webp
+  - images/img_3004.webp
+  - images/img_3005.webp
+  - images/img_3007.webp
 ---
