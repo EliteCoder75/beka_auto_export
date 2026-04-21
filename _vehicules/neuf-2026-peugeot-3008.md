@@ -13,15 +13,15 @@ exterior_color: BLEU
 interior_color: NOIR
 price: "24500"
 disponibilite: stock
-image: images/3008-finition-allure.jpg
+image: images/3008-finition-allure.webp
 gallery:
-  - images/img_3064.jpeg
-  - images/img_3066.jpeg
-  - images/img_3067.jpeg
-  - images/img_3068.jpeg
-  - images/img_3070.jpeg
-  - images/img_3074.jpeg
-  - images/img_3076.jpeg
-  - images/img_3075.jpeg
-  - images/img_3050-2-.jpeg
+  - images/img_3064.webp
+  - images/img_3066.webp
+  - images/img_3067.webp
+  - images/img_3068.webp
+  - images/img_3070.webp
+  - images/img_3074.webp
+  - images/img_3076.webp
+  - images/img_3075.webp
+  - images/img_3050-2-.webp
 ---
