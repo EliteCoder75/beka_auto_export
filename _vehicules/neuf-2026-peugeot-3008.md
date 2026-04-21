@@ -17,8 +17,6 @@ image: images/3008-finition-allure.webp
 gallery:
   - images/img_3037.webp
   - images/img_3039.webp
-  - images/img_3045-1-.webp
-  - images/img_3038.webp
   - images/img_3053.webp
   - images/img_3054.webp
   - images/img_3049.webp
