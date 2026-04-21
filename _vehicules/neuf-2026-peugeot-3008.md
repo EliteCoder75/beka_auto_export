@@ -15,7 +15,6 @@ price: "24500"
 disponibilite: stock
 image: images/3008-finition-allure.webp
 gallery:
-  - images/img_3036.webp
   - images/img_3037.webp
   - images/img_3039.webp
   - images/img_3045-1-.webp
