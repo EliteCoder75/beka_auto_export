@@ -13,14 +13,14 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "21500"
 disponibilite: stock
-image: images/design-sans-titre.jpg
+image: images/design-sans-titre.webp
 gallery:
-  - images/img_3130.jpeg
-  - images/img_3133.jpeg
-  - images/img_3134.jpeg
-  - images/img_3135-1-.jpeg
-  - images/img_3125.jpeg
-  - images/img_3141-2-.jpeg
-  - images/img_3138-2-.jpeg
-  - images/img_3144.jpeg
+  - images/img_3130.webp
+  - images/img_3133.webp
+  - images/img_3134.webp
+  - images/img_3135-1-.webp
+  - images/img_3125.webp
+  - images/img_3141-2-.webp
+  - images/img_3138-2-.webp
+  - images/img_3144.webp
 ---
