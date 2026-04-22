@@ -12,13 +12,13 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "13500"
 disponibilite: stock
-image: images/toyota-yaris.png
+image: images/toyota-yaris.webp
 gallery:
-  - images/img_3216.jpeg
-  - images/img_3217.jpeg
-  - images/img_3218.jpeg
-  - images/img_3219.jpeg
-  - images/img_3221.jpeg
-  - images/img_3222.jpeg
-  - images/img_3213.jpeg
+  - images/img_3216.webp
+  - images/img_3217.webp
+  - images/img_3218.webp
+  - images/img_3219.webp
+  - images/img_3221.webp
+  - images/img_3222.webp
+  - images/img_3213.webp
 ---
