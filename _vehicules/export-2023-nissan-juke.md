@@ -11,13 +11,13 @@ fuel: Essence
 exterior_color: "GRIS "
 price: "13500"
 disponibilite: stock
-image: images/nissan-juke.png
+image: images/nissan-juke.webp
 gallery:
-  - images/img_3227.jpeg
-  - images/img_3229.jpeg
-  - images/img_3231.jpeg
-  - images/img_3232.jpeg
-  - images/img_3235.jpeg
-  - images/img_3237.jpeg
-  - images/unnamed-1-.jpg
+  - images/img_3227.webp
+  - images/img_3229.webp
+  - images/img_3231.webp
+  - images/img_3232.webp
+  - images/img_3235.webp
+  - images/img_3237.webp
+  - images/unnamed-1-.webp
 ---
