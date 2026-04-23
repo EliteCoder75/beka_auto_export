@@ -13,5 +13,5 @@ exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "16100"
 disponibilite: stock
-image: images/renault-clio-gris-souris.jpg
+image: images/renault-clio-gris-souris.webp
 ---
