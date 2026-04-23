@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "14200"
-disponibilite: stock
+disponibilite: vendu
 image: images/c4-max-gris.webp
 gallery:
   - images/img_2665-1-.webp
