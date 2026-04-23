@@ -13,5 +13,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "16100"
 disponibilite: stock
-image: images/clio-5-alpine-noir.jpg
+image: images/clio-5-alpine-noir.webp
 ---
