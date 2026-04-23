@@ -13,7 +13,7 @@ exterior_color: "BLEU "
 interior_color: NOIR
 price: "12500"
 disponibilite: stock
-image: images/toyota-yaris.webp
+image: images/toyota-aygo-x.jpg
 gallery:
   - images/img_2410-1-.webp
   - images/img_2406-1-.webp
