@@ -12,7 +12,7 @@ exterior_color: "VERT KAKI "
 interior_color: NOIR
 price: 18300
 disponibilite: stock
-image: images/design-sans-titre.webp
+image: images/dacia-duster-extrem-vert-kaki.jpg
 gallery:
   - images/img_2199-1-.webp
   - images/img_2200-1-.webp
