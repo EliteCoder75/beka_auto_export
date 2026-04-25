@@ -12,13 +12,13 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "17445"
 disponibilite: stock
-image: images/3008-1.jpg
+image: images/3008-1.webp
 gallery:
-  - images/img_3324.jpeg
-  - images/img_3330.jpeg
-  - images/img_3333.jpeg
-  - images/img_3335.jpeg
-  - images/img_3337.jpeg
-  - images/img_3340.jpeg
-  - images/img_3343.jpeg
+  - images/img_3324.webp
+  - images/img_3330.webp
+  - images/img_3333.webp
+  - images/img_3335.webp
+  - images/img_3337.webp
+  - images/img_3340.webp
+  - images/img_3343.webp
 ---
