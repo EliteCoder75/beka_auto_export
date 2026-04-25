@@ -14,12 +14,12 @@ exterior_color: "BLANC "
 interior_color: NOIR
 price: "12900"
 disponibilite: stock
-image: images/c3-¨plus.jpg
+image: images/c3-¨plus.webp
 gallery:
-  - images/img_3389.jpeg
-  - images/img_3391.jpeg
-  - images/img_3393.jpeg
-  - images/img_3402.jpeg
-  - images/img_3403.jpeg
-  - images/img_3399.jpeg
+  - images/img_3389.webp
+  - images/img_3391.webp
+  - images/img_3393.webp
+  - images/img_3402.webp
+  - images/img_3403.webp
+  - images/img_3399.webp
 ---
