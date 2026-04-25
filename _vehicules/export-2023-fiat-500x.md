@@ -14,13 +14,13 @@ exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "13495"
 disponibilite: stock
-image: images/fiat-500x-2-.jpg
+image: images/fiat-500x-2-.webp
 gallery:
-  - images/img_3353.jpeg
-  - images/img_3357.jpeg
-  - images/img_3358.jpeg
-  - images/img_3355.jpeg
-  - images/img_3370.jpeg
-  - images/img_3369.jpeg
-  - images/img_3367.jpeg
+  - images/img_3353.webp
+  - images/img_3357.webp
+  - images/img_3358.webp
+  - images/img_3355.webp
+  - images/img_3370.webp
+  - images/img_3369.webp
+  - images/img_3367.webp
 ---
