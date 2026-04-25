@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS INTESE "
 interior_color: "GRIS INTENSE "
 price: "15200"
-disponibilite: stock
+disponibilite: vendu
 image: images/skoda-fabia-gris-intens.webp
 gallery:
   - images/img_2977.webp
