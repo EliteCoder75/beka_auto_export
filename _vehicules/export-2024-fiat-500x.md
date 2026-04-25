@@ -14,14 +14,14 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "14490"
 disponibilite: stock
-image: images/fiat-500x-club-2024.jpg
+image: images/fiat-500x-club-2024.webp
 gallery:
-  - images/img_3371.jpeg
-  - images/img_3373.jpeg
-  - images/img_3374.jpeg
-  - images/img_3387.jpeg
-  - images/img_3376.jpeg
-  - images/img_3377.jpeg
-  - images/img_3379.jpeg
-  - images/img_3380.jpeg
+  - images/img_3371.webp
+  - images/img_3373.webp
+  - images/img_3374.webp
+  - images/img_3387.webp
+  - images/img_3376.webp
+  - images/img_3377.webp
+  - images/img_3379.webp
+  - images/img_3380.webp
 ---
