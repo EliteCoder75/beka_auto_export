@@ -13,17 +13,17 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "16900"
 disponibilite: stock
-image: images/renault-austral.jpg
+image: images/renault-austral.webp
 gallery:
-  - images/img_3308.jpeg
-  - images/img_3309.jpeg
-  - images/img_3310.jpeg
-  - images/img_3311.jpeg
-  - images/img_3312.jpeg
-  - images/img_3320.jpeg
+  - images/img_3308.webp
+  - images/img_3309.webp
+  - images/img_3310.webp
+  - images/img_3311.webp
+  - images/img_3312.webp
+  - images/img_3320.webp
   - images/img_3319-1-.jpeg
-  - images/img_3318.jpeg
-  - images/img_3317.jpeg
-  - images/img_3313.jpeg
-  - images/img_3322.jpeg
+  - images/img_3318.webp
+  - images/img_3317.webp
+  - images/img_3313.webp
+  - images/img_3322.webp
 ---
