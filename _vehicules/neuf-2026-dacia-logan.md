@@ -12,7 +12,7 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: 11200
 disponibilite: stock
-image: images/dacia-logan.jpg
+image: images/dacia-logan.webp
 gallery:
   - images/img_2183.webp
   - images/img_2184.webp
