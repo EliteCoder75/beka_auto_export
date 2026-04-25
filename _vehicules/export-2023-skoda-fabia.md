@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS INTENSE "
 interior_color: "NOIR "
 price: "15200"
-disponibilite: stock
+disponibilite: vendu
 image: images/dacia-g-i.webp
 gallery:
   - images/img_2925.webp
