@@ -12,16 +12,16 @@ fuel: Essence
 exterior_color: GRIS
 price: "17500"
 disponibilite: stock
-image: images/5008-gris.jpg
+image: images/5008-gris.webp
 gallery:
-  - images/img_3434.jpeg
-  - images/img_3435.jpeg
-  - images/img_3436.jpeg
-  - images/img_3439.jpeg
-  - images/img_3420.jpeg
-  - images/img_3423.jpeg
+  - images/img_3434.webp
+  - images/img_3435.webp
+  - images/img_3436.webp
+  - images/img_3439.webp
+  - images/img_3420.webp
+  - images/img_3423.webp
   - images/img_3432.jpeg
-  - images/img_3425.jpeg
-  - images/img_3428.jpeg
-  - images/img_3430.jpeg
+  - images/img_3425.webp
+  - images/img_3428.webp
+  - images/img_3430.webp
 ---
