@@ -1,7 +1,7 @@
 ---
 categorie: export
 id: VO-23
-brand: "PEUGOET "
+brand: "PEUGEOT "
 model: "3008"
 year: 2023
 kilometrage: "76395"
