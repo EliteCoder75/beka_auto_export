@@ -20,7 +20,7 @@ gallery:
   - images/img_3439.webp
   - images/img_3420.webp
   - images/img_3423.webp
-  - images/img_3432.jpeg
+  - images/img_3432.webp
   - images/img_3425.webp
   - images/img_3428.webp
   - images/img_3430.webp

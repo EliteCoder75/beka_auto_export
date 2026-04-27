@@ -12,12 +12,12 @@ fuel: Essence
 exterior_color: BLEU
 price: "17500"
 disponibilite: stock
-image: images/5008-bleu.jpg
+image: images/5008-bleu.webp
 gallery:
-  - images/img_3451.jpeg
-  - images/img_3454.jpeg
-  - images/img_3453.jpeg
-  - images/img_3432.jpeg
-  - images/img_3443.jpeg
-  - images/img_3441.jpeg
+  - images/img_3451.webp
+  - images/img_3454.webp
+  - images/img_3453.webp
+  - images/img_3432.webp
+  - images/img_3443.webp
+  - images/img_3441.webp
 ---
