@@ -13,13 +13,13 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "19500"
 disponibilite: stock
-image: images/jetour-x70-plus.jpg
+image: images/jetour-x70-plus.webp
 gallery:
-  - images/img_3551.jpeg
-  - images/img_3553.jpeg
-  - images/img_3554.jpeg
-  - images/img_3569.jpeg
-  - images/img_3559.jpeg
-  - images/img_3562.jpeg
-  - images/img_3558.jpeg
+  - images/img_3551.webp
+  - images/img_3553.webp
+  - images/img_3554.webp
+  - images/img_3569.webp
+  - images/img_3559.webp
+  - images/img_3562.webp
+  - images/img_3558.webp
 ---
