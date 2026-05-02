@@ -10,7 +10,7 @@ motor: "1.0 DIG-T TURBO 114 CH "
 fuel: Essence
 exterior_color: "GRIS "
 price: "13500"
-disponibilite: stock
+disponibilite: vendu
 image: images/nissan-juke.webp
 gallery:
   - images/img_3227.webp
