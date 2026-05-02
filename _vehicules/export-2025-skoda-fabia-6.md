@@ -12,11 +12,11 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "13500"
 disponibilite: stock
-image: images/skoda-fabia.jpg
+image: images/skoda-fabia.webp
 gallery:
-  - images/img_3666.jpeg
-  - images/img_3667-1-.jpeg
-  - images/img_3669.jpeg
-  - images/img_3663.jpeg
-  - images/img_3664.jpeg
+  - images/img_3666.webp
+  - images/img_3667-1-.webp
+  - images/img_3669.webp
+  - images/img_3663.webp
+  - images/img_3664.webp
 ---
