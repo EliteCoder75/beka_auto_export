@@ -4,7 +4,7 @@ id: VO-18
 brand: "SKODA "
 model: FABIA
 finition: "130 EDITION "
-year: 2023
+year: 2024
 kilometrage: "11246"
 transmission: Automatique
 motor: "1.0 TSI 110 CH "
