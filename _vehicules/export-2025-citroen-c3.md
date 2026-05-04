@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: "BLANC "
 interior_color: NOIR
 price: "12900"
-disponibilite: stock
+disponibilite: vendu
 image: images/c3-¨plus.webp
 gallery:
   - images/img_3389.webp
