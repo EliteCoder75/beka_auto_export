@@ -1,9 +1,9 @@
 ---
 categorie: export
-id: VO-36
+id: VO-90
 brand: "SKODA "
 model: "FABIA "
-year: 2024
+year: 2025
 kilometrage: "17907"
 transmission: Manuelle
 motor: "1.0 TSI 90 CH "
@@ -12,7 +12,7 @@ exterior_color: "GRIS ARGENT "
 interior_color: NOIR
 price: "13500"
 disponibilite: stock
-image: images/gris-argent.webp
+image: images/skoda-fabia-2025-gris-argent.jpg
 gallery:
   - images/img_3686.webp
   - images/img_3683.webp
