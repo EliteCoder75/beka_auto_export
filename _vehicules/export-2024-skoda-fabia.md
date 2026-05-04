@@ -12,7 +12,7 @@ exterior_color: "GRIS ARGENT "
 interior_color: NOIR
 price: "13500"
 disponibilite: stock
-image: images/skoda-fabia-2025-gris-argent.jpg
+image: images/skoda-fabia-2025-gris-argent.webp
 gallery:
   - images/img_3686.webp
   - images/img_3683.webp
