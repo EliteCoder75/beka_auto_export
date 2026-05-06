@@ -12,13 +12,13 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "13500"
 disponibilite: stock
-image: images/nissan-juke-2.jpg
+image: images/nissan-juke-2.webp
 gallery:
-  - images/img_3822.jpeg
-  - images/img_3824.jpeg
-  - images/img_3825.jpeg
-  - images/img_3826.jpeg
-  - images/img_3834.jpeg
-  - images/img_3828.jpeg
-  - images/img_3832.jpeg
+  - images/img_3822.webp
+  - images/img_3824.webp
+  - images/img_3825.webp
+  - images/img_3826.webp
+  - images/img_3834.webp
+  - images/img_3828.webp
+  - images/img_3832.webp
 ---
