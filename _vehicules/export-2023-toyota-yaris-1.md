@@ -4,6 +4,7 @@ id: VO-37
 brand: "TOYOTA "
 model: "YARIS "
 year: 2023
+circulation_date: "11"
 kilometrage: "36458"
 transmission: Manuelle
 motor: S 1.0 VVT-i 72 CH
