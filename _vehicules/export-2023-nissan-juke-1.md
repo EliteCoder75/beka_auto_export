@@ -4,6 +4,7 @@ id: VO-34
 brand: "NISSAN "
 model: "JUKE "
 year: 2023
+circulation_date: "07"
 kilometrage: "91000"
 transmission: Manuelle
 motor: " 1.0 DIG-T TURBO 114"
