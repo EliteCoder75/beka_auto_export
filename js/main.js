@@ -194,7 +194,12 @@ function renderVehicleGrid(grid, vehicles) {
         </div>`;
         return;
     }
-    grid.innerHTML = vehicles.map(v => buildCatalogueCard(v)).join('');
+    const sorted = [...vehicles].sort((a, b) => {
+        const aVendu = a.disponibilite === 'vendu' ? 1 : 0;
+        const bVendu = b.disponibilite === 'vendu' ? 1 : 0;
+        return aVendu - bVendu;
+    });
+    grid.innerHTML = sorted.map(v => buildCatalogueCard(v)).join('');
 }
 
 function buildCatalogueCard(v) {
