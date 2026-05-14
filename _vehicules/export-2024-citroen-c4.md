@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: GRIS SOURIS
 interior_color: NOIR
 price: 14300
-disponibilite: stock
+disponibilite: vendu
 image: images/c4-max.webp
 gallery:
   - images/img_1406.webp
