@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "NOIR "
 interior_color: NOIR
 price: "13500"
-disponibilite: stock
+disponibilite: vendu
 image: images/skoda-fabia-noir.webp
 gallery:
   - images/img_3634.webp
