@@ -13,13 +13,13 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "15000"
 disponibilite: stock
-image: images/citroen-c4-mai.jpg
+image: images/citroen-c4-mai.webp
 gallery:
-  - images/img_4043.jpeg
-  - images/img_4045.jpeg
-  - images/img_4044.jpeg
-  - images/img_4048.jpeg
-  - images/img_4047.jpeg
-  - images/img_4049.jpeg
-  - images/img_4051.jpeg
+  - images/img_4043.webp
+  - images/img_4045.webp
+  - images/img_4044.webp
+  - images/img_4048.webp
+  - images/img_4047.webp
+  - images/img_4049.webp
+  - images/img_4051.webp
 ---
