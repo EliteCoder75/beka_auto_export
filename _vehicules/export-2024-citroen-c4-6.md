@@ -13,11 +13,11 @@ exterior_color: "BLEU NUIT "
 interior_color: NOIR
 price: "12800"
 disponibilite: stock
-image: images/c4-bleu-nuit.jpg
+image: images/c4-bleu-nuit.webp
 gallery:
-  - images/img_4100.jpeg
-  - images/img_4101.jpeg
-  - images/img_4102.jpeg
-  - images/img_4104.jpeg
-  - images/img_4105.jpeg
+  - images/img_4100.webp
+  - images/img_4101.webp
+  - images/img_4102.webp
+  - images/img_4104.webp
+  - images/img_4105.webp
 ---
