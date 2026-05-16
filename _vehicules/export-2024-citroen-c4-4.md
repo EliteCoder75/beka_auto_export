@@ -14,12 +14,12 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14500"
 disponibilite: stock
-image: images/c4-x-noir-2.jpg
+image: images/c4-x-noir-2.webp
 gallery:
-  - images/img_4056.jpeg
-  - images/img_4057.jpeg
-  - images/img_4058.jpeg
-  - images/img_4062.jpeg
-  - images/img_4063.jpeg
-  - images/img_4064.jpeg
+  - images/img_4056.webp
+  - images/img_4057.webp
+  - images/img_4058.webp
+  - images/img_4062.webp
+  - images/img_4063.webp
+  - images/img_4064.webp
 ---
