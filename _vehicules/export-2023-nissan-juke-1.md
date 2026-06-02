@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "13500"
-disponibilite: stock
+disponibilite: vendu
 image: images/nissan-juke-2.webp
 gallery:
   - images/img_3822.webp
