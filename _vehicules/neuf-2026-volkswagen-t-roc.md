@@ -15,13 +15,13 @@ price: "34500"
 disponibilite: commande
 image: images/t-roc-r-line.webp
 gallery:
-  - images/img_4188.jpeg
-  - images/img_4191.jpeg
-  - images/img_4193.jpeg
-  - images/img_4197-1-.jpeg
-  - images/img_4200.jpeg
-  - images/img_4205.jpeg
-  - images/img_4208.jpeg
-  - images/img_4179.jpeg
-  - images/img_4178-1-.jpeg
+  - images/img_4188.webp
+  - images/img_4191.webp
+  - images/img_4193.webp
+  - images/img_4197-1-.webp
+  - images/img_4200.webp
+  - images/img_4205.webp
+  - images/img_4208.webp
+  - images/img_4179.webp
+  - images/img_4178-1-.webp
 ---
