@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: BLANC
 interior_color: NOIR
 price: "15200"
-disponibilite: stock
+disponibilite: vendu
 image: images/skf-1.webp
 gallery:
   - images/img_2903.webp
