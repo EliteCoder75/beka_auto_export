@@ -11,7 +11,7 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "13500"
-disponibilite: stock
+disponibilite: vendu
 image: images/toyota-yaris.webp
 gallery:
   - images/img_3216.webp
