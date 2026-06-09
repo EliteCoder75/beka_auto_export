@@ -13,7 +13,7 @@ fuel: Hybride
 exterior_color: GRIS
 interior_color: NOIR
 price: "14490"
-disponibilite: stock
+disponibilite: vendu
 image: images/fiat-500x-club-2024.webp
 gallery:
   - images/img_3371.webp
