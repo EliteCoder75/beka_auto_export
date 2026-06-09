@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "13495"
-disponibilite: stock
+disponibilite: vendu
 image: images/fiat-500x-2-.webp
 gallery:
   - images/img_3353.webp
