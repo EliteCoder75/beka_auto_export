@@ -15,11 +15,11 @@ price: "14800"
 disponibilite: stock
 image: images/3008-1.webp
 gallery:
-  - images/img_4326.jpeg
-  - images/img_4329.jpeg
-  - images/img_4330.jpeg
-  - images/img_4332.jpeg
-  - images/img_4333.jpeg
-  - images/img_4336.jpeg
-  - images/img_4339.jpeg
+  - images/img_4326.webp
+  - images/img_4329.webp
+  - images/img_4330.webp
+  - images/img_4332.webp
+  - images/img_4333.webp
+  - images/img_4336.webp
+  - images/img_4339.webp
 ---
