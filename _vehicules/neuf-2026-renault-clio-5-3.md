@@ -11,7 +11,7 @@ motor: "1.5 DCI 115 CH "
 fuel: Diesel
 exterior_color: "NOIR "
 interior_color: "NOIR "
-price: "16100"
+price: "15900"
 disponibilite: stock
 image: images/clio-5-alpine-noir.webp
 gallery:
