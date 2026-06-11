@@ -10,7 +10,7 @@ motor: "1.3 TCE 150 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: 18300
+price: "17900"
 disponibilite: stock
 image: images/dark-red-minimalist-car-repair-service.webp
 gallery:
