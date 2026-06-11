@@ -13,12 +13,12 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "12000"
 disponibilite: stock
-image: images/2008-allure-gris.jpg
+image: images/2008-allure-gris.webp
 gallery:
-  - images/img_4480.jpeg
-  - images/img_4481.jpeg
-  - images/img_4483.jpeg
-  - images/img_4484.jpeg
-  - images/img_4486.jpeg
-  - images/img_4487.jpeg
+  - images/img_4480.webp
+  - images/img_4481.webp
+  - images/img_4483.webp
+  - images/img_4484.webp
+  - images/img_4486.webp
+  - images/img_4487.webp
 ---
