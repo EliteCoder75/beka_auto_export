@@ -13,18 +13,18 @@ exterior_color: VERT
 interior_color: "NOIR "
 price: "14500"
 disponibilite: stock
-image: images/dacia-stepway-extreme-plus.jpg
+image: images/dacia-stepway-extreme-plus.webp
 gallery:
-  - images/img_4593.jpeg
-  - images/img_4595.jpeg
-  - images/img_4596.jpeg
-  - images/img_4597.jpeg
-  - images/img_4599-1-.jpeg
-  - images/img_4613-1-.jpeg
-  - images/img_4602.jpeg
-  - images/img_4603.jpeg
-  - images/img_4608.jpeg
-  - images/img_4614.jpeg
-  - images/img_4609.jpeg
-  - images/img_4607.jpeg
+  - images/img_4593.webp
+  - images/img_4595.webp
+  - images/img_4596.webp
+  - images/img_4597.webp
+  - images/img_4599-1-.webp
+  - images/img_4613-1-.webp
+  - images/img_4602.webp
+  - images/img_4603.webp
+  - images/img_4608.webp
+  - images/img_4614.webp
+  - images/img_4609.webp
+  - images/img_4607.webp
 ---
