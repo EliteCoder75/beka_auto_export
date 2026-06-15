@@ -13,13 +13,13 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "14500"
 disponibilite: stock
-image: images/dacia-step-gris.jpg
+image: images/dacia-step-gris.webp
 gallery:
-  - images/img_4647.jpeg
-  - images/img_4648.jpeg
-  - images/img_4649.jpeg
-  - images/img_4650.jpeg
-  - images/img_4651.jpeg
-  - images/img_4657.jpeg
-  - images/img_4656.jpeg
+  - images/img_4647.webp
+  - images/img_4648.webp
+  - images/img_4649.webp
+  - images/img_4650.webp
+  - images/img_4651.webp
+  - images/img_4657.webp
+  - images/img_4656.webp
 ---
