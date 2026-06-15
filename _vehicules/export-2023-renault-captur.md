@@ -14,13 +14,13 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "12800"
 disponibilite: stock
-image: images/renault-capture-gris-argent.jpg
+image: images/renault-capture-gris-argent.webp
 gallery:
-  - images/img_4632.jpeg
-  - images/img_4634.jpeg
-  - images/img_4637.jpeg
-  - images/img_4643.jpeg
-  - images/img_4642.jpeg
-  - images/img_4639.jpeg
-  - images/img_4645.jpeg
+  - images/img_4632.webp
+  - images/img_4634.webp
+  - images/img_4637.webp
+  - images/img_4643.webp
+  - images/img_4642.webp
+  - images/img_4639.webp
+  - images/img_4645.webp
 ---
