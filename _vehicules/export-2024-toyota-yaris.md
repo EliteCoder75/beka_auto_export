@@ -12,7 +12,7 @@ fuel: Hybride
 exterior_color: "BLANC "
 interior_color: NOIR
 price: "18400"
-disponibilite: stock
+disponibilite: vendu
 image: images/toyota-yaris-cross.webp
 gallery:
   - images/img_2411-1-.webp
