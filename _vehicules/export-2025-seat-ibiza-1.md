@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14500"
 disponibilite: stock
-image: images/ibiza-noir.jpg
+image: images/ibiza-noir.webp
 ---
