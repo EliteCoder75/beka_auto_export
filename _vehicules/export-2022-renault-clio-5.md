@@ -14,12 +14,12 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "11300"
 disponibilite: stock
-image: images/renault-clio-5-equilibre-gris.jpg
+image: images/renault-clio-5-equilibre-gris.webp
 gallery:
-  - images/img_4679.jpeg
-  - images/img_4680.jpeg
-  - images/img_4681.jpeg
-  - images/img_4683.jpeg
-  - images/img_4684.jpeg
-  - images/img_4687.jpeg
+  - images/img_4679.webp
+  - images/img_4680.webp
+  - images/img_4681.webp
+  - images/img_4683.webp
+  - images/img_4684.webp
+  - images/img_4687.webp
 ---
