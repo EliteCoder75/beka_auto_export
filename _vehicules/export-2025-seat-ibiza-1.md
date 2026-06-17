@@ -1,6 +1,6 @@
 ---
 categorie: export
-id: VO-71
+id: VO-72
 brand: "SEAT "
 model: IBIZA
 finition: FR
