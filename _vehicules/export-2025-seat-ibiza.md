@@ -7,7 +7,7 @@ finition: FR
 year: 2025
 kilometrage: "22126"
 transmission: Manuelle
-motor: "1.0 ETSI 90 CH "
+motor: "1.0 ETSI 95 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
