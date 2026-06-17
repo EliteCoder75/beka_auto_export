@@ -14,11 +14,11 @@ exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "11300"
 disponibilite: stock
-image: images/clio-5-equilibre-gris-schiste.jpg
+image: images/clio-5-equilibre-gris-schiste.webp
 gallery:
-  - images/img_4667.jpeg
+  - images/img_4667.webp
   - images/img_4670.jpeg
-  - images/img_4669.jpeg
-  - images/img_4673.jpeg
-  - images/img_4675.jpeg
+  - images/img_4669.webp
+  - images/img_4673.webp
+  - images/img_4675.webp
 ---
