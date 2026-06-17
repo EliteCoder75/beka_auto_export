@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLEU "
 interior_color: NOIR
 price: "12500"
-disponibilite: vendu
+disponibilite: stock
 image: images/toyota-aygo-x.webp
 gallery:
   - images/img_2410-1-.webp
