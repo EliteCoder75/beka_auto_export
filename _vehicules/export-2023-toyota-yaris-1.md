@@ -11,7 +11,7 @@ motor: S 1.0 VVT-i 72 CH
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "13500"
+price: "13200"
 disponibilite: stock
 image: images/toyota-yaris-3.webp
 gallery:
