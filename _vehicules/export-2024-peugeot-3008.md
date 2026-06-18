@@ -11,7 +11,7 @@ motor: "1.2 PURETECK 130 "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "14800"
+price: "14000"
 disponibilite: stock
 image: images/3008-1.webp
 gallery:
