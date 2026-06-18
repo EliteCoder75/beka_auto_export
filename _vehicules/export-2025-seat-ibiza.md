@@ -15,9 +15,9 @@ price: "14500"
 disponibilite: stock
 image: images/ibiza-fr.webp
 gallery:
-  - images/img_4837.jpeg
-  - images/img_4838.jpeg
-  - images/img_4847.jpeg
-  - images/unnamed-4-.jpg
-  - images/img_4840.jpeg
+  - images/img_4837.webp
+  - images/img_4838.webp
+  - images/img_4847.webp
+  - images/unnamed-4-.webp
+  - images/img_4840.webp
 ---
