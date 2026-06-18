@@ -10,7 +10,7 @@ transmission: Manuelle
 motor: "1.2 PURE TECK 130 CH "
 fuel: Essence
 exterior_color: GRIS
-price: "17500"
+price: "16400"
 disponibilite: stock
 image: images/5008-gris.webp
 gallery:
