@@ -11,7 +11,7 @@ motor: "1.2 PURTECK 130 CH "
 fuel: Essence
 exterior_color: OLBIA BLEU
 interior_color: NOIR
-price: "12800"
+price: "12400"
 disponibilite: stock
 image: images/olbia-bleu.webp
 gallery:
