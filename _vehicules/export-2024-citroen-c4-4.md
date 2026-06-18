@@ -12,7 +12,7 @@ motor: "1.2 PURETECK 130 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "14500"
+price: "14300"
 disponibilite: stock
 image: images/c4-x-noir-2.webp
 gallery:
