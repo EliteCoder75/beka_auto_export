@@ -15,10 +15,10 @@ price: "14000"
 disponibilite: stock
 image: images/3008-1.webp
 gallery:
-  - images/img_4781.jpeg
-  - images/img_4892.jpeg
-  - images/img_4897.jpeg
-  - images/img_4905.jpeg
-  - images/img_4903.jpeg
-  - images/img_4907.jpeg
+  - images/img_4781.webp
+  - images/img_4892.webp
+  - images/img_4897.webp
+  - images/img_4905.webp
+  - images/img_4903.webp
+  - images/img_4907.webp
 ---
