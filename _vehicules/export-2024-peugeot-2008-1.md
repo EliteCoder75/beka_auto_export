@@ -3,7 +3,7 @@ categorie: export
 id: VO-341
 brand: "PEUGEOT "
 model: "2008"
-finition: ALLURE
+finition: "ACTIVE "
 year: 2024
 kilometrage: "54404"
 transmission: Manuelle
