@@ -13,10 +13,10 @@ exterior_color: "BLANC "
 interior_color: "NOIR "
 price: "14400"
 disponibilite: stock
-image: images/clio-5-ev.jpg
+image: images/clio-5-ev.webp
 gallery:
-  - images/img_4740.jpeg
-  - images/img_4741.jpeg
-  - images/img_4742.jpeg
-  - images/img_4743.jpeg
+  - images/img_4740.webp
+  - images/img_4741.webp
+  - images/img_4742.webp
+  - images/img_4743.webp
 ---
