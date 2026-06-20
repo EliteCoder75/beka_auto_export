@@ -7,7 +7,7 @@ finition: ALLURE
 year: 2024
 kilometrage: "80205"
 transmission: Manuelle
-motor: "1.2 PURETECK 130 "
+motor: "1.2 PURETECK 130 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
