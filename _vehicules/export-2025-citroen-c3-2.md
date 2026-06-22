@@ -16,10 +16,10 @@ price: "13500"
 disponibilite: stock
 image: images/c3-max.webp
 gallery:
-  - images/img_4961.jpeg
-  - images/img_4963.jpeg
-  - images/img_4957.jpeg
-  - images/img_4953-1-.jpeg
-  - images/img_4954.jpeg
-  - images/img_4959.jpeg
+  - images/img_4961.webp
+  - images/img_4963.webp
+  - images/img_4957.webp
+  - images/img_4953-1-.webp
+  - images/img_4954.webp
+  - images/img_4959.webp
 ---
