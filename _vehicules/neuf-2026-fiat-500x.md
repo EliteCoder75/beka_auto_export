@@ -11,7 +11,7 @@ motor: "1.4 MULTIAIR 140 CH "
 fuel: Essence
 exterior_color: "NOIR "
 interior_color: "NOIR "
-price: "14000"
+price: "13900"
 disponibilite: stock
 image: images/fiat-500x.webp
 gallery:
