@@ -13,13 +13,13 @@ exterior_color: "BLANC "
 interior_color: NOIR
 price: "11500"
 disponibilite: stock
-image: images/peugeot-208-blanche.jpg
+image: images/peugeot-208-blanche.webp
 gallery:
-  - images/img_5042.jpeg
-  - images/img_5043-1-.jpeg
-  - images/img_5044.jpeg
-  - images/img_5036.jpeg
-  - images/img_5038.jpeg
-  - images/img_5037.jpeg
-  - images/img_5039.jpeg
+  - images/img_5042.webp
+  - images/img_5043-1-.webp
+  - images/img_5044.webp
+  - images/img_5036.webp
+  - images/img_5038.webp
+  - images/img_5037.webp
+  - images/img_5039.webp
 ---
