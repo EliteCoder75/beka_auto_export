@@ -10,7 +10,7 @@ transmission: Automatique
 motor: "1.6 TURBO 186 CH "
 fuel: Essence
 exterior_color: NOIR
-interior_color: NOIR
+interior_color: "ORANGE "
 price: "19000"
 disponibilite: stock
 image: images/kaiyi.webp
