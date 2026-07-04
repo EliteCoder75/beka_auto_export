@@ -13,16 +13,16 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "19000"
 disponibilite: stock
-image: images/kaiyi.jpg
+image: images/kaiyi.webp
 gallery:
-  - images/img_5230.jpeg
-  - images/img_5231.jpeg
-  - images/img_5234.jpeg
-  - images/img_5236.jpeg
-  - images/img_5251.jpeg
-  - images/img_5239.jpeg
-  - images/img_5252.jpeg
-  - images/img_5250.jpeg
-  - images/img_5247.jpeg
-  - images/img_5245.jpeg
+  - images/img_5230.webp
+  - images/img_5231.webp
+  - images/img_5234.webp
+  - images/img_5236.webp
+  - images/img_5251.webp
+  - images/img_5239.webp
+  - images/img_5252.webp
+  - images/img_5250.webp
+  - images/img_5247.webp
+  - images/img_5245.webp
 ---
