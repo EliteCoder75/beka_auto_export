@@ -13,16 +13,16 @@ exterior_color: "BLACK SAPPHIRE "
 interior_color: "MARRON "
 price: "65000"
 disponibilite: stock
-image: images/bmw.jpg
+image: images/bmw.webp
 gallery:
-  - images/img_5324.jpeg
-  - images/img_5327.jpeg
-  - images/img_5330.jpeg
-  - images/img_5346.jpeg
-  - images/img_5349.jpeg
-  - images/img_5352.jpeg
-  - images/img_5332.jpeg
-  - images/img_5368.jpeg
-  - images/img_5367.jpeg
-  - images/unnamed-5-.jpg
+  - images/img_5324.webp
+  - images/img_5327.webp
+  - images/img_5330.webp
+  - images/img_5346.webp
+  - images/img_5349.webp
+  - images/img_5352.webp
+  - images/img_5332.webp
+  - images/img_5368.webp
+  - images/img_5367.webp
+  - images/unnamed-5-.webp
 ---
