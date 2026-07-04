@@ -13,16 +13,16 @@ exterior_color: "GRISNARDO "
 interior_color: "NOIR "
 price: "26000"
 disponibilite: stock
-image: images/opel-grand-land.jpg
+image: images/opel-grand-land.webp
 gallery:
-  - images/img_5258.jpeg
-  - images/img_5260.jpeg
-  - images/img_5261.jpeg
-  - images/img_5262.jpeg
-  - images/img_5264.jpeg
-  - images/img_5263.jpeg
-  - images/img_5268.jpeg
-  - images/img_5272.jpeg
-  - images/img_5275.jpeg
-  - images/img_5269-1-.jpeg
+  - images/img_5258.webp
+  - images/img_5260.webp
+  - images/img_5261.webp
+  - images/img_5262.webp
+  - images/img_5264.webp
+  - images/img_5263.webp
+  - images/img_5268.webp
+  - images/img_5272.webp
+  - images/img_5275.webp
+  - images/img_5269-1-.webp
 ---
