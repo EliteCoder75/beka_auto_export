@@ -13,11 +13,11 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "12000"
 disponibilite: stock
-image: images/peugeot-208.png
+image: images/peugeot-208.webp
 gallery:
-  - images/img_5388.jpeg
-  - images/img_5391.jpeg
-  - images/img_5401.jpeg
-  - images/img_5394.jpeg
-  - images/img_5402.jpeg
+  - images/img_5388.webp
+  - images/img_5391.webp
+  - images/img_5401.webp
+  - images/img_5394.webp
+  - images/img_5402.webp
 ---
