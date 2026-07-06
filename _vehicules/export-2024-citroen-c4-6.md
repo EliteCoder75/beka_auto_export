@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLEU NUIT "
 interior_color: NOIR
 price: "12800"
-disponibilite: stock
+disponibilite: vendu
 image: images/c4-bleu-nuit.webp
 gallery:
   - images/img_4100.webp
