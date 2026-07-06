@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: "NOIR "
 price: "16000"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-austral.webp
 gallery:
   - images/img_4910-1-.webp
