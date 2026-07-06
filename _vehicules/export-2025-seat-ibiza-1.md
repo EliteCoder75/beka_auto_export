@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "14500"
-disponibilite: stock
+disponibilite: vendu
 image: images/ibiza-noir.webp
 ---
