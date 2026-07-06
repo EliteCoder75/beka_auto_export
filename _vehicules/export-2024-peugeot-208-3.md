@@ -13,12 +13,12 @@ exterior_color: "GRIS NARDO "
 interior_color: "NOIR "
 price: "12000"
 disponibilite: stock
-image: images/peugeot-208.png
+image: images/peugeot-208.webp
 gallery:
-  - images/img_5434.jpeg
-  - images/img_5436.jpeg
-  - images/img_5428.jpeg
-  - images/img_5425.jpeg
-  - images/img_5419.jpeg
-  - images/img_5431.jpeg
+  - images/img_5434.webp
+  - images/img_5436.webp
+  - images/img_5428.webp
+  - images/img_5425.webp
+  - images/img_5419.webp
+  - images/img_5431.webp
 ---
