@@ -11,7 +11,7 @@ motor: "1.2 PURETECK 100 CH "
 fuel: Essence
 exterior_color: "GRIS NARDO "
 interior_color: "NOIR "
-price: "12000"
+price: "12400"
 disponibilite: stock
 image: images/peugeot-208.webp
 gallery:
