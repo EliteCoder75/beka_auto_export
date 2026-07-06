@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "13700"
-disponibilite: stock
+disponibilite: vendu
 image: images/citroen-c4-mai.webp
 gallery:
   - images/img_4079.webp
