@@ -13,11 +13,11 @@ exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "14400"
 disponibilite: stock
-image: images/clio-5-evolution.png
+image: images/clio-5-evolution.webp
 gallery:
   - images/img_5186-1-.jpeg
-  - images/img_5187.jpeg
-  - images/img_5185.jpeg
-  - images/img_5183.jpeg
-  - images/img_5179.jpeg
+  - images/img_5187.webp
+  - images/img_5185.webp
+  - images/img_5183.webp
+  - images/img_5179.webp
 ---
