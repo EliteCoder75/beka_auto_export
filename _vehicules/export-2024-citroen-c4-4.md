@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "14300"
-disponibilite: stock
+disponibilite: vendu
 image: images/c4-x-noir-2.webp
 gallery:
   - images/img_4056.webp
