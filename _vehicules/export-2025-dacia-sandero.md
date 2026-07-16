@@ -11,7 +11,7 @@ motor: "1.0 TCE 110 CH "
 fuel: Essence
 exterior_color: VERT
 interior_color: "NOIR "
-price: "14500"
+price: "14200"
 disponibilite: stock
 image: images/dacia-stepway-extreme-plus.webp
 gallery:
