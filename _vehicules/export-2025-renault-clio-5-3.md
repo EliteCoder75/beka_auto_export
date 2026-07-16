@@ -11,7 +11,7 @@ motor: "1.0 TCE 90 CH TURBO "
 fuel: Essence
 exterior_color: "BLANC "
 interior_color: "NOIR "
-price: "14400"
+price: "14200"
 disponibilite: stock
 image: images/clio-5-ev.webp
 gallery:
