@@ -11,7 +11,7 @@ motor: "1.6 HDI 92 CH "
 fuel: Diesel
 exterior_color: "GRIS ARGENT "
 interior_color: "NOIR "
-price: "18900"
+price: "18500"
 disponibilite: stock
 image: images/peugoet-rifter-allure.webp
 gallery:
