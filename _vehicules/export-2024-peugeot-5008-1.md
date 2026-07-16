@@ -10,7 +10,7 @@ transmission: Manuelle
 motor: "1.2 pure teck 130CH "
 fuel: Essence
 exterior_color: BLEU
-price: "17500"
+price: "16500"
 disponibilite: stock
 image: images/5008-bleu.webp
 gallery:
