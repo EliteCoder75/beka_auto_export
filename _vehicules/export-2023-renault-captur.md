@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "12800"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-capture-gris-argent.webp
 gallery:
   - images/img_4632.webp
