@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "13500"
-disponibilite: stock
+disponibilite: vendu
 image: images/c3-max.webp
 gallery:
   - images/img_4961.webp
