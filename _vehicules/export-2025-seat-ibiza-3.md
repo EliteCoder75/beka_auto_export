@@ -1,11 +1,11 @@
 ---
 categorie: export
-id: VO-8609
+id: VO-8821
 brand: SEAT
 model: IBIZA
 finition: FR
 year: 2025
-kilometrage: "27060"
+kilometrage: "29088"
 transmission: Manuelle
 motor: "1.0 TSI 95 CH "
 fuel: Essence
