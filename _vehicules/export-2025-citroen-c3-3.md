@@ -13,5 +13,5 @@ exterior_color: BLEU
 interior_color: NOIR
 price: "13200"
 disponibilite: stock
-image: images/c3.jpg
+image: images/c3.webp
 ---
