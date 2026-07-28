@@ -1,5 +1,5 @@
 ---
-categorie: export
+categorie: neuf
 id: VO-3673
 brand: "CITROEN "
 model: C3
@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "13200"
 disponibilite: stock
-image: images/citroen-c3-grise.webp
+image: images/citroen-c3-grise.jpg
 ---
