@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "14000"
-disponibilite: stock
+disponibilite: vendu
 image: images/3008-1.webp
 gallery:
   - images/img_4781.webp
