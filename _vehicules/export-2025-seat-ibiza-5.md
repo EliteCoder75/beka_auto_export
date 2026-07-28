@@ -15,8 +15,8 @@ price: "14200"
 disponibilite: stock
 image: images/seat-ibiza-fr-gris.webp
 gallery:
-  - images/img_6090.jpeg
-  - images/img_6091.jpeg
-  - images/img_6094.jpeg
-  - images/img_6093.jpeg
+  - images/img_6090.webp
+  - images/img_6091.webp
+  - images/img_6094.webp
+  - images/img_6093.webp
 ---
