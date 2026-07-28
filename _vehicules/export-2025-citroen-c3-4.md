@@ -15,9 +15,9 @@ price: "13200"
 disponibilite: stock
 image: images/c3-n.webp
 gallery:
-  - images/img_6113.jpeg
-  - images/img_6116.jpeg
-  - images/img_6117.jpeg
-  - images/img_6120.jpeg
-  - images/img_6123.jpeg
+  - images/img_6113.webp
+  - images/img_6116.webp
+  - images/img_6117.webp
+  - images/img_6120.webp
+  - images/img_6123.webp
 ---
