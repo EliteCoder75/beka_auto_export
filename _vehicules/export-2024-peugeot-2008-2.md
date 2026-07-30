@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "12200"
 disponibilite: stock
-image: images/peugeot-2008-noir.jpg
+image: images/peugeot-2008-noir.webp
 ---
