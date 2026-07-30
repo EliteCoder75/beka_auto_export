@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "12200"
 disponibilite: stock
-image: images/2008-allure-gris-souris.jpg
+image: images/2008-allure-gris-souris.webp
 ---
