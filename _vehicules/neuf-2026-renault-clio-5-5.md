@@ -11,7 +11,7 @@ motor: "1.0 TCE 90 CH TURBO "
 fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
-price: "15900"
+price: "15500"
 disponibilite: stock
 image: images/renault-clio-gris-souris.jpg
 ---
