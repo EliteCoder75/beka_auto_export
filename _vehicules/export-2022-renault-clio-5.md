@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "11300"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-clio-5-equilibre-gris.webp
 gallery:
   - images/img_4679.webp
