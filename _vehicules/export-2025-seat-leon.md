@@ -13,11 +13,11 @@ exterior_color: GRIS MAGNETIC
 interior_color: NOIR
 price: "18900"
 disponibilite: stock
-image: images/seat-leon.jpg
+image: images/seat-leon.webp
 gallery:
-  - images/img_6395.jpeg
-  - images/img_6398.jpeg
-  - images/img_6399.jpeg
-  - images/img_6410.jpeg
-  - images/img_6407.jpeg
+  - images/img_6395.webp
+  - images/img_6398.webp
+  - images/img_6399.webp
+  - images/img_6410.webp
+  - images/img_6407.webp
 ---
