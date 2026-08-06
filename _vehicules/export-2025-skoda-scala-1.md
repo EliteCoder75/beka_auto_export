@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "15500"
 disponibilite: stock
-image: images/scoda-scala.png
+image: images/scoda-scala.webp
 ---
