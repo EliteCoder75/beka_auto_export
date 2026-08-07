@@ -9,9 +9,9 @@ kilometrage: "13762"
 transmission: Manuelle
 motor: "1.0 TSI 115 CH "
 fuel: Essence
-exterior_color: NOIR
+exterior_color: "GRIS GRAPHITE "
 interior_color: NOIR
 price: "15500"
 disponibilite: stock
-image: images/scoda-scala.webp
+image: images/skoda-scala-gris.jpg
 ---
