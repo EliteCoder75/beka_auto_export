@@ -13,5 +13,5 @@ exterior_color: "GRIS GRAPHITE "
 interior_color: NOIR
 price: "15500"
 disponibilite: stock
-image: images/skoda-scala-gris.jpg
+image: images/skoda-scala-gris.webp
 ---
