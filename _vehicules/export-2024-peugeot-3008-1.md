@@ -4,7 +4,7 @@ id: VO-216
 brand: PEUGEOT
 model: "3008"
 finition: ALLURE
-year: 2024
+year: 2023
 kilometrage: "70503"
 transmission: Manuelle
 motor: "1.2 PURETECK 130 CH "
