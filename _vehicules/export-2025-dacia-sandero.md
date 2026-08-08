@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: VERT
 interior_color: "NOIR "
 price: "14200"
-disponibilite: stock
+disponibilite: vendu
 image: images/dacia-stepway-extreme-plus.webp
 gallery:
   - images/img_4593.webp
