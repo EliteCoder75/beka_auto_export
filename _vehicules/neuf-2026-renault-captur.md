@@ -11,7 +11,7 @@ fuel: Essence
 exterior_color: "GRIS SCHISTE "
 interior_color: NOIR
 price: 19000
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-capture-gris-schiste.webp
 gallery:
   - images/img_2062-1-.webp
