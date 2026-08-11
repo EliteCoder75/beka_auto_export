@@ -13,7 +13,7 @@ fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "11300"
-disponibilite: stock
+disponibilite: vendu
 image: images/clio-5-equilibre-gris-schiste.webp
 gallery:
   - images/img_4667.webp
