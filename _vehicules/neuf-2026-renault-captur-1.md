@@ -11,7 +11,7 @@ fuel: Essence
 exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: 19400
-disponibilite: stock
+disponibilite: vendu
 image: images/design-sans-titre-3-.webp
 gallery:
   - images/img_2201-1-.webp
