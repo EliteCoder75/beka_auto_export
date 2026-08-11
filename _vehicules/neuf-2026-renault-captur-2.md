@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLEU "
 interior_color: "NOIR "
 price: 19400
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-capture-bleu.webp
 gallery:
   - images/img_2204.webp
