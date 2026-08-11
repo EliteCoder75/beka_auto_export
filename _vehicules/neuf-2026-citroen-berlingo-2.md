@@ -12,7 +12,7 @@ fuel: Diesel
 exterior_color: "NOIR "
 interior_color: NOIR
 price: "21500"
-disponibilite: stock
+disponibilite: vendu
 image: images/citroen-berlingo-xtr-noir.webp
 gallery:
   - images/img_2797.webp
