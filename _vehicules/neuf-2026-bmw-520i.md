@@ -7,7 +7,7 @@ finition: "M SPORT "
 year: 2026
 kilometrage: "00"
 transmission: Automatique
-motor: "1.6 TURBO 190 CH "
+motor: "1.6 TURBO 200 CH "
 fuel: Essence
 exterior_color: "BLACK SAPPHIRE "
 interior_color: "MARRON "
