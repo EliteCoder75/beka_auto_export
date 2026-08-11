@@ -12,7 +12,7 @@ fuel: Diesel
 exterior_color: "BLEU VERT "
 interior_color: "NOIR "
 price: "20900"
-disponibilite: stock
+disponibilite: vendu
 image: images/berlingo-xtr-bleu.webp
 gallery:
   - images/img_2835.webp
