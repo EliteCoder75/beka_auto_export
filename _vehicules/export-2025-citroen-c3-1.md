@@ -8,11 +8,11 @@ year: 2025
 circulation_date: " "
 kilometrage: "42206"
 transmission: Manuelle
-motor: "1.2 TURBO 110 CH "
+motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "13500"
+price: "13000"
 disponibilite: stock
 image: images/c3-max.webp
 gallery:
