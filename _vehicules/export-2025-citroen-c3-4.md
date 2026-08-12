@@ -7,11 +7,11 @@ finition: "MAX PLUS "
 year: 2025
 kilometrage: "22996"
 transmission: Manuelle
-motor: "1.2 TURBO 110 CH "
+motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "13200"
+price: "13000"
 disponibilite: stock
 image: images/c3-n.webp
 gallery:
