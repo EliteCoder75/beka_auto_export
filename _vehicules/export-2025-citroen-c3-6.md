@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "13200"
-disponibilite: stock
+disponibilite: vendu
 image: images/citroen-c3-grise.webp
 ---
