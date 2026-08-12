@@ -8,7 +8,7 @@ year: 2025
 circulation_date: " "
 kilometrage: "33875"
 transmission: Manuelle
-motor: "1.2 TURBO 110 CH "
+motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
