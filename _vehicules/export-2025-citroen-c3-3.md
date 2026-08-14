@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: BLEU
 interior_color: NOIR
 price: "13200"
-disponibilite: stock
+disponibilite: vendu
 image: images/c3.webp
 ---
