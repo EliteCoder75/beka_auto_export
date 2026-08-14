@@ -12,5 +12,5 @@ fuel: Essence
 exterior_color: GRIS NARDO
 price: "12300"
 disponibilite: stock
-image: images/cl-gris-souris.jpg
+image: images/cl-gris-souris.webp
 ---
