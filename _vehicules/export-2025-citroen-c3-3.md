@@ -7,7 +7,7 @@ finition: "MAX PLUS "
 year: 2025
 kilometrage: "16284"
 transmission: Manuelle
-motor: "1.2 TURBO 110 CH "
+motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: BLEU
 interior_color: NOIR
