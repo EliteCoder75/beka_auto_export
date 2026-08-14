@@ -13,5 +13,5 @@ exterior_color: BLEU
 interior_color: "NOIR "
 price: "12300"
 disponibilite: stock
-image: images/renault-clio-5-bleu.jpg
+image: images/renault-clio-5-bleu.webp
 ---
