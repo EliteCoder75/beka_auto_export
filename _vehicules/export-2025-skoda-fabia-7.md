@@ -11,7 +11,7 @@ fuel: Essence
 exterior_color: "BLANC "
 interior_color: NOIR
 price: "15200"
-disponibilite: stock
+disponibilite: vendu
 image: images/skoda-fabia-blanche.webp
 gallery:
   - images/img_3670.webp
