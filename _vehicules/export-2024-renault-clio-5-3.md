@@ -12,5 +12,5 @@ fuel: Essence
 exterior_color: GRIS NARDO
 price: "12300"
 disponibilite: stock
-image: images/clio-5-gris-nardo-2024.jpg
+image: images/clio-5-gris-nardo-2024.webp
 ---
