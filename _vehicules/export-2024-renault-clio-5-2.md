@@ -13,5 +13,5 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "12300"
 disponibilite: stock
-image: images/clio-5-gris-nardo-2024.jpg
+image: images/clio-5-gris-nardo-2024.webp
 ---
