@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "14500"
 disponibilite: stock
-image: images/citroen-c3-gris.jpg
+image: images/citroen-c3-gris.webp
 ---
