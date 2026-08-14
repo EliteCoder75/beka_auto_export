@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "13000"
 disponibilite: stock
-image: images/c3-noir-toit-blanc.jpg
+image: images/c3-noir-toit-blanc.webp
 ---
