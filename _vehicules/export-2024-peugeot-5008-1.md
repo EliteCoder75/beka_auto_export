@@ -7,7 +7,7 @@ finition: "ALLURE 7 PLACES "
 year: 2024
 kilometrage: "46000"
 transmission: Manuelle
-motor: "1.2 pure teck 130CH "
+motor: "1.2 purteck 130CH "
 fuel: Essence
 exterior_color: BLEU
 price: "16500"
