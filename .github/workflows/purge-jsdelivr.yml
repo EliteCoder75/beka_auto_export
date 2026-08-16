@@ -27,16 +27,13 @@ jobs:
             BEFORE="HEAD~1"
           fi
           FILES=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- 'images/**' || true)
-          URLS=""
-          for f in $FILES; do
-            if [ -f "$f" ]; then
-              URLS="$URLS
-https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/$f"
-            fi
-          done
           {
             echo "urls<<EOF"
-            echo "$URLS"
+            for f in $FILES; do
+              if [ -f "$f" ]; then
+                echo "https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/$f"
+              fi
+            done
             echo "EOF"
           } >> "$GITHUB_OUTPUT"
 
