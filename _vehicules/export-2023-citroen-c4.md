@@ -20,5 +20,4 @@ gallery:
   - images/img_4069.webp
   - images/img_4070.webp
   - images/img_4071.webp
-  - images/img_4076.webp
 ---
