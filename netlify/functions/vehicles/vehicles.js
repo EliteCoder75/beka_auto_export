@@ -16,7 +16,7 @@ const REPO   = 'beka_auto_export';
 const BRANCH = 'main';
 const TOKEN  = process.env.GITHUB_TOKEN;
 
-const CACHE_TTL_MS = 5 * 60 * 1000;
+const CACHE_TTL_MS = 60 * 1000;
 let cache = { data: null, ts: 0 };
 
 const HEADERS = {

@@ -5,7 +5,7 @@
  */
 
 const _cache = {};
-const CACHE_TTL = 5 * 60 * 1000; // 5 min
+const CACHE_TTL = 60 * 1000; // 1 min
 
 async function loadFromAPI(categorie) {
     const url = categorie
