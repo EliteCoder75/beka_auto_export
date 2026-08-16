@@ -2,6 +2,10 @@
   publish = "."
   command = "npm install && npm run build"
   functions = "netlify/functions"
+  # Les véhicules (_vehicules/) et photos (images/) sont lus en direct par
+  # la fonction vehicles.js depuis GitHub — pas besoin de redéployer le site
+  # quand seuls ces dossiers changent (ex: ajout/edit d'un véhicule via la CMS).
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)_vehicules' ':(exclude)images'"
 
 [build.environment]
   NODE_VERSION = "18"

@@ -1,0 +1,47 @@
+name: Purge jsDelivr cache
+
+# Les photos véhicules sont servies via jsDelivr (cdn.jsdelivr.net) pour ne
+# plus dépendre d'un déploiement Netlify. jsDelivr met les fichiers en cache
+# jusqu'à 7 jours : ce workflow force le rafraîchissement des fichiers
+# modifiés à chaque push, pour que les nouvelles photos apparaissent vite.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'images/**'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Lister les images modifiées
+        id: changed
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            BEFORE="HEAD~1"
+          fi
+          FILES=$(git diff --name-only "$BEFORE" "${{ github.sha }}" -- 'images/**' || true)
+          URLS=""
+          for f in $FILES; do
+            if [ -f "$f" ]; then
+              URLS="$URLS
+https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/$f"
+            fi
+          done
+          {
+            echo "urls<<EOF"
+            echo "$URLS"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Purger jsDelivr
+        if: steps.changed.outputs.urls != ''
+        uses: egad13/purge-jsdelivr-cache@v1
+        with:
+          url: ${{ steps.changed.outputs.urls }}
