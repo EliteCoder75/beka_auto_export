@@ -11,7 +11,7 @@ motor: "1.2 PURETECK 110 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "12100"
+price: "11600"
 disponibilite: stock
 image: images/citroen-c3-air-cross.webp
 gallery:
