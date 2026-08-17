@@ -7,7 +7,7 @@ finition: AIRCROSS
 year: 2024
 kilometrage: "36000"
 transmission: Manuelle
-motor: "1.2 PURETECK 130 CH "
+motor: "1.2 PURETECK 110 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
