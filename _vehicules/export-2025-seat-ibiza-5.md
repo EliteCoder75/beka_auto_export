@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "14200"
-disponibilite: stock
+disponibilite: vendu
 image: images/seat-ibiza-fr-gris.webp
 gallery:
   - images/img_6172.webp
