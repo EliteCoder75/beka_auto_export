@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: GRIS MAGNETIC
 interior_color: NOIR
 price: "18900"
-disponibilite: stock
+disponibilite: vendu
 image: images/seat-leon.webp
 gallery:
   - images/img_6395.webp
