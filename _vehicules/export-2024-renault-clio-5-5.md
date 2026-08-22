@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: BLEU
 interior_color: NOIR
 price: "12300"
-disponibilite: vendu
+disponibilite: stock
 image: images/renault-clio-5-bleu.webp
 ---
