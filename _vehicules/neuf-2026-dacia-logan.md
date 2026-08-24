@@ -10,7 +10,7 @@ motor: "1.0 TCE 100 CH "
 fuel: Essence
 exterior_color: "GRIS NARDO "
 interior_color: NOIR
-price: "11900"
+price: "11500"
 disponibilite: stock
 image: images/dacia-logan.webp
 gallery:
