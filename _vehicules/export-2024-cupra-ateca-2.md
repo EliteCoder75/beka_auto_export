@@ -13,5 +13,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "26000"
 disponibilite: stock
-image: images/cupra-ateca.webp
+image: images/cupra-ateca.jpg
 ---
