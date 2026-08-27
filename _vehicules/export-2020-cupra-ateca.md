@@ -3,7 +3,7 @@ categorie: export
 id: VO-5055
 brand: "CUPRA "
 model: ATECA
-year: 2020
+year: 2024
 kilometrage: "14119"
 transmission: Automatique
 motor: "1.5 TSI 150 CV "
