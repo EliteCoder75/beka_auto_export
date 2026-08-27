@@ -8,7 +8,7 @@ kilometrage: "7667"
 transmission: Automatique
 motor: "1.5 TSI 150 CV "
 fuel: Essence
-exterior_color: NOIR
+exterior_color: GRIS
 interior_color: NOIR
 price: "26000"
 disponibilite: stock
