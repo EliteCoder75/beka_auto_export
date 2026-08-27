@@ -12,5 +12,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "26000"
 disponibilite: stock
-image: images/voiture.jpg
+image: images/voiture.webp
 ---
