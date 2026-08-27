@@ -12,5 +12,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "26000"
 disponibilite: stock
-image: images/cupra-ateca-noir-2024-aout.webp
+image: images/voiture.jpg
 ---
