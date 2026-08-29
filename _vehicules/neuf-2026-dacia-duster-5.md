@@ -11,7 +11,7 @@ motor: "1.3 TCE 150 CH "
 fuel: Essence
 exterior_color: "VERT KAKI "
 interior_color: NOIR
-price: "16900"
+price: "16700"
 disponibilite: stock
 image: images/dacia-duster-vert-kaki.webp
 gallery:
