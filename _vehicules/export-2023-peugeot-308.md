@@ -11,7 +11,7 @@ motor: 1.2 PURETECK 130 CH
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "12800"
+price: "12200"
 disponibilite: stock
 image: images/308-2023.webp
 gallery:
