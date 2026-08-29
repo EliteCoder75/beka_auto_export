@@ -11,7 +11,7 @@ motor: "1.3 TCE 150 CH "
 fuel: Essence
 exterior_color: BEIGE
 interior_color: NOIR
-price: "17900"
+price: "17700"
 disponibilite: stock
 image: images/dacia-duster-beige-ext.webp
 gallery:
