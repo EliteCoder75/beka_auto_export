@@ -13,14 +13,14 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "25500"
 disponibilite: stock
-image: images/volkswagen-t-roc.jpg
+image: images/volkswagen-t-roc.webp
 gallery:
-  - images/img_7081.jpeg
-  - images/img_7084.jpeg
-  - images/img_7085.jpeg
-  - images/img_7088.jpeg
-  - images/img_7079.jpeg
-  - images/img_7087.jpeg
-  - images/img_7089.jpeg
-  - images/img_7074.jpeg
+  - images/img_7081.webp
+  - images/img_7084.webp
+  - images/img_7085.webp
+  - images/img_7088.webp
+  - images/img_7079.webp
+  - images/img_7087.webp
+  - images/img_7089.webp
+  - images/img_7074.webp
 ---
