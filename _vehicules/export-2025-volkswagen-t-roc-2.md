@@ -13,13 +13,13 @@ exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "25500"
 disponibilite: stock
-image: images/t-roc-noir.jpg
+image: images/t-roc-noir.webp
 gallery:
-  - images/img_7103.jpeg
-  - images/img_7107.jpeg
-  - images/img_7104.jpeg
-  - images/img_7106-1-.jpeg
-  - images/img_7110.jpeg
-  - images/img_7113.jpeg
-  - images/img_7109-2-.jpeg
+  - images/img_7103.webp
+  - images/img_7107.webp
+  - images/img_7104.webp
+  - images/img_7106-1-.webp
+  - images/img_7110.webp
+  - images/img_7113.webp
+  - images/img_7109-2-.webp
 ---
