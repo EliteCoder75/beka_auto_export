@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "13000"
-disponibilite: stock
+disponibilite: vendu
 image: images/c3-noir-toit-blanc.webp
 ---
