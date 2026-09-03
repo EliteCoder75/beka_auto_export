@@ -15,11 +15,11 @@ price: "15500"
 disponibilite: stock
 image: images/scoda-scala.webp
 gallery:
-  - images/img_7184-1-.jpeg
-  - images/img_7185.jpeg
-  - images/img_7186.jpeg
-  - images/img_7187-2-.jpeg
-  - images/img_7191.jpeg
-  - images/img_7190.jpeg
-  - images/img_7193-1-.jpeg
+  - images/img_7184-1-.webp
+  - images/img_7185.webp
+  - images/img_7186.webp
+  - images/img_7187-2-.webp
+  - images/img_7191.webp
+  - images/img_7190.webp
+  - images/img_7193-1-.webp
 ---
