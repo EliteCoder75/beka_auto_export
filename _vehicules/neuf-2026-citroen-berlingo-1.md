@@ -12,7 +12,7 @@ fuel: Diesel
 exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "21500"
-disponibilite: stock
+disponibilite: vendu
 image: images/citroen-berlingo-xtr-gris.webp
 gallery:
   - images/img_1180-1-.webp
