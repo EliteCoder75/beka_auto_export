@@ -15,11 +15,11 @@ price: "12300"
 disponibilite: stock
 image: images/renault-clio-5-bleu.webp
 gallery:
-  - images/img_6912.jpeg
-  - images/img_6914.jpeg
-  - images/img_6916.jpeg
-  - images/img_6919.jpeg
-  - images/img_6918.jpeg
-  - images/img_6925.jpeg
-  - images/img_6924.jpeg
+  - images/img_6912.webp
+  - images/img_6914.webp
+  - images/img_6916.webp
+  - images/img_6919.webp
+  - images/img_6918.webp
+  - images/img_6925.webp
+  - images/img_6924.webp
 ---
