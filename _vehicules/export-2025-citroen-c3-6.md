@@ -11,7 +11,7 @@ motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
-price: "13200"
+price: "12900"
 disponibilite: vendu
 image: images/citroen-c3-grise.webp
 ---
