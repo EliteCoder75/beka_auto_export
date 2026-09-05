@@ -12,7 +12,7 @@ motor: "1.2 TURBO 100 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "13000"
+price: "12800"
 disponibilite: stock
 image: images/c3-max.webp
 gallery:
