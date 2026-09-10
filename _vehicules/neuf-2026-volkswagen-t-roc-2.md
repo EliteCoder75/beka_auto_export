@@ -12,7 +12,7 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "34500"
 disponibilite: stock
-image: images/design-sans-titre-2-.png
+image: images/design-sans-titre-2-.webp
 gallery:
   - images/img_7362-1-.webp
   - images/img_7367-1-.webp
