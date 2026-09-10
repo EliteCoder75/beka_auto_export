@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLANC "
 interior_color: NOIR
 price: "11500"
-disponibilite: stock
+disponibilite: vendu
 image: images/peugeot-208-blanche.webp
 gallery:
   - images/img_5042.webp
