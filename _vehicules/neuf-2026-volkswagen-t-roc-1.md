@@ -12,16 +12,16 @@ exterior_color: NOIR
 interior_color: "NOIR "
 price: "34500"
 disponibilite: stock
-image: images/t-roc-00.png
+image: images/t-roc-00.webp
 gallery:
-  - images/t-roc.jpeg
-  - images/tr1.jpeg
-  - images/tr3.jpeg
-  - images/tr4.jpeg
-  - images/tr9.jpeg
-  - images/tr5.jpeg
-  - images/tr7.jpeg
-  - images/tr6.jpeg
-  - images/tr2.jpeg
-  - images/tr8.jpeg
+  - images/t-roc.webp
+  - images/tr1.webp
+  - images/tr3.webp
+  - images/tr4.webp
+  - images/tr9.webp
+  - images/tr5.webp
+  - images/tr7.webp
+  - images/tr6.webp
+  - images/tr2.webp
+  - images/tr8.webp
 ---
