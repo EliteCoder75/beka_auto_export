@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS ARGENT "
 interior_color: NOIR
 price: "11800"
-disponibilite: stock
+disponibilite: vendu
 image: images/208-peugeot-auto.webp
 gallery:
   - images/img_4315.webp
