@@ -11,7 +11,7 @@ motor: "1.3 TCE 155 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: 19400
+price: "19000"
 disponibilite: stock
 image: images/renault-capture-noir.webp
 gallery:
