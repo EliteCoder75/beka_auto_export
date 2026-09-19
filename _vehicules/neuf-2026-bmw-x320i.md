@@ -13,7 +13,7 @@ exterior_color: NOIR
 interior_color: NOIR / ORANGE
 price: "52900"
 disponibilite: stock
-image: images/design-sans-titre-7-.webp
+image: images/design-sans-titre-8-.png
 gallery:
   - images/whatsapp-image-2026-09-19-at-16.44.03.webp
   - images/e-2026-09-19-at-16.44.04.webp
