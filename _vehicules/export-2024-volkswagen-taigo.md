@@ -13,15 +13,15 @@ exterior_color: BEIGE
 interior_color: NOIR
 price: "14050"
 disponibilite: stock
-image: images/design-sans-titre-10-.png
+image: images/design-sans-titre-10-.webp
 gallery:
-  - images/whatsapp-image-2026-09-26-at-11.39.22.jpeg
-  - images/whatsapp-image-2026-09-26-at-11.39.23.jpeg
-  - images/whatsapp-image-2026-09-26-at-11.39.24.jpeg
-  - images/¨pp.jpeg
-  - images/whatsapp-image-2026-09-26-at-11.39.25.jpeg
-  - images/whatsapp-image-2026-09-26-a.jpeg
-  - images/whatsapp-image-2026-6.jpeg
-  - images/whatsapp-image-2026-09-26-at-11.39.24.jpeg
-  - images/image-2026-09-26-at-11.39.25.jpeg
+  - images/whatsapp-image-2026-09-26-at-11.39.22.webp
+  - images/whatsapp-image-2026-09-26-at-11.39.23.webp
+  - images/whatsapp-image-2026-09-26-at-11.39.24.webp
+  - images/¨pp.webp
+  - images/whatsapp-image-2026-09-26-at-11.39.25.webp
+  - images/whatsapp-image-2026-09-26-a.webp
+  - images/whatsapp-image-2026-6.webp
+  - images/whatsapp-image-2026-09-26-at-11.39.24.webp
+  - images/image-2026-09-26-at-11.39.25.webp
 ---
