@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
 price: "16800"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-clio-6-gris.webp
 ---
