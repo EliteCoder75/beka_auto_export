@@ -11,7 +11,7 @@ motor: "1.2 TCE 115 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "16800"
+price: "16000"
 disponibilite: stock
 image: images/renault-clio-6-gris.webp
 ---
