@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "15500"
-disponibilite: stock
+disponibilite: vendu
 image: images/scoda-scala.webp
 gallery:
   - images/img_7184-1-.webp
