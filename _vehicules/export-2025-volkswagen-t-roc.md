@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "25500"
-disponibilite: stock
+disponibilite: vendu
 image: images/volkswagen-t-roc.webp
 gallery:
   - images/img_7081.webp
