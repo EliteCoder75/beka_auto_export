@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "25500"
-disponibilite: stock
+disponibilite: vendu
 image: images/t-roc-noir.webp
 gallery:
   - images/img_7103.webp
