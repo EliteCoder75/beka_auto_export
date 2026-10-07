@@ -13,16 +13,16 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "13600"
 disponibilite: stock
-image: images/renault-arkana-noir.jpg
+image: images/renault-arkana-noir.webp
 gallery:
-  - images/whatsapp-image-2026-10-07-at-10.51.15.jpeg
-  - images/2.jpeg
-  - images/3.jpeg
-  - images/4.jpeg
-  - images/5.jpeg
-  - images/6.jpeg
-  - images/7.jpeg
-  - images/8.jpeg
-  - images/9.jpeg
-  - images/10.jpeg
+  - images/whatsapp-image-2026-10-07-at-10.51.15.webp
+  - images/2.webp
+  - images/3.webp
+  - images/4.webp
+  - images/5.webp
+  - images/6.webp
+  - images/7.webp
+  - images/8.webp
+  - images/9.webp
+  - images/10.webp
 ---
