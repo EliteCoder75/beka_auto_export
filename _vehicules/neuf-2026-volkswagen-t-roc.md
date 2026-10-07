@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "NOIR "
 interior_color: NOIR
 price: "34200"
-disponibilite: commande
+disponibilite: stock
 image: images/t-roc-r-line.webp
 gallery:
   - images/img_4188.webp
