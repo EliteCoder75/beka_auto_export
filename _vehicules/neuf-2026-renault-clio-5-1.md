@@ -15,8 +15,15 @@ price: "15500"
 disponibilite: stock
 image: images/clio-5-dci.webp
 gallery:
-  - images/img_2771.webp
-  - images/img_2772.webp
-  - images/img_2776.webp
-  - images/img_2775.webp
+  - images/whatsapp-image-2026-10-07-at-16.59.09.jpeg
+  - images/2-a.jpeg
+  - images/3-a.jpeg
+  - images/5a.jpeg
+  - images/6-a.jpeg
+  - images/7-a.jpeg
+  - images/8-a.jpeg
+  - images/9-a.jpeg
+  - images/10-a.jpeg
+  - images/11-a.jpeg
+  - images/12-a.jpeg
 ---
