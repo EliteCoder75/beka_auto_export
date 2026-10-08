@@ -15,12 +15,12 @@ price: "16000"
 disponibilite: stock
 image: images/renault-clio-6-gris.webp
 gallery:
-  - images/14.jpeg
-  - images/13.jpeg
-  - images/15.jpeg
-  - images/16.jpeg
-  - images/17.jpeg
-  - images/18.jpeg
-  - images/19.jpeg
-  - images/20.jpeg
+  - images/14.webp
+  - images/13.webp
+  - images/15.webp
+  - images/16.webp
+  - images/17.webp
+  - images/18.webp
+  - images/19.webp
+  - images/20.webp
 ---
