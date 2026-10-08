@@ -14,4 +14,13 @@ interior_color: "NOIR "
 price: "16000"
 disponibilite: stock
 image: images/renault-clio-6-gris.webp
+gallery:
+  - images/14.jpeg
+  - images/13.jpeg
+  - images/15.jpeg
+  - images/16.jpeg
+  - images/17.jpeg
+  - images/18.jpeg
+  - images/19.jpeg
+  - images/20.jpeg
 ---
