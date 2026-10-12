@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "14700"
 disponibilite: stock
-image: images/fabia-gris.jpg
+image: images/fabia-gris.webp
 ---
