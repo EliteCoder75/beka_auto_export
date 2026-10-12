@@ -5,13 +5,13 @@ brand: "RENAULT "
 model: CLIO 5
 finition: "EVOLUTION "
 year: 2025
-kilometrage: "27935"
+kilometrage: "26573"
 transmission: Automatique
 motor: "1.0 TCE 90 CH TURBO "
 fuel: Essence
 exterior_color: "BLANC "
 interior_color: "NOIR "
-price: "14200"
+price: "13800"
 disponibilite: stock
 image: images/clio-5-ev.webp
 gallery:
