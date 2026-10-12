@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14700"
 disponibilite: stock
-image: images/fabia-noir.jpg
+image: images/fabia-noir.webp
 ---
