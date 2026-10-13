@@ -14,4 +14,13 @@ interior_color: "NOIR "
 price: "13400"
 disponibilite: stock
 image: images/renault-captur.webp
+gallery:
+  - images/lkjh.jpeg
+  - images/po.jpeg
+  - images/oµ-.jpeg
+  - images/ioio.jpeg
+  - images/uj.jpeg
+  - images/khfgg.jpeg
+  - images/er.jpeg
+  - images/rty.jpeg
 ---
