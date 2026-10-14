@@ -13,7 +13,7 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "15300"
 disponibilite: stock
-image: images/skoda-kamiq.webp
+image: images/photo-vehicule-2.jpg
 gallery:
   - images/img_8068.webp
   - images/img_8069.webp
