@@ -13,7 +13,7 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "11300"
 disponibilite: stock
-image: images/fiat-tipo.jpg
+image: images/fiat-tipo-neuf.jpg
 gallery:
   - images/img_8438.jpeg
   - images/img_8437.jpeg
