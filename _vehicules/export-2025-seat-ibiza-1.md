@@ -11,7 +11,7 @@ motor: "1.0 ETSI 95 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "14500"
+price: "13400"
 disponibilite: vendu
 image: images/ibiza-noir.webp
 ---
