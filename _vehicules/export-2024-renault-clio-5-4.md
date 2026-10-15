@@ -11,6 +11,6 @@ motor: "1.0 TCE 90 CH "
 fuel: Essence
 exterior_color: GRIS NARDO
 price: "12300"
-disponibilite: stock
+disponibilite: vendu
 image: images/cl-gris-souris.webp
 ---
