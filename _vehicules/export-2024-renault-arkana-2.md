@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "13600"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-arkana-noir.webp
 gallery:
   - images/whatsapp-image-2026-10-07-at-10.51.15.webp
