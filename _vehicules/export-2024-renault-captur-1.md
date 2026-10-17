@@ -13,15 +13,15 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "13400"
 disponibilite: stock
-image: images/original_3393699.jpg
+image: images/original_3393699.webp
 gallery:
-  - images/1.jpeg
-  - images/2.jpeg
-  - images/3.jpeg
-  - images/4.jpeg
-  - images/5.jpeg
-  - images/6.jpeg
-  - images/8.jpeg
-  - images/10.jpeg
-  - images/11.jpeg
+  - images/1.webp
+  - images/2.webp
+  - images/3.webp
+  - images/4.webp
+  - images/5.webp
+  - images/6.webp
+  - images/8.webp
+  - images/10.webp
+  - images/11.webp
 ---
