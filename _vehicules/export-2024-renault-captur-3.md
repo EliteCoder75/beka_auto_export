@@ -13,5 +13,5 @@ exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "13400"
 disponibilite: stock
-image: images/captur-techno-gris-souris.jpg
+image: images/captur-techno-gris-souris.webp
 ---
