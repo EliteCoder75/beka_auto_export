@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "13400"
 disponibilite: stock
-image: images/renault-captur-techno.jpg
+image: images/renault-captur-techno.webp
 ---
