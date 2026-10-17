@@ -11,7 +11,7 @@ motor: "1.2 purteck 130CH "
 fuel: Essence
 exterior_color: BLEU
 price: "16500"
-disponibilite: stock
+disponibilite: vendu
 image: images/5008-bleu.webp
 gallery:
   - images/img_3451.webp
