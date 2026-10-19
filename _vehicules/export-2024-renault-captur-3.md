@@ -15,11 +15,11 @@ price: "13400"
 disponibilite: stock
 image: images/captur-techno-gris-souris.webp
 gallery:
-  - images/img_8622.jpeg
-  - images/img_8621.jpeg
-  - images/img_8623.jpeg
-  - images/img_8624.jpeg
-  - images/img_8628.jpeg
-  - images/img_8626.jpeg
-  - images/img_8625.jpeg
+  - images/img_8622.webp
+  - images/img_8621.webp
+  - images/img_8623.webp
+  - images/img_8624.webp
+  - images/img_8628.webp
+  - images/img_8626.webp
+  - images/img_8625.webp
 ---
