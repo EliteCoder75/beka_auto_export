@@ -20,8 +20,8 @@ gallery:
   - images/c.jpeg
   - images/d.jpeg
   - images/e.jpeg
-  - images/m.jpeg
+  - images/m.webp
   - images/f.jpeg
-  - images/k.jpeg
+  - images/k.webp
   - images/g.jpeg
 ---
