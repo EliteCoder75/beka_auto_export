@@ -13,15 +13,15 @@ exterior_color: "GRIS ARGENT "
 interior_color: NOIR
 price: "13900"
 disponibilite: stock
-image: images/design-sans-titre-18-.png
+image: images/design-sans-titre-18-.webp
 gallery:
-  - images/whatsapp-image-2026-10-21-at-12.00.15.jpeg
-  - images/whatsapp-image-2026-10-21-at-11.59.57.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.16.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.15-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.21.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.33.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.35.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.33-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-12.00.52.jpeg
+  - images/whatsapp-image-2026-10-21-at-12.00.15.webp
+  - images/whatsapp-image-2026-10-21-at-11.59.57.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.16.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.15-1-.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.21.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.33.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.35.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.33-1-.webp
+  - images/whatsapp-image-2026-10-21-at-12.00.52.webp
 ---
