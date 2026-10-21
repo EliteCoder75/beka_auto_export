@@ -15,13 +15,14 @@ price: "13400"
 disponibilite: stock
 image: images/original_3393699.webp
 gallery:
-  - images/1.webp
-  - images/2.webp
-  - images/3.webp
-  - images/4.webp
-  - images/5.webp
-  - images/6.webp
-  - images/8.webp
-  - images/10.webp
-  - images/11.webp
+  - images/whatsapp-image-2026-10-21-at-14.36.44.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.44-1-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.45-3-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.45-1-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.44-4-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.43.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.43-1-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.43-3-.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.45.jpeg
+  - images/whatsapp-image-2026-10-21-at-14.36.44-2-.jpeg
 ---
