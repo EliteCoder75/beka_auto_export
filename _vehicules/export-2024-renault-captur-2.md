@@ -15,14 +15,14 @@ price: "13400"
 disponibilite: stock
 image: images/design-sans-titre-17-.webp
 gallery:
-  - images/whatsapp-image-2026-10-21-at-15.06.24.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.20.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.24-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.20-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.22.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.22-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.22-2-.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.21.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.21-1-.jpeg
-  - images/whatsapp-image-2026-10-21-at-15.06.24-2-.jpeg
+  - images/whatsapp-image-2026-10-21-at-15.06.24.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.20.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.24-1-.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.20-1-.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.22.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.22-1-.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.22-2-.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.21.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.21-1-.webp
+  - images/whatsapp-image-2026-10-21-at-15.06.24-2-.webp
 ---
