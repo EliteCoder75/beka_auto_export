@@ -14,15 +14,15 @@ price: "14000"
 disponibilite: stock
 image: images/nissan-juke-noir.webp
 gallery:
-  - images/img_8874.jpeg
-  - images/img_8875.jpeg
-  - images/img_8876.jpeg
-  - images/img_8877.jpeg
-  - images/img_8879.jpeg
-  - images/img_8880.jpeg
-  - images/img_8881.jpeg
-  - images/img_8885.jpeg
-  - images/img_8883.jpeg
-  - images/img_8884.jpeg
-  - images/img_8886.jpeg
+  - images/img_8874.webp
+  - images/img_8875.webp
+  - images/img_8876.webp
+  - images/img_8877.webp
+  - images/img_8879.webp
+  - images/img_8880.webp
+  - images/img_8881.webp
+  - images/img_8885.webp
+  - images/img_8883.webp
+  - images/img_8884.webp
+  - images/img_8886.webp
 ---
