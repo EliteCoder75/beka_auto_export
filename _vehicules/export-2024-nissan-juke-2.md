@@ -12,5 +12,5 @@ exterior_color: GRIS SOURIS
 interior_color: NOIR
 price: "14000"
 disponibilite: stock
-image: images/v-n.jpg
+image: images/v-n.webp
 ---
