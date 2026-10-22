@@ -12,5 +12,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14000"
 disponibilite: stock
-image: images/nissan-juke-noir.jpg
+image: images/nissan-juke-noir.webp
 ---
