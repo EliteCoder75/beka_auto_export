@@ -13,4 +13,14 @@ interior_color: NOIR
 price: "14000"
 disponibilite: stock
 image: images/v-n.webp
+gallery:
+  - images/img_8894.jpeg
+  - images/img_8895.jpeg
+  - images/img_8897.jpeg
+  - images/img_8898.jpeg
+  - images/img_8893.jpeg
+  - images/img_8892.jpeg
+  - images/img_8888.jpeg
+  - images/img_8889.jpeg
+  - images/img_8891.jpeg
 ---
