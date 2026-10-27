@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "14700"
-disponibilite: stock
+disponibilite: vendu
 image: images/fabia-noir.webp
 gallery:
   - images/whatsapp-image-2026-10-13-at-11.36.42.webp
