@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLANC "
 interior_color: "NOIR "
 price: "13800"
-disponibilite: stock
+disponibilite: vendu
 image: images/clio-5-ev.webp
 gallery:
   - images/img_4740.webp
