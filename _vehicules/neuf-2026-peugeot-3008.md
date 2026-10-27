@@ -13,14 +13,14 @@ exterior_color: "NOIR "
 interior_color: ""
 price: "25500"
 disponibilite: stock
-image: images/3008-allure-plus.jpg
+image: images/3008-allure-plus.webp
 gallery:
-  - images/img_9093.jpeg
-  - images/img_9094.jpeg
-  - images/img_9103.jpeg
-  - images/img_9097.jpeg
-  - images/img_9101.jpeg
-  - images/img_9099.jpeg
-  - images/img_9098.jpeg
-  - images/img_9096.jpeg
+  - images/img_9093.webp
+  - images/img_9094.webp
+  - images/img_9103.webp
+  - images/img_9097.webp
+  - images/img_9101.webp
+  - images/img_9099.webp
+  - images/img_9098.webp
+  - images/img_9096.webp
 ---
