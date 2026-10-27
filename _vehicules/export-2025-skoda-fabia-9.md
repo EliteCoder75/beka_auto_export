@@ -15,12 +15,12 @@ price: "14700"
 disponibilite: stock
 image: images/fabia-gris.webp
 gallery:
-  - images/img_9055.jpeg
-  - images/img_9056.jpeg
-  - images/img_9057.jpeg
-  - images/img_9058.jpeg
-  - images/img_9059.jpeg
-  - images/img_9062.jpeg
-  - images/img_9061.jpeg
-  - images/img_9065.jpeg
+  - images/img_9055.webp
+  - images/img_9056.webp
+  - images/img_9057.webp
+  - images/img_9058.webp
+  - images/img_9059.webp
+  - images/img_9062.webp
+  - images/img_9061.webp
+  - images/img_9065.webp
 ---
