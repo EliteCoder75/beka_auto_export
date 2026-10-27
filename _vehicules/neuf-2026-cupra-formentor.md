@@ -13,11 +13,11 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "29500"
 disponibilite: stock
-image: images/cupra-form.jpg
+image: images/cupra-form.webp
 gallery:
-  - images/img_8796.jpeg
-  - images/img_8797.jpeg
-  - images/img_8799.jpeg
-  - images/img_8801.jpeg
-  - images/img_8802.jpeg
+  - images/img_8796.webp
+  - images/img_8797.webp
+  - images/img_8799.webp
+  - images/img_8801.webp
+  - images/img_8802.webp
 ---
