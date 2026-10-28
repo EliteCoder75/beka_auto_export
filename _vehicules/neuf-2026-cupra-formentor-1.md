@@ -12,14 +12,14 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "29500"
 disponibilite: stock
-image: images/cupra-formentor-gris.jpg
+image: images/cupra-formentor-gris.webp
 gallery:
-  - images/img_9108.jpeg
-  - images/img_9109.jpeg
-  - images/img_9110.jpeg
-  - images/img_9111.jpeg
-  - images/img_9115.jpeg
-  - images/img_9116.jpeg
-  - images/img_9117.jpeg
-  - images/img_9119.jpeg
+  - images/img_9108.webp
+  - images/img_9109.webp
+  - images/img_9110.webp
+  - images/img_9111.webp
+  - images/img_9115.webp
+  - images/img_9116.webp
+  - images/img_9117.webp
+  - images/img_9119.webp
 ---
