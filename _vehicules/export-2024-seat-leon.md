@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "BLEU PETROLE "
 interior_color: NOIR
 price: "17900"
-disponibilite: stock
+disponibilite: vendu
 image: images/design-sans-titre-11-.webp
 gallery:
   - images/whatsapp-image-2026-09.webp
