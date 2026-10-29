@@ -11,7 +11,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: "GRIS "
 price: "11900"
-disponibilite: stock
+disponibilite: vendu
 image: images/citroen-c4-2024.webp
 gallery:
   - images/temp_image_8a03cb72-b6fc-4780-a01e-1d68e2158b99.webp
