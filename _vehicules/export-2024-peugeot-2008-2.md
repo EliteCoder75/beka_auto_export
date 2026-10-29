@@ -12,6 +12,6 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "12200"
-disponibilite: stock
+disponibilite: vendu
 image: images/peugeot-2008-noir.webp
 ---
