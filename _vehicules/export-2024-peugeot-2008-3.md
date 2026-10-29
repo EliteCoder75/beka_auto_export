@@ -7,7 +7,7 @@ finition: "ACTIVE "
 year: 2024
 kilometrage: "59304"
 transmission: Manuelle
-motor: "1.2 PURTECK 130 CH "
+motor: "1.2 PURTECK 100 CH "
 fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
