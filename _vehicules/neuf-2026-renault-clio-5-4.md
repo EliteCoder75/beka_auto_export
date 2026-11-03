@@ -11,7 +11,7 @@ motor: "1.5 DCI 115 CH "
 fuel: Diesel
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
-price: "15500"
+price: "14800"
 disponibilite: stock
 image: images/renault-clio-gris-souris.webp
 ---
