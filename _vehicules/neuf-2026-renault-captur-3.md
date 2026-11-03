@@ -11,7 +11,7 @@ motor: "1.3 TCE 155 CH "
 fuel: Essence
 exterior_color: "GRIS NARDO "
 interior_color: NOIR
-price: "19300"
+price: "19200"
 disponibilite: stock
 image: images/design-sans-titre-6-.webp
 gallery:
