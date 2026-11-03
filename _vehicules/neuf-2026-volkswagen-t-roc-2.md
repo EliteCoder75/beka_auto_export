@@ -10,7 +10,7 @@ motor: 1.5 TSI 150 CH
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "34500"
+price: "33000"
 disponibilite: stock
 image: images/design-sans-titre-2-.webp
 gallery:
