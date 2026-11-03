@@ -11,7 +11,7 @@ motor: "1.5 DCI 115 CH "
 fuel: Diesel
 exterior_color: "GRIS NARDO "
 interior_color: NOIR
-price: "15500"
+price: "14900"
 disponibilite: stock
 image: images/clio-5-dci.webp
 gallery:
