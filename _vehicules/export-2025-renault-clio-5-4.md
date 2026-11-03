@@ -11,7 +11,7 @@ motor: "1.0 TCE 90 CH TURBO "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "14000"
+price: "13500"
 disponibilite: stock
 image: images/renault-clio-5-techno.webp
 gallery:
