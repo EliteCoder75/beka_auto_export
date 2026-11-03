@@ -13,5 +13,5 @@ exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "14800"
 disponibilite: stock
-image: images/renault-clio-5-esprit-alpine-2026.jpg
+image: images/renault-clio-5-esprit-alpine-2026.webp
 ---
