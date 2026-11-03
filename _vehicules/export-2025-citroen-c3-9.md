@@ -11,7 +11,7 @@ motor: 1.2 TURBO 100 CH
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR / BLANC
-price: "12900"
+price: "12800"
 disponibilite: stock
 image: images/design-sans-titre-14-.webp
 gallery:
