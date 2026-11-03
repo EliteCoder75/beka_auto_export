@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRISNARDO "
 interior_color: "NOIR "
 price: "26000"
-disponibilite: stock
+disponibilite: vendu
 image: images/opel-grand-land.webp
 gallery:
   - images/img_5258.webp
