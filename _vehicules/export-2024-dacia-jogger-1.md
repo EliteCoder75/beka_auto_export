@@ -15,11 +15,11 @@ price: "14100"
 disponibilite: stock
 image: images/dacia-jogger-23.webp
 gallery:
-  - images/img_9323.jpeg
-  - images/img_9325.jpeg
-  - images/img_9326.jpeg
-  - images/img_9327.jpeg
-  - images/img_9334.jpeg
-  - images/img_9328.jpeg
-  - images/img_9330.jpeg
+  - images/img_9323.webp
+  - images/img_9325.webp
+  - images/img_9326.webp
+  - images/img_9327.webp
+  - images/img_9334.webp
+  - images/img_9328.webp
+  - images/img_9330.webp
 ---
