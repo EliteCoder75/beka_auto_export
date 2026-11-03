@@ -11,7 +11,7 @@ motor: "1.2 PURTECK 100 CH "
 fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
-price: "12200"
+price: "11400"
 disponibilite: stock
 image: images/2008-allure-gris-souris.webp
 ---
