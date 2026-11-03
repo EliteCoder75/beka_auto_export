@@ -11,5 +11,5 @@ fuel: Essence
 exterior_color: BEIGE
 price: "55000"
 disponibilite: stock
-image: images/bmw-beige.jpg
+image: images/bmw-beige.webp
 ---
