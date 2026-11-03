@@ -11,7 +11,7 @@ motor: 1.4 ESS 95 CH
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "11300"
+price: "10800"
 disponibilite: stock
 image: images/fiat-tipo-neuf.webp
 gallery:
