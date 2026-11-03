@@ -11,7 +11,7 @@ motor: "1.3 TCE 155 CH "
 fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
-price: "20000"
+price: "19200"
 disponibilite: stock
 image: images/captur-esprit-alpine.webp
 gallery:
