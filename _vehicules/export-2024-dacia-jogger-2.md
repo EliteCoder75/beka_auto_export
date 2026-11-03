@@ -11,7 +11,7 @@ motor: "1.0 TCE 110 CV "
 fuel: Essence
 exterior_color: VERT KAKI
 interior_color: NOIR
-price: "14500"
+price: "14100"
 disponibilite: stock
 image: images/dacia-jogger-vert-kaki-1.webp
 ---
