@@ -11,7 +11,7 @@ motor: "1.6 HDI 92 CH "
 fuel: Diesel
 exterior_color: "NOIR "
 interior_color: NOIR
-price: "18900"
+price: "18400"
 disponibilite: stock
 image: images/peugeot-rifter-allure-noir.webp
 ---
