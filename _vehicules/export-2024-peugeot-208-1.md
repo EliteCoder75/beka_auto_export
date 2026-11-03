@@ -11,7 +11,7 @@ motor: "1.2 PURETECK 100 CH "
 fuel: Essence
 exterior_color: "NOIR "
 interior_color: "NOIR "
-price: "12300"
+price: "11500"
 disponibilite: stock
 image: images/peugeot-208-noir.webp
 gallery:
