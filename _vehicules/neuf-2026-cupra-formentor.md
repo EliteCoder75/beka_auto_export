@@ -11,7 +11,7 @@ motor: "1.5 TSI 150 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "29500"
+price: "28800"
 disponibilite: stock
 image: images/cupra-form.webp
 gallery:
