@@ -13,5 +13,5 @@ exterior_color: VERT KAKI
 interior_color: NOIR
 price: "14500"
 disponibilite: stock
-image: images/dacia-jogger-vert-kaki-1.jpg
+image: images/dacia-jogger-vert-kaki-1.webp
 ---
