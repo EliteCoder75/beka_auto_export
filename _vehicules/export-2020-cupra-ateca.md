@@ -10,7 +10,7 @@ motor: "1.5 TSI 150 CV "
 fuel: Essence
 exterior_color: "NOIR "
 interior_color: "NOIR "
-price: "26000"
+price: "24500"
 disponibilite: vendu
 image: images/voiture.webp
 ---
