@@ -11,8 +11,8 @@ motor: "1.6 HDI 92 CH "
 fuel: Diesel
 exterior_color: "NOIR "
 interior_color: NOIR
-price: "21500"
-disponibilite: vendu
+price: "21000"
+disponibilite: stock
 image: images/citroen-berlingo-xtr-noir.webp
 gallery:
   - images/img_2797.webp
