@@ -11,7 +11,7 @@ motor: "1.6 TURBO 200 CH "
 fuel: Essence
 exterior_color: "BLACK SAPPHIRE "
 interior_color: "MARRON "
-price: "66000"
+price: "63000"
 disponibilite: stock
 image: images/bmw.webp
 gallery:
