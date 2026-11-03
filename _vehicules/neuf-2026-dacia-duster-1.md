@@ -10,7 +10,7 @@ motor: "1.3 TCE 150 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "17700"
+price: "17500"
 disponibilite: stock
 image: images/whatsapp-image-2026-10-27-at-10.25.52.webp
 gallery:
