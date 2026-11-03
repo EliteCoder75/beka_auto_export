@@ -11,7 +11,7 @@ motor: 1.6 TURBO 200 CH
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR / ORANGE
-price: "52900"
+price: "52500"
 disponibilite: stock
 image: images/design-sans-titre-8-.webp
 gallery:
