@@ -13,5 +13,5 @@ exterior_color: BLANC
 interior_color: NOIR
 price: "11000"
 disponibilite: stock
-image: images/dacia-logan-blanche.jpg
+image: images/dacia-logan-blanche.webp
 ---
