@@ -11,7 +11,7 @@ motor: "1.6 HDI 92 CH "
 fuel: Diesel
 exterior_color: GRIS
 interior_color: NOIR
-price: "20500"
+price: "19800"
 disponibilite: stock
 image: images/peugeot-rifter-gt.webp
 gallery:
