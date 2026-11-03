@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "14500"
 disponibilite: stock
-image: images/dacia-jogger-23.jpg
+image: images/dacia-jogger-23.webp
 ---
