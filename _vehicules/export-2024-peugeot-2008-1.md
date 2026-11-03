@@ -11,7 +11,7 @@ motor: "1.2 PURETECK 100 CH "
 fuel: Essence
 exterior_color: Blanc Nacré
 interior_color: NOIR
-price: "12400"
+price: "11400"
 disponibilite: stock
 image: images/2008-blanc.webp
 gallery:
