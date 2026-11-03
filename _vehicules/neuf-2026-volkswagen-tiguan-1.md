@@ -12,7 +12,7 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "38000"
 disponibilite: stock
-image: images/design-sans-titre-4-.webp
+image: images/whatsapp-image-2026-11-03-at-12.44.39.jpeg
 gallery:
   - images/whatsapp-image-200.webp
   - images/whatsapp-image-2026-09-12-at-12.41.webp
