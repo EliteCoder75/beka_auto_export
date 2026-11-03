@@ -10,7 +10,7 @@ transmission: Manuelle
 motor: "1.2 PURTECK 130 CH "
 fuel: Essence
 exterior_color: GRIS
-price: "16400"
+price: "14500"
 disponibilite: stock
 image: images/5008-gris.webp
 gallery:
