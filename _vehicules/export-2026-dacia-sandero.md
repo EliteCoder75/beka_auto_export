@@ -13,15 +13,15 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/design-sans-titre-19-.png
+image: images/design-sans-titre-19-.webp
 gallery:
-  - images/whatsapp-image-2026-11-04-at-.jpeg
-  - images/iiiii.jpeg
-  - images/jop.jpeg
-  - images/pogfr.jpeg
-  - images/whatsapp-image-2026-11-04-a.jpeg
-  - images/ki5445.jpeg
-  - images/whatsapp-image-2026-11-04-at-16.4.jpeg
-  - images/09-26-at-.jpeg
-  - images/whatsapp-image-2026-11-04-at-16.40.1i9ogyb.jpeg
+  - images/whatsapp-image-2026-11-04-at-.webp
+  - images/iiiii.webp
+  - images/jop.webp
+  - images/pogfr.webp
+  - images/whatsapp-image-2026-11-04-a.webp
+  - images/ki5445.webp
+  - images/whatsapp-image-2026-11-04-at-16.4.webp
+  - images/09-26-at-.webp
+  - images/whatsapp-image-2026-11-04-at-16.40.1i9ogyb.webp
 ---
