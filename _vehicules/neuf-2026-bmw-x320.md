@@ -13,16 +13,16 @@ price: "55000"
 disponibilite: stock
 image: images/bmw-beige.webp
 gallery:
-  - images/img_9351.jpeg
-  - images/img_9352.jpeg
-  - images/img_9353.jpeg
-  - images/img_9354.jpeg
-  - images/img_9367.jpeg
-  - images/img_9369.jpeg
-  - images/img_9363.jpeg
-  - images/img_9364.jpeg
-  - images/img_9365.jpeg
-  - images/img_9366.jpeg
+  - images/img_9351.webp
+  - images/img_9352.webp
+  - images/img_9353.webp
+  - images/img_9354.webp
+  - images/img_9367.webp
+  - images/img_9369.webp
+  - images/img_9363.webp
+  - images/img_9364.webp
+  - images/img_9365.webp
+  - images/img_9366.webp
   - images/img_9360.jpeg
-  - images/img_9358.jpeg
+  - images/img_9358.webp
 ---
