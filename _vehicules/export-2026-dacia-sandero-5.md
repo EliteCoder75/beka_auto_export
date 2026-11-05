@@ -13,5 +13,5 @@ exterior_color: VERT
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/vert-dacia.jpg
+image: images/vert-dacia.webp
 ---
