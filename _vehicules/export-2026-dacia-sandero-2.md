@@ -14,5 +14,5 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/beka-sandero.jpg
+image: images/beka-sandero.webp
 ---
