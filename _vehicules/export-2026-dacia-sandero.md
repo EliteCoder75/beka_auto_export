@@ -5,7 +5,7 @@ brand: DACIA
 model: SANDERO
 finition: EXPRESSION
 year: 2026
-kilometrage: "9000"
+kilometrage: "9513"
 transmission: Manuelle
 motor: 1.0 TCE 110 CH
 fuel: Essence
