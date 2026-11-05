@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/dacia-noir-1.jpg
+image: images/dacia-noir-1.webp
 ---
