@@ -7,7 +7,7 @@ finition: EXPRESSION
 year: 2026
 kilometrage: "9000"
 transmission: Manuelle
-motor: 1.0 TCE 100CH
+motor: 1.0 TCE 110 CH
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
