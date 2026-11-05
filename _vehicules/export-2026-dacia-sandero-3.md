@@ -13,5 +13,5 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/auto-sandero.jpg
+image: images/auto-sandero.webp
 ---
