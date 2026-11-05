@@ -13,5 +13,5 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "13700"
 disponibilite: stock
-image: images/beka-noir-2.jpg
+image: images/beka-noir-2.webp
 ---
