@@ -9,7 +9,7 @@ kilometrage: "00"
 transmission: Automatique
 motor: "1.6 ESS 180 CH "
 fuel: Essence
-exterior_color: "NOIR "
+exterior_color: gris souris
 interior_color: ""
 price: "25500"
 disponibilite: stock
