@@ -12,5 +12,5 @@ fuel: Essence
 exterior_color: NOIR
 price: "24000"
 disponibilite: stock
-image: images/3008-allure-noir.jpg
+image: images/3008-allure-noir.webp
 ---
