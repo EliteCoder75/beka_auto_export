@@ -13,5 +13,5 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "29000"
 disponibilite: stock
-image: images/peugeot-3008-gt.jpg
+image: images/peugeot-3008-gt.webp
 ---
