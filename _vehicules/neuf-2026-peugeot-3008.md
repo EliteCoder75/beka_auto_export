@@ -7,7 +7,7 @@ finition: ALLURE PLUS
 year: 2026
 kilometrage: "00"
 transmission: Automatique
-motor: "1.6 ESS 180 CH "
+motor: "1.6 THP 180 CH "
 fuel: Essence
 exterior_color: gris souris
 interior_color: ""
