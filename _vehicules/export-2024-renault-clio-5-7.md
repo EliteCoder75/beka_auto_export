@@ -15,10 +15,10 @@ price: "11500"
 disponibilite: stock
 image: images/clio-5-evolution-5420.webp
 gallery:
-  - images/img_9642.jpeg
-  - images/img_9643.jpeg
-  - images/img_9645.jpeg
-  - images/img_9646.jpeg
-  - images/img_9648.jpeg
-  - images/img_9650.jpeg
+  - images/img_9642.webp
+  - images/img_9643.webp
+  - images/img_9645.webp
+  - images/img_9646.webp
+  - images/img_9648.webp
+  - images/img_9650.webp
 ---
