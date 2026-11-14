@@ -13,13 +13,13 @@ exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "12500"
 disponibilite: stock
-image: images/clio-5-techno-gris-souris.jpg
+image: images/clio-5-techno-gris-souris.webp
 gallery:
-  - images/img_9652.jpeg
-  - images/img_9653.jpeg
-  - images/img_9663.jpeg
-  - images/img_9655.jpeg
-  - images/img_9658.jpeg
-  - images/img_9661-1-.jpeg
-  - images/img_9662-1-.jpeg
+  - images/img_9652.webp
+  - images/img_9653.webp
+  - images/img_9663.webp
+  - images/img_9655.webp
+  - images/img_9658.webp
+  - images/img_9661-1-.webp
+  - images/img_9662-1-.webp
 ---
