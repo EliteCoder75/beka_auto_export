@@ -13,5 +13,5 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "11500"
 disponibilite: stock
-image: images/clio-5-evolution.jpg
+image: images/clio-5-evolution.webp
 ---
