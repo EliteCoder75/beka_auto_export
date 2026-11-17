@@ -13,5 +13,5 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "24500"
 disponibilite: stock
-image: images/beka-auto-export-volkswagen-t-roc-gris-1.5.jpg
+image: images/beka-auto-export-volkswagen-t-roc-gris-1.5.webp
 ---
