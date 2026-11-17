@@ -13,17 +13,17 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "24500"
 disponibilite: stock
-image: images/sans-titre.png
+image: images/sans-titre.webp
 gallery:
-  - images/whatsapp-image-2026-11-17-at-10.29.53.jpeg
-  - images/whatsapp-image-2026-11-17-at-10.29.54.jpeg
-  - images/ol-n.jpeg
-  - images/àç.jpeg
-  - images/uyt.jpeg
-  - images/lk.jpeg
-  - images/ytr.jpeg
-  - images/nbvc.jpeg
-  - images/xw.jpeg
-  - images/_è-.jpeg
-  - images/aézertyu.jpeg
+  - images/whatsapp-image-2026-11-17-at-10.29.53.webp
+  - images/whatsapp-image-2026-11-17-at-10.29.54.webp
+  - images/ol-n.webp
+  - images/àç.webp
+  - images/uyt.webp
+  - images/lk.webp
+  - images/ytr.webp
+  - images/nbvc.webp
+  - images/xw.webp
+  - images/_è-.webp
+  - images/aézertyu.webp
 ---
