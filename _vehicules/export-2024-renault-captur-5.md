@@ -11,7 +11,7 @@ motor: "1.0 GPL 100 CH "
 fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
-price: "13400"
+price: "13000"
 disponibilite: stock
 image: images/renault-captur-noir.webp
 gallery:
