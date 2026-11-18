@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: OLBIA BLEU
 interior_color: NOIR
 price: "11500"
-disponibilite: stock
+disponibilite: vendu
 image: images/olbia-bleu.webp
 gallery:
   - images/img_4067.webp
