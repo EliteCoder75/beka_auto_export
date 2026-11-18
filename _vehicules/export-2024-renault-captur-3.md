@@ -11,7 +11,7 @@ motor: "1.0 GPL 100 CV "
 fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
-price: "13400"
+price: "13000"
 disponibilite: stock
 image: images/captur-techno-gris-souris.webp
 gallery:
