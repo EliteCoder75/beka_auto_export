@@ -10,7 +10,7 @@ motor: 1.0 DIG-T TURBO 114 CH
 fuel: Essence
 exterior_color: GRIS SOURIS
 interior_color: NOIR
-price: "14000"
+price: "13500"
 disponibilite: stock
 image: images/v-n.webp
 gallery:
