@@ -13,12 +13,12 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14700"
 disponibilite: stock
-image: images/skoda-fabia-1.0-tsi-115-ch.jpg
+image: images/skoda-fabia-1.0-tsi-115-ch.webp
 gallery:
-  - images/img_9786.jpeg
-  - images/img_9787.jpeg
-  - images/img_9789.jpeg
-  - images/img_9791.jpeg
-  - images/img_9792.jpeg
-  - images/img_9794.jpeg
+  - images/img_9786.webp
+  - images/img_9787.webp
+  - images/img_9789.webp
+  - images/img_9791.webp
+  - images/img_9792.webp
+  - images/img_9794.webp
 ---
