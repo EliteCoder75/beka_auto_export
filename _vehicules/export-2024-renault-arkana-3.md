@@ -5,7 +5,7 @@ brand: "RENAULT "
 model: "ARKANA "
 finition: "EVOLUTION "
 year: 2024
-transmission: Manuelle
+transmission: Automatique
 motor: "1.3 TCE 140 CH "
 fuel: Essence
 exterior_color: GRIS
