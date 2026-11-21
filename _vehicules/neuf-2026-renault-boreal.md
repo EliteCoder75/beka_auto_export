@@ -12,12 +12,12 @@ exterior_color: "GRIS NARDO "
 interior_color: NOIR
 price: "24500"
 disponibilite: stock
-image: images/renault-boreal-µ.jpg
+image: images/renault-boreal-µ.webp
 gallery:
-  - images/img_9826.jpeg
-  - images/img_9827.jpeg
-  - images/img_9828.jpeg
-  - images/img_9818.jpeg
-  - images/img_9819.jpeg
-  - images/img_9821.jpeg
+  - images/img_9826.webp
+  - images/img_9827.webp
+  - images/img_9828.webp
+  - images/img_9818.webp
+  - images/img_9819.webp
+  - images/img_9821.webp
 ---
