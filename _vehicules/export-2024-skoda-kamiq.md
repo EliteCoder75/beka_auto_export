@@ -13,15 +13,15 @@ exterior_color: BLEU
 interior_color: NOIR
 price: "14400"
 disponibilite: stock
-image: images/skoda-kamiq-2024.jpg
+image: images/skoda-kamiq-2024.webp
 gallery:
-  - images/img_6176.jpeg
-  - images/img_6175.jpeg
-  - images/img_6174.jpeg
-  - images/img_6173.jpeg
-  - images/img_6172.jpeg
-  - images/img_6183.jpeg
-  - images/img_6179.jpeg
-  - images/img_6185.jpeg
-  - images/img_6182.jpeg
+  - images/img_6176.webp
+  - images/img_6175.webp
+  - images/img_6174.webp
+  - images/img_6173.webp
+  - images/img_6172.webp
+  - images/img_6183.webp
+  - images/img_6179.webp
+  - images/img_6185.webp
+  - images/img_6182.webp
 ---
