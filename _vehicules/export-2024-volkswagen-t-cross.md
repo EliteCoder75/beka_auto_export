@@ -13,16 +13,16 @@ exterior_color: BLEU
 interior_color: NOIR
 price: "14200"
 disponibilite: stock
-image: images/sans-titre-2-.png
+image: images/sans-titre-2-.webp
 gallery:
-  - images/jf.jpeg
-  - images/u6yuyu.jpeg
-  - images/7877.jpeg
-  - images/iyuy7iui.jpeg
-  - images/8ut6u7uy8.jpeg
-  - images/yyyy.jpeg
-  - images/gvuu.jpeg
-  - images/5t45.jpeg
-  - images/ugyyu.jpeg
-  - images/tryty.jpeg
+  - images/jf.webp
+  - images/u6yuyu.webp
+  - images/7877.webp
+  - images/iyuy7iui.webp
+  - images/8ut6u7uy8.webp
+  - images/yyyy.webp
+  - images/gvuu.webp
+  - images/5t45.webp
+  - images/ugyyu.webp
+  - images/tryty.webp
 ---
