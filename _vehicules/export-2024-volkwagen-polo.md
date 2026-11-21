@@ -1,0 +1,27 @@
+---
+categorie: export
+id: VO-173
+brand: "VOLKWAGEN "
+model: POLO
+finition: LIFE
+year: 2024
+kilometrage: "54616"
+transmission: Automatique
+motor: 1.0 TSI 110 CH
+fuel: Essence
+exterior_color: "BEIGE "
+interior_color: NOIR
+price: "14000"
+disponibilite: stock
+image: images/sans-titre-3-.png
+gallery:
+  - images/foieof.jpeg
+  - images/bhgh.jpeg
+  - images/fghtr.jpeg
+  - images/yfugujujh.jpeg
+  - images/iu8.jpeg
+  - images/oipiop.jpeg
+  - images/whatsat-14.05.28.jpeg
+  - images/iopo.jpeg
+  - images/rtyuiop.jpeg
+---
