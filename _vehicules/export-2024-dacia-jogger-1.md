@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "14100"
-disponibilite: stock
+disponibilite: vendu
 image: images/dacia-jogger-23.webp
 gallery:
   - images/img_9323.webp
