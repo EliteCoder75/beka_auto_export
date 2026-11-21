@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS "
 interior_color: NOIR
 price: "14100"
-disponibilite: stock
+disponibilite: vendu
 image: images/dacia-jogger-vert-kaki-2.webp
 gallery:
   - images/img_9335.webp
