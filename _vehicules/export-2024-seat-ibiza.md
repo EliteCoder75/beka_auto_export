@@ -13,11 +13,11 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "14300"
 disponibilite: stock
-image: images/seat-ibiza-fr.jpg
+image: images/seat-ibiza-fr.webp
 gallery:
-  - images/img_9925.jpeg
-  - images/img_9924.jpeg
-  - images/img_9924.jpeg
-  - images/img_9926.jpeg
-  - images/img_9927.jpeg
+  - images/img_9925.webp
+  - images/img_9924.webp
+  - images/img_9924.webp
+  - images/img_9926.webp
+  - images/img_9927.webp
 ---
