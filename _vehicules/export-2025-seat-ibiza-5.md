@@ -4,7 +4,7 @@ id: VO-6796
 brand: SEAT
 model: IBIZA
 finition: FR
-year: 2025
+year: 2024
 kilometrage: "23426"
 transmission: Manuelle
 motor: "1.0 TSI 95 CH "
