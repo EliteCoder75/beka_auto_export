@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "13000"
-disponibilite: stock
+disponibilite: vendu
 image: images/renault-captur-noir.webp
 gallery:
   - images/486297e3-4725-4768-a9e7-53f007058513.webp
