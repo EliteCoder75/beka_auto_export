@@ -13,15 +13,15 @@ exterior_color: "BEIGE "
 interior_color: NOIR
 price: "14000"
 disponibilite: stock
-image: images/sans-titre-3-.png
+image: images/sans-titre-3-.webp
 gallery:
-  - images/foieof.jpeg
-  - images/bhgh.jpeg
-  - images/fghtr.jpeg
-  - images/yfugujujh.jpeg
-  - images/iu8.jpeg
-  - images/oipiop.jpeg
-  - images/whatsat-14.05.28.jpeg
-  - images/iopo.jpeg
-  - images/rtyuiop.jpeg
+  - images/foieof.webp
+  - images/bhgh.webp
+  - images/fghtr.webp
+  - images/yfugujujh.webp
+  - images/iu8.webp
+  - images/oipiop.webp
+  - images/whatsat-14.05.28.webp
+  - images/iopo.webp
+  - images/rtyuiop.webp
 ---
