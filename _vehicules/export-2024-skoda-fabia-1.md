@@ -13,15 +13,15 @@ exterior_color: GRIS SCHISTE
 interior_color: NOIR
 price: "11800"
 disponibilite: stock
-image: images/sans-titre-4-.png
+image: images/sans-titre-4-.webp
 gallery:
-  - images/you.jpeg
-  - images/ertyik.jpeg
-  - images/ththtg.jpeg
-  - images/jujt.jpeg
-  - images/jtyjgy.jpeg
-  - images/yjhutyy.jpeg
-  - images/jgj.jpeg
-  - images/jgt.jpeg
-  - images/jgy7u.jpeg
+  - images/you.webp
+  - images/ertyik.webp
+  - images/ththtg.webp
+  - images/jujt.webp
+  - images/jtyjgy.webp
+  - images/yjhutyy.webp
+  - images/jgj.webp
+  - images/jgt.webp
+  - images/jgy7u.webp
 ---
