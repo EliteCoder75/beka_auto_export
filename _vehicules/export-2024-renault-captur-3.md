@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "GRIS SOURIS "
 interior_color: NOIR
 price: "13000"
-disponibilite: stock
+disponibilite: vendu
 image: images/captur-techno-gris-souris.webp
 gallery:
   - images/img_8622.webp
