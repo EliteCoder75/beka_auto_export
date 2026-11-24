@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: NOIR
 interior_color: NOIR
 price: "13400"
-disponibilite: stock
+disponibilite: vendu
 image: images/design-sans-titre-17-.webp
 gallery:
   - images/whatsapp-image-2026-10-21-at-15.06.24.webp
