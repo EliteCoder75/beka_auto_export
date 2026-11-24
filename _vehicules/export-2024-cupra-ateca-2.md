@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "24500"
-disponibilite: stock
+disponibilite: vendu
 image: images/cupra-ateca-noir-2024-aout.webp
 gallery:
   - images/img_6965.webp
