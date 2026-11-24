@@ -13,14 +13,14 @@ exterior_color: GRIS ARGENT
 interior_color: NOIR
 price: "11800"
 disponibilite: stock
-image: images/skoda-compacte-argentée-en-studio.png
+image: images/skoda-compacte-argentée-en-studio.webp
 gallery:
-  - images/whatsapp-image-2026-11-24-at-12.57.22.jpeg
-  - images/whatsapp-image-2026-11-24-at-12.57.23.jpeg
-  - images/opopoiuyt.jpeg
-  - images/poiuty.jpeg
-  - images/7654.jpeg
-  - images/tfgijg.jpeg
-  - images/tytytygh.jpeg
-  - images/uyiuiuil.jpeg
+  - images/whatsapp-image-2026-11-24-at-12.57.22.webp
+  - images/whatsapp-image-2026-11-24-at-12.57.23.webp
+  - images/opopoiuyt.webp
+  - images/poiuty.webp
+  - images/7654.webp
+  - images/tfgijg.webp
+  - images/tytytygh.webp
+  - images/uyiuiuil.webp
 ---
