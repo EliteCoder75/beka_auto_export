@@ -12,7 +12,7 @@ fuel: Essence
 exterior_color: GRISNARDO
 interior_color: NOIR
 price: "11500"
-disponibilite: stock
+disponibilite: vendu
 image: images/clio-5-evolution-5420.webp
 gallery:
   - images/img_9642.webp
