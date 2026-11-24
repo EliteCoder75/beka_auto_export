@@ -11,7 +11,7 @@ motor: "1.0 MPI 80 CH "
 fuel: Essence
 exterior_color: GRIS
 interior_color: NOIR
-price: "11900"
+price: "11800"
 disponibilite: stock
 image: images/s-k-fabia.webp
 gallery:
