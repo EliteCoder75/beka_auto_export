@@ -13,5 +13,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "11700"
 disponibilite: stock
-image: images/renault-clio-noirrrrrr.jpg
+image: images/renault-clio-noirrrrrr.webp
 ---
