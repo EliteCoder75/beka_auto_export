@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "11900"
 disponibilite: stock
-image: images/bikkkk.jpg
+image: images/bikkkk.webp
 ---
