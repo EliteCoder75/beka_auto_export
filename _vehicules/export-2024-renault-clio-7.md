@@ -13,5 +13,5 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "11300"
 disponibilite: stock
-image: images/lissssssssssssssssssssssssss.jpg
+image: images/lissssssssssssssssssssssssss.webp
 ---
