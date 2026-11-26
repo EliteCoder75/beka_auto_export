@@ -13,5 +13,5 @@ exterior_color: "BLEU "
 interior_color: NOIR
 price: "11000"
 disponibilite: stock
-image: images/renaulttttttttttttttt.jpg
+image: images/renaulttttttttttttttt.webp
 ---
