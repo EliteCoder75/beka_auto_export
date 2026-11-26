@@ -13,5 +13,5 @@ exterior_color: "GRIS NARDO "
 interior_color: "NOIR "
 price: "11900"
 disponibilite: stock
-image: images/bekaaaaaaaa-c.jpg
+image: images/bekaaaaaaaa-c.webp
 ---
