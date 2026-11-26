@@ -13,5 +13,5 @@ exterior_color: "GRIS SOURIS "
 interior_color: "NOIR "
 price: "11500"
 disponibilite: stock
-image: images/clio-evolution-bekaaaaaa.jpg
+image: images/clio-evolution-bekaaaaaa.webp
 ---
