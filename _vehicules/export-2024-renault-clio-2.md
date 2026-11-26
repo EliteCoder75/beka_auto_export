@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "11300"
 disponibilite: stock
-image: images/bekaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.jpg
+image: images/bekaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.webp
 ---
