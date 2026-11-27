@@ -13,5 +13,5 @@ exterior_color: "GRIS "
 interior_color: NOIR
 price: "23900"
 disponibilite: stock
-image: images/t-rocc.jpg
+image: images/t-rocc.webp
 ---
