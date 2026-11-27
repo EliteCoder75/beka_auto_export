@@ -14,4 +14,11 @@ interior_color: "NOIR "
 price: "11700"
 disponibilite: stock
 image: images/renault-clio-noirrrrrr.webp
+gallery:
+  - images/img_6347-1-.jpeg
+  - images/img_6348-1-.jpeg
+  - images/img_6350-1-.jpeg
+  - images/img_6349-1-.jpeg
+  - images/img_6352-1-.jpeg
+  - images/img_6353-1-.jpeg
 ---
