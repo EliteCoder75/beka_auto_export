@@ -15,10 +15,10 @@ price: "11900"
 disponibilite: stock
 image: images/lisaaaaaa.webp
 gallery:
-  - images/img_6335.jpeg
-  - images/img_6336.jpeg
-  - images/img_6337.jpeg
-  - images/img_6338.jpeg
-  - images/img_6345.jpeg
-  - images/img_6339.jpeg
+  - images/img_6335.webp
+  - images/img_6336.webp
+  - images/img_6337.webp
+  - images/img_6338.webp
+  - images/img_6345.webp
+  - images/img_6339.webp
 ---
