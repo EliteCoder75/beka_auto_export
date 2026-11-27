@@ -12,5 +12,5 @@ exterior_color: bordeaux
 interior_color: NOIR
 price: "13900"
 disponibilite: stock
-image: images/nissan-juke-bergandi.jpg
+image: images/nissan-juke-bergandi.webp
 ---
