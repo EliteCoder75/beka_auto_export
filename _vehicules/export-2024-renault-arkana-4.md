@@ -14,4 +14,13 @@ interior_color: "NOIR "
 price: "15000"
 disponibilite: stock
 image: images/renault-arkana-te.webp
+gallery:
+  - images/img_0283.jpeg
+  - images/img_0285.jpeg
+  - images/img_0287.jpeg
+  - images/img_0289.jpeg
+  - images/img_0290.jpeg
+  - images/img_0291.jpeg
+  - images/img_0298.jpeg
+  - images/img_0300.jpeg
 ---
