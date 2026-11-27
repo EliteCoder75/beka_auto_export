@@ -13,5 +13,5 @@ exterior_color: GRIS
 interior_color: NOIR
 price: "23900"
 disponibilite: stock
-image: images/t-rocccccccccccccc.jpg
+image: images/t-rocccccccccccccc.webp
 ---
