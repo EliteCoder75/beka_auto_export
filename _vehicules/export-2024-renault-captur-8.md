@@ -13,14 +13,14 @@ exterior_color: "NOIR "
 interior_color: "NOIR "
 price: "14800"
 disponibilite: stock
-image: images/c-a-2025.jpg
+image: images/c-a-2025.webp
 gallery:
-  - images/img_0313.jpeg
-  - images/img_0314.jpeg
-  - images/img_0316.jpeg
-  - images/img_0317.jpeg
-  - images/img_0327.jpeg
-  - images/img_0323.jpeg
-  - images/img_0328.jpeg
-  - images/img_0326.jpeg
+  - images/img_0313.webp
+  - images/img_0314.webp
+  - images/img_0316.webp
+  - images/img_0317.webp
+  - images/img_0327.webp
+  - images/img_0323.webp
+  - images/img_0328.webp
+  - images/img_0326.webp
 ---
