@@ -13,13 +13,13 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "13200"
 disponibilite: stock
-image: images/c-a-p.jpg
+image: images/c-a-p.webp
 gallery:
-  - images/img_0255.jpeg
-  - images/img_0256.jpeg
-  - images/img_0258.jpeg
-  - images/img_0260.jpeg
-  - images/img_0264-1-.jpeg
-  - images/img_0262.jpeg
-  - images/img_0267-1-.jpeg
+  - images/img_0255.webp
+  - images/img_0256.webp
+  - images/img_0258.webp
+  - images/img_0260.webp
+  - images/img_0264-1-.webp
+  - images/img_0262.webp
+  - images/img_0267-1-.webp
 ---
