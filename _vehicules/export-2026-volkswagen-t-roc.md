@@ -7,7 +7,7 @@ finition: "TREND "
 year: 2026
 kilometrage: "17528"
 transmission: Automatique
-motor: "1.5 eTSI 150 CH "
+motor: "1.5 eTSI 115 CH "
 fuel: Essence
 exterior_color: "GRIS "
 interior_color: "NOIR "
