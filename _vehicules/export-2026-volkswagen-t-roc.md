@@ -13,15 +13,15 @@ exterior_color: "GRIS "
 interior_color: "NOIR "
 price: "23900"
 disponibilite: stock
-image: images/t-roc-trend.jpg
+image: images/t-roc-trend.webp
 gallery:
-  - images/img_0183.jpeg
-  - images/img_0186.jpeg
-  - images/img_0185.jpeg
-  - images/img_0187.jpeg
-  - images/img_0188.jpeg
-  - images/img_0189.jpeg
-  - images/img_0245.jpeg
-  - images/img_0248.jpeg
-  - images/img_0253.jpeg
+  - images/img_0183.webp
+  - images/img_0186.webp
+  - images/img_0185.webp
+  - images/img_0187.webp
+  - images/img_0188.webp
+  - images/img_0189.webp
+  - images/img_0245.webp
+  - images/img_0248.webp
+  - images/img_0253.webp
 ---
