@@ -13,7 +13,7 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14000"
 disponibilite: stock
-image: images/renault-arkana-evolution-noir-en-studio-1-.webp
+image: images/sans-titre-10-.png
 gallery:
   - images/whatsapp-image-2026-11-28-at-15.57.04-1-.webp
   - images/whatsapp-image-2026-11-28-at-15.57.04-3-.webp
