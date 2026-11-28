@@ -14,14 +14,14 @@ price: "13500"
 disponibilite: stock
 image: images/fofofof.webp
 gallery:
-  - images/whatsapp-image-2026-11-28-at-15.48.10.jpeg
-  - images/i.jpeg
-  - images/pm.jpeg
-  - images/ip.jpeg
-  - images/ij.jpeg
-  - images/fghny.jpeg
-  - images/jk.jpeg
-  - images/whatsapp-image-2026-11-.jpeg
-  - images/hghg.jpeg
-  - images/yuji.jpeg
+  - images/whatsapp-image-2026-11-28-at-15.48.10.webp
+  - images/i.webp
+  - images/pm.webp
+  - images/ip.webp
+  - images/ij.webp
+  - images/fghny.webp
+  - images/jk.webp
+  - images/whatsapp-image-2026-11-.webp
+  - images/hghg.webp
+  - images/yuji.webp
 ---
