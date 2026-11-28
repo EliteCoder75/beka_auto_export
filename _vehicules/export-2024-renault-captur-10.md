@@ -13,5 +13,5 @@ exterior_color: BLEU GAULOIS
 interior_color: NOIR
 price: "13200"
 disponibilite: stock
-image: images/sans-titre-16-.png
+image: images/sans-titre-16-.webp
 ---
