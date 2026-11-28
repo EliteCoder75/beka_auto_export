@@ -13,7 +13,7 @@ exterior_color: NOIR
 interior_color: NOIR
 price: "14000"
 disponibilite: stock
-image: images/sans-titre-10-.png
+image: images/sans-titre-10-.webp
 gallery:
   - images/whatsapp-image-2026-11-28-at-15.57.04-1-.webp
   - images/whatsapp-image-2026-11-28-at-15.57.04-3-.webp
