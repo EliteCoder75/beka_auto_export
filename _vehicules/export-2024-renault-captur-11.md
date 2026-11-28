@@ -13,5 +13,5 @@ exterior_color: GRIS ARGENT
 interior_color: NOIR
 price: "13200"
 disponibilite: stock
-image: images/sans-titre-18-.png
+image: images/sans-titre-18-.webp
 ---
