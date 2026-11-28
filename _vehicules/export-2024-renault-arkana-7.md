@@ -13,5 +13,5 @@ exterior_color: BLANC
 interior_color: NOIR
 price: "15000"
 disponibilite: stock
-image: images/sans-titre-12-.png
+image: images/sans-titre-12-.webp
 ---
