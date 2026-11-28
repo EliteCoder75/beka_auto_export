@@ -6,7 +6,7 @@ model: ARKANA
 finition: TECHNO
 year: 2024
 kilometrage: "98956"
-transmission: Manuelle
+transmission: Automatique
 motor: 1.3 TCE 140CH
 fuel: Essence
 exterior_color: BLANC
